@@ -1,0 +1,106 @@
+* {
+    color:black;
+}
+
+body {
+    background-color: rgb(255, 255, 0);
+} 
+
+.mymainheading {
+    text-align: center;
+}
+
+h1 {
+    color:red;
+}
+
+p {
+    color:rgb(0, 29, 250);
+}
+
+.randompara {
+    text-align: right;
+}
+
+button {
+    color:black;
+}
+
+#headingtwo {
+    color:black;
+}
+
+.myclass {
+    color:blueviolet;
+}
+
+#box {
+    background-color:blue;
+    /* color:white; */
+}
+
+h1, h2, h3 { /* .heading {  */             /* any of the way to set color*/
+    color: red;
+}
+
+.button1 {            /*meathod1 for problem 1.3*/
+    color:green;
+}
+
+a {
+    text-decoration: none;
+}
+
+#ha1 {
+    font-weight: normal;
+}
+
+#ha2 {
+    font-weight: bold;
+}
+
+#ha3 {
+    font-weight: bolder;
+}
+
+#ha4 {
+    font-weight: lighter;
+}
+
+#one {
+    text-align: center;
+    font-family:'Segoe UI';
+    text-transform: capitalize;            /*to capitalise first word of each letter*/   
+}
+
+#one1 {
+    font-size: 10px;
+    line-height: 50px;
+}
+
+#two2 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#three3 {
+    font-size: 30px;
+    line-height: normal;
+}
+
+#ha5 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+*{
+    font-family: 'Times New Roman';
+}
+
+#outer {
+    font-size: 25px;
+}
+
+#inner {
+    font-size: 10px;
+}

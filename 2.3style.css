@@ -1,0 +1,117 @@
+body {
+    text-align: center;
+}
+
+/* div {
+    height: 100px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+} */
+
+#container {
+    width: 700px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    align-items: flex-start;
+    /* align-content: flex-start; */
+}
+
+#box1 {
+    background-color: aqua;
+    flex-grow: 1;
+}
+
+#box2 {
+    background-color: pink;
+    height: 200px;
+    flex-grow: 2;
+}
+
+#box3 {
+    background-color: darkkhaki;
+    height: 75px;
+}
+
+#box4 {
+    background-color: indianred;
+}
+
+#box5 {
+    background-color: slateblue;
+}
+
+/* div {
+    text-align: left;
+    justify-content: space-evenly;
+    display: inline;
+
+} */
+
+ul {
+    background-color: pink;
+    display: flex;
+}
+
+.navbar {
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+li {
+    list-style-type: none;
+}
+
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner {
+    height: 100px;
+    width: 100px;
+    background-color: darkorchid;
+}
+
+div {
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+}
+
+@media (max-width: 300px) {
+    div {
+        background-color: green;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 400px){
+    div {
+        background-color: pink;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 600px){
+    div {
+        background-color: red;
+    }
+}
+
+@media (min-width: 600px) {
+    div {
+        background-color: blue;
+    }
+}

@@ -1,0 +1,48 @@
+#div0 {
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    border: 5px solid brown;
+    text-align: center;
+    border-radius: 15%;            /*either _px or _%, for circle set 50% as border radius*/
+    margin: 1px 2px 3px 4px;
+}
+
+h1 {
+    background-color: aqua;
+    height: 50px;
+    border: 2px dashed brown;
+    text-align: center;            /*alligns to centre for that box created, not whole screen centre*/
+    padding: 1px 2px 3px 4px;
+}
+
+#problem3 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    border: none;
+}
+
+#div1 {
+    background-color: pink;
+    display: block;
+}
+
+#div2 {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+}
+
+#box3 {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+    /* visibility: hidden; */
+    background-color: rgba(0, 255, 0, 0.4);
+}
