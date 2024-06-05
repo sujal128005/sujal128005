@@ -1,0 +1,309 @@
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--This is my first HTML code-->
+<!DOCTYPE html>       <!--tells browser ou are using HTML5-->
+<html lang="en">       <!--root of an html document-->     
+<head>       <!--container for metadata-->
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">     
+    <title>Document</title>       <!--page title-->
+</head> 
+
+<body>       <!--contains all data render by the browser-->
+    <header>       <!--17. ...-->
+        <pre>
+            <h1>HTML              Basics                ~sujal128005~</h1>
+        </pre>
+    </header>
+    <hr>
+    <hr>
+
+    <p>       <!--paragraph tag-->
+        <b>This</b> <i>is a</i> <u>paragraph</u><!--content-->
+    </p>       <!--element-->
+    <hr>
+    <h1>heading 1</h1>
+    <h2>heading 2</h2>
+    <h3>heading 3</h3>
+    <h4>heading 4</h4>
+    <h5>heading 5</h5>
+    <h6>heading 6</h6>
+    <hr>
+
+    <a href="https://google.com">Google</a>
+    <img src="https://www.google.com/logos/doodles/2024/india-general-elections-2024-ph-5-6753651837110506.2-s.png" alt="Google Logo">
+    <br />
+    <a href="https://www.youtube.com/">Youtube</a>
+    <img src="https://th.bing.com/th?id=ODLS.7acef6ba-54ab-419f-b1c8-837a88c7bfaa&w=32&h=32&qlt=92&pcl=fffffa&o=6&pid=1.2" alt="Youtube Logo">
+    <br />
+    <br />
+    <br />
+    <hr>
+
+    <big>This tag shows Big text</big>
+    <br />
+    <small>This tag shows Small text</small>
+    <hr>
+
+    <p>H<sub>2</sub>O,  C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></p>
+    <p>(A+B)<sup>2</sup>,  A<sup>n</sup>+B</p>
+    <hr>
+
+    <pre>
+        This is my name and I'm a boy
+        and   I like playing cricket and chess
+        and   I'm a big fan of MS Dhoni and Magnus Carlsen
+        and   I love batting in cricket and have 1600 rating in my chess.com account
+    </pre>
+    <hr>
+
+    <a href="https://google.com" target="_main">Google</a>
+    <br />
+    <a href="https://youtube.com" target="_main"> <img src="https://th.bing.com/th?id=ODLS.7acef6ba-54ab-419f-b1c8-837a88c7bfaa&w=32&h=32&qlt=92&pcl=fffffa&o=6&pid=1.2" alt="Youtube Logo" height="100"></a>
+    <hr>
+    <hr>
+
+    <main>       <!--17. ...-->
+        <section>education: IIITDMK (ME) | School (KV)</section>
+        <article>my story: I belong to Himachal Pradesh, My father is... </article>
+        <aside>This is an ad</aside>
+        <hr>
+
+        <div>
+            <p>Div is a BLOCK element- Hello</p>
+            <p>Div is a BLOCK element- Hi</p>
+            <p>Div is a BLOCK element- Namaste</p>
+        </div>
+        <span>Span is a Inline element- Goodbye</span>
+        <hr>
+
+        <ul>
+            <li>Apple</li>
+                <ol>
+                    <li>color: red</li>
+                    <li>season: winters</li>
+                </ol>
+            <li>Mango</li>
+                <ul>
+                    <li>color: yellow</li>
+                    <li>season: summers</li>
+                </ul>
+        </ul>
+        <hr>
+        <ol>
+            <li>Apple</li>
+                <ol>
+                    <li>color: red</li>
+                    <li>season: winters</li>
+                </ol>
+            <li>Mango</li>
+                <ul>
+                    <li>color: yellow</li>
+                    <li>season: summers</li>
+                </ul>
+            </ol>
+
+        <table>
+            <thead>
+                <caption>Student Data</caption>
+                <tr>
+                    <!--<th colspan="2">Information</th>--> 
+                    <th>Name</th>
+                    <th>Roll No.</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Sujal Negi</td>
+                    <td>123ME0023</td>
+                </tr>
+                <tr>
+                    <td>Aryan Singh</td>
+                    <td>123ME0009</td>
+                </tr>
+            </tbody>
+        </table>
+        <hr>
+
+        <h3>Registration Form</h3><form action="/action.php">
+            <h5>Enter Detail</h5>
+            <input type="text" placeholder="username">
+            <br>
+            <input type="password" placeholder="password">
+            <br>
+            <br>
+
+            <h5>Select your Class</h5>
+            <label for="101">
+                <input type="radio" value="class XI" name="class" id="101">class XI 
+            </label>
+            <br>
+            <label for="102">
+                <input type="radio" value="class XII" name="class" id="102">class XII
+            </label>
+            <br>
+            <br>
+
+            <h5>Select your subject</h5>
+            <label for="math">
+                <input type="checkbox" value="math" name="Subject" id=1001>Math
+            </label> 
+            <br>
+            <label for="phy">
+                <input type="checkbox" value="phy" name="Subject" id=1002>Physics
+            </label>
+            <br>
+            <label for="chem">
+                <input type="checkbox" value="chem" name="Subject" id=1003>Chemistry
+            </label>
+            <br>
+            <label for="bio">
+                <input type="checkbox" value="bio" name="Subject" id=1004>Biology
+            </label>
+            <br>
+            <br>
+
+            <h5>Select your City</h5>
+            <select name="city" id="city">
+                <option value="Delhi">Delhi</option>
+                <option value="Mumbai">Mumbai</option>
+                <option value="Pune">Pune</option>
+            </select>
+            <br>
+            <br>
+
+            <h5>Feedback box:</h5>
+            <textarea name="feedback" id="10001" placeholder="Please give your valueable feedback here" rows="5"></textarea>
+            <br>
+            <br>
+
+            <input type="Submit" value="Submit">
+            <br>
+            <br>
+
+            <iframe width="356" height="200" src="https://www.youtube.com/embed/HcOc7P5BMi4?si=oryYXkA9YpkH6apS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <br>
+            <br>
+
+            <video src="myVid.mp4" width="356" height="200" controls loop>My Video</video>
+            <br>
+            <br>
+        </form>
+    </main>
+    <hr>
+    <hr>
+
+    <footer>       <!--17. ...-->
+        <h5>conntonegisujal@outlook.com</h5>
+    </footer>
+</body>      
+</html>      
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<!--Other points about HTML: -->
+  <!--1. This is an HTML comment-->
+  <!--2. <html>=<HTML>, <p>=<P>, <head>=<HEAD>, <body>=<BODY> (i.e. HTML is not case sensitive)-->
+  <!--3. HTML tag is parent of head & body tag-->
+  <!--4. Most of HTML elements have opening & closing tags with content in between-->
+  <!--5. Some tags have no content in between, eg- '<br />' for next line & is empty tag-->
+  <!--6. We can use inspect element/view page source to edit html-->
+  <!--7. HTML Attributes: line3 lang(is attribute)="en"(is attributes value); en=english language, & attributes are used to add more information to the tag-->
+  <!--8. Heading Tag: Used to display headings in HTML; h1(most imp), h2, h3, h4, h5, h6(least imp); USE HEADING TAG FOR SHOWING IMPORTANCE, NOT FOR MANAGING SIZE(for size you can use 'font' property)-->
+  <!--9. Paragraph Tag: Used to add paragraphs in HTML-->
+  <!--10. Anchor Tag: Used to add links to your page;
+                                **<a href="https://google.com">Google</a>, is called absolute link because we are applying link of other websites.
+                                **<a href="/if_folder/your_own_html_other_webpages.html">My Linked Page</a>, is called relative link because we are linking to our own webpage-->
+  <!--11. Image Tag: Used to add images to your page
+                                <img src="/image.png alt="Random Image">, src= source & alt= will show what image is there when server/internet/any issue-->
+  <!--12. <b>Bold</b>, <i>Italic</i>, <u>Underline</u>-->
+  <!--13. Big & Small Tags: Used to display big & small text on your page;
+                                **<big>Big</big>
+                                **<small>Small</small>-->
+  <!--14. Hr Tag: Used to display a horizontal ruler, used to seperate content;
+                                **<hr>-->
+  <!--15. Subscript & Supersubscript Tag: Used when we need to add eg. chemestry formula or maths formula,
+                                eg. H2O/C6H12O6 **<sub>subscript</sub> or
+                                (A+B)^2/A^n+B **<sup>supersript</sup>-->
+  <!--16. Pre Tag: Used to display text as it is(without ignoring spaces & next line)
+                                <pre> This
+                                    is a sample
+                                    text
+                                  </pre>-->
+  <!--17. <header></header>, <main></main>, <footer></footer>-->
+  <!--18. Inside Main Tag: **Section tag: For a selction on your page <section>,
+                                **Article Tag: For an article on your page <article>
+                                **Aside Tag: For content aside main contents(ads) <aside>-->
+  <!--19. Revisiting Anchor Tag(<!-10....>);
+                                *<a href="https://google.com" target(for new tab)="_main"> Google </a>
+                                *<a href="https://youtube.com" > <img src(clickable pic)="link"> Youtube </a>-->
+  <!--20. Revisiting Image Tag(<!-11....>);
+                                *<img src="link" height(set height)=50px>
+                                *<img src="link" width(set width)=50px>-->
+  <!--21. Div Tag(non-semantic): Div is a container used for other HTML elements
+                                BLOCK Element (takes full width)-->
+  <!--22. Span Tag: Span is also container used for other HTML elements
+                                Inline Element (takes width as per size)-->
+  <!--23. List in HTML: Lists are used to represent real life list data;
+                                **unordered:  <ul>
+                                                <li>Apple</li>
+                                                <li>Mango</li>
+                                              </ul>
+                                **ordered: <ol>
+                                               <li>Apple</li>
+                                               <li>Mango</li>
+                                            </ol>-->
+  <!--24. Tables in HTML: Tables are used to represent real life tables data;
+                                **<tr>: table row
+                                **<td>: table data
+                                **<th> table header
+                                **<caption></caption>
+                                **<thead> to wrap table head
+                                **<tbody> to wrap table body
+                                **<th colspan="number_of_coloumn"></th> to merge two coloumns with one data eg. Information where Name and Roll No. (see line 100)-->
+  <!--25. Forms in HTML: Forms are used to collect data from the user eg. sign up/login/help requests/contact me
+                                <form>
+                                    form content
+                                </form-->
+  <!--26. Action in Form: Action attribute is used to define what action needs to be performed when a form is submitted <form action="/action.php">:
+                                **Form Element: Input; <input type="text" placeholder="Enter Name">  
+                                **Label:
+                                        *<label for="id1">
+                                            <input type="radio" value="class X" name="class" id=id1>
+                                        </label> 
+                                        *<label for="id2">
+                                            <input type="radio" value="class X" name="class" id=id2>
+                                        </label> 
+                                **Class & Id:
+                                        *<div id="id1" class="group1">
+                                        </div>
+                                        *<div id="id2" class="group1">
+                                        </div>
+                                **Checkboxe:
+                                        *<label for="id1">
+                                            <input type="checkbox" value="class X" name="class" id=id3>
+                                        </label>
+                                        *<label for="id2">
+                                            <input type="checkbox" value="class X" name="class" id=id4>
+                                        </label> 
+                                **Dropdownbox: 
+                                        *<select name="city" id="city">
+                                            <option value="Delhi">Delhi</option>
+                                            <option value="Mumbai">Mumbai</option>
+                                            <option value="Pune">Pune</option>
+                                        </select>
+                                **Feedback:
+                                        *<textarea name="feedback" id="id5" placeholder="Please give your feedback here" rows="5">Feedback</textarea>-->
+  <!--27. iframe Tag: website inside website
+                                <iframe src="link">-->
+  <!--28. Video Tag:
+                                **<video src="myVid.mp4" width="356" height="200" controls loop>My Video</video>
+                                **Attributes:
+                                        *-controls
+                                        *-height
+                                        *-width
+                                        *-loop
+                                        *-autoplay-->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------------------->
