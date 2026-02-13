@@ -1,4 +1,4 @@
-# Hi, I'm Sujal Negi <img src="https://media.giphy.com/media/hvRJCLzdzTCW4/giphy.gif" width="25px">
+# Hi, I'm Sujal Negi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 **Mechanical Engineering Undergrad | Technical Visionary | 10x Published Author**
 
