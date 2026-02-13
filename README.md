@@ -25,7 +25,7 @@ I specialize in the end-to-end development of autonomous systems, synthesizing r
 ---
 
 ### 📈 Connect with Me
-- 🌐 [Portfolio: sujal.tech]([https://sujal.tech](https://sujalnegi.tech/))
+- 🌐 [Portfolio: sujal.tech](https://sujalnegi.tech)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sujalnegi128005/)
 - 📧 Reach me at: [@sujal.tech](offsujal1298005@gmail.com)
 
