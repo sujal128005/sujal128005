@@ -1,4 +1,4 @@
-# Hi, I'm Sujal Negi 👋 
+# Hi, I'm Sujal Negi 👋🏻 
 
 **Mechanical Engineering Undergrad | Technical Visionary | 10x Published Author**
 
