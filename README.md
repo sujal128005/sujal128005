@@ -1,4 +1,4 @@
-# Hi, I'm Sujal Negi 👋🏻 
+# Hi, I'm Sujal Negi <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="30px"> 
 
 **Mechanical Engineering Undergrad | Technical Visionary | 10x Published Author**
 
