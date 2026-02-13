@@ -25,8 +25,8 @@ I specialize in the end-to-end development of autonomous systems, synthesizing r
 ---
 
 ### 📈 Connect with Me
-- 🌐 [Portfolio: sujal.tech](https://sujal.tech)
-- 💼 [LinkedIn](https://linkedin.com/in/sujalnegi)
+- 🌐 [Portfolio: sujal.tech]([https://sujal.tech](https://sujalnegi.tech/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/sujalnegi128005/)
 - 📧 Reach me at: [@sujal.tech](offsujal1298005@gmail.com)
 
 *"Engineering provides the logic, but literature provides the soul."*
