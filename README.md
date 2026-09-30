@@ -88,8 +88,25 @@
 
 </div>
 
-_Filled in on the first sync._
+| Repo | Latest commit | When |
+|:--|:--|--:|
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 9 h ago |
+| [**limen**](https://github.com/sujal128005/limen) | [`8025aa8`](https://github.com/sujal128005/limen/commit/8025aa87fff28a9ee3c48cca012d07e64f980f4c) Make the external supplier feed work, and delete the duplicated test suite | 4 d ago |
+| [**jeeultimate2.0**](https://github.com/sujal128005/jeeultimate2.0) | [`783d398`](https://github.com/sujal128005/jeeultimate2.0/commit/783d3980dc56fb7916c6a8857cb058109ed4b61c) Colleges data and icons, workspace login, light chat, counselling split | 6 d ago |
+| [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 17 d ago |
+| [**Covenant**](https://github.com/sujal128005/Covenant) | [`abec123`](https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396) Fix link format for technical documentation PDF | 1 mo ago |
+| [**khata**](https://github.com/sujal128005/khata) | [`7fb1c52`](https://github.com/sujal128005/khata/commit/7fb1c52944dbf584c21578b36207b66b719fddc1) Reorganize 'Built by' section in README.md | 1 mo ago |
 
+| Also on the bench | What it is | Stack |
+|:--|:--|:--|
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
+| [**jeeultimate2.0**](https://github.com/sujal128005/jeeultimate2.0) · [live](https://jeeultimate2-0.vercel.app) | — | TypeScript |
+| [**apix**](https://github.com/sujal128005/apix) | — | Python |
+| [**Covenant**](https://github.com/sujal128005/Covenant) · [live](https://covenant-j1op.onrender.com) | Covenant is an AI procurement agent with on-chain spending controls. It helps businesses source physical goods, compare suppliers, negotiate prices, and execute purchases while keeping the spending limit outside the agent's control. | JavaScript |
+| [**Navya--Nexara9**](https://github.com/sujal128005/Navya--Nexara9) | Project | Python |
+| [**Navyam**](https://github.com/sujal128005/Navyam) | — | — |
+| [**finance_backend**](https://github.com/sujal128005/finance_backend) | — | Python |
+| [**binance-futures-trading-bot**](https://github.com/sujal128005/binance-futures-trading-bot) | A Python-based CLI bot for Binance Futures Testnet with structured logging and modular architecture. | Python |
 
 <br/>
 
@@ -116,6 +133,6 @@ _Filled in on the first sync._
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced pending first run · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 01 Oct 2026, 02:06 IST · rebuilt by GitHub Actions</sub>
 
 </div>
