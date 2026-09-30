@@ -31,6 +31,7 @@ import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
+import hashlib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -1344,7 +1345,7 @@ def write_svg(name: str, content: str) -> str:
     OUT.mkdir(parents=True, exist_ok=True)
     path = OUT / f"{name}.svg"
     path.write_text(content, encoding="utf-8")
-    rel = f"./assets/generated/{name}.svg"
+    rel = f"./assets/generated/{name}.svg?v={hashlib.sha1(content.encode()).hexdigest()[:8]}"
     WRITTEN[name] = rel
     return rel
 
