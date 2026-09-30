@@ -1,0 +1,56 @@
+# Rebuilds the profile README from sujalnegi.tech + live GitHub data.
+# Runs every 6 hours, on every push that touches the builder, and on demand.
+# Works with the built-in GITHUB_TOKEN. Optional: add a PROFILE_TOKEN secret
+# (classic PAT, scopes: read:user, repo) to include private contributions.
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [portfolio-updated]
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "templates/**"
+      - "profile.config.json"
+      - "assets/fonts/**"
+      - ".github/workflows/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build README and images
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/build_profile.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A README.md assets/generated data
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore(profile): sync $(date -u +'%Y-%m-%d %H:%M') UTC [skip ci]"
+            git push
+          fi

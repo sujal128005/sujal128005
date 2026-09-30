@@ -1,146 +1,121 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     SUJAL NEGI · Autonomous Systems & Mechanical Engineer
-     Banner is an animated SVG — LiDAR radar sweeps, wordmark fades in,
-     terminal boots line by line. Renders live on GitHub.
-     ═══════════════════════════════════════════════════════════════ -->
+<!--
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │  GENERATED FILE. Edit templates/README.template.md, not README.md.     │
+  │  Content comes from sujalnegi.tech + the GitHub API and is rebuilt by  │
+  │  .github/workflows/refresh-profile.yml every 6 hours.                  │
+  └──────────────────────────────────────────────────────────────────────┘
+-->
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="SUJAL NEGI — Autonomous Systems Engineer" width="100%"/>
+<a href="https://sujalnegi.tech"><img src="./assets/generated/banner.svg" alt="Sujal Negi: I don&#x27;t start things to try them. I start them to finish them." width="100%"/></a>
 
-<br/>
-
-<a href="https://linkedin.com/in/sujalnegi128005"><img src="https://img.shields.io/badge/LinkedIn-connect-22d3ee?style=for-the-badge&labelColor=04070a&logo=linkedin&logoColor=22d3ee"/></a>
-<a href="mailto:offsujal128005@gmail.com"><img src="https://img.shields.io/badge/Email-reach_out-0e7490?style=for-the-badge&labelColor=04070a&logo=gmail&logoColor=0e7490"/></a>
-<a href="https://github.com/sujal128005"><img src="https://img.shields.io/badge/GitHub-sujal128005-5eead4?style=for-the-badge&labelColor=04070a&logo=github&logoColor=5eead4"/></a>
-<img src="https://komarev.com/ghpvc/?username=sujal128005&style=for-the-badge&color=22d3ee&label=SCANS&labelColor=04070a"/>
+<a href="https://sujalnegi.tech"><img src="./assets/generated/btn-nav-sujalnegi-tech.svg" alt="sujalnegi.tech" height="44"/></a>
+<a href="https://sujalnegi.tech/Sujal_Negi_Resume.pdf"><img src="./assets/generated/btn-nav-resume.svg" alt="Résumé" height="44"/></a>
+<a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-nav-linkedin.svg" alt="LinkedIn" height="44"/></a>
+<a href="https://github.com/sujal128005"><img src="./assets/generated/btn-nav-github.svg" alt="GitHub" height="44"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-nav-email.svg" alt="Email" height="44"/></a>
 
 </div>
 
 <br/>
 
-## `> whoami`
-
-```txt
-Sujal Negi — B.Tech Mechanical Engineering, IIITDM Kurnool (2023–2027)
-Building Level-3 autonomous vehicles & industrial drones.
-Interests: LiDAR · SLAM · Computer Vision · Mechatronics · Control Systems
-Also: Published author of 10 books (pseudonym: alfaazsujalke)
-```
-
-<br/>
-
-## `> arsenal`
-
 <div align="center">
 
-<!-- Languages -->
-![Python](https://img.shields.io/badge/Python-04070a?style=flat-square&logo=python&logoColor=22d3ee)
-![C](https://img.shields.io/badge/C-04070a?style=flat-square&logo=c&logoColor=22d3ee)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-04070a?style=flat-square&logo=html5&logoColor=e34f26)
-&nbsp;&nbsp;
-<!-- Autonomy -->
-![ROS 2](https://img.shields.io/badge/ROS_2-04070a?style=flat-square&logo=ros&logoColor=5eead4)
-![PX4](https://img.shields.io/badge/PX4-04070a?style=flat-square&logo=drone&logoColor=5eead4)
-![Gazebo](https://img.shields.io/badge/Gazebo-04070a?style=flat-square&logo=gazebo&logoColor=5eead4)
-![OpenCV](https://img.shields.io/badge/OpenCV-04070a?style=flat-square&logo=opencv&logoColor=5eead4)
-&nbsp;&nbsp;
-<!-- CAD / Sim -->
-![CATIA](https://img.shields.io/badge/CATIA-04070a?style=flat-square&logo=dassaultsystemes&logoColor=00a3e0)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-04070a?style=flat-square&logo=dassaultsystemes&logoColor=f24e1e)
-![MATLAB](https://img.shields.io/badge/MATLAB-04070a?style=flat-square&logo=mathworks&logoColor=ff7043)
-&nbsp;&nbsp;
-<!-- Data / Tools -->
-![MySQL](https://img.shields.io/badge/MySQL-04070a?style=flat-square&logo=mysql&logoColor=4479a1)
-![MongoDB](https://img.shields.io/badge/MongoDB-04070a?style=flat-square&logo=mongodb&logoColor=47a248)
-![Docker](https://img.shields.io/badge/Docker-04070a?style=flat-square&logo=docker&logoColor=2496ed)
-![Linux](https://img.shields.io/badge/Linux-04070a?style=flat-square&logo=linux&logoColor=fcc624)
-![Git](https://img.shields.io/badge/Git-04070a?style=flat-square&logo=git&logoColor=f05032)
+<a href="https://sujalnegi.tech/#s-about"><img src="./assets/generated/about.svg" alt="Who&#x27;s building this." width="100%"/></a>
+
+<sub>**Building next:** [NEXARA9](https://nexara9.me/), an autonomous-systems venture · **Also:** Author of 10 books in English and Hindi as [alfaazsujalke](https://www.instagram.com/sujal128005/)</sub>
 
 </div>
 
 <br/>
 
-## `> live grid`  <sub><sub>_auto-synced from GitHub_</sub></sub>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sujal128005&show_icons=true&count_private=true&hide_border=true&title_color=22d3ee&icon_color=0e7490&text_color=e6f7fb&bg_color=04070a"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal128005&hide_border=true&background=04070a&stroke=0e7490&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=e6f7fb&dates=9fb3bb&currStreakNum=e6f7fb&sideNums=e6f7fb"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal128005&layout=compact&hide_border=true&title_color=22d3ee&text_color=e6f7fb&bg_color=04070a&langs_count=8"/>
-
-</div>
-
-<!-- Auto-generated by GitHub Action (lowlighter/metrics) on a schedule -->
-<div align="center">
-<img src="./assets/metrics.svg" alt="GitHub metrics" width="100%"/>
-</div>
+<p align="center">
+<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
+<br/>
+<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/btn-limen-open-live-app.svg" alt="Open live app" height="44"/></a>
+<a href="https://github.com/sujal128005/limen"><img src="./assets/generated/btn-limen-read-the-code.svg" alt="Read the code" height="44"/></a>
+</p>
 
 <br/>
 
-## `> deployed`  <sub><sub>_the flagship builds_</sub></sub>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/project-navya.png" alt="Navya — Level-3 Autonomous Vehicle" width="100%"/>
-
-**Navya — Level-3 Autonomous Vehicle**
-Leading a 19-member team building a self-driving vehicle. LiDAR-based SLAM, lane detection, and control systems.
-`Python` `OpenCV` `LiDAR` `SLAM`
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/project-navyam.png" alt="Navyam — Autonomous Drone" width="100%"/>
-
-**Navyam — Autonomous Drone System**
-8-member build for industrial monitoring. PX4 offboard control, a lawnmower search algorithm for 20×20m surveillance, and self-docking recharge (0.5m precision in Gazebo).
-`ROS 2` `PX4` `Gazebo`
-
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/project-khata.svg" alt="Khata: Real-time claim verification for live sales calls. Live, Aug 2026." width="100%"/></a>
+<br/>
+<a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/btn-khata-open-live-app.svg" alt="Open live app" height="44"/></a>
+<a href="https://github.com/sujal128005/khata"><img src="./assets/generated/btn-khata-read-the-code.svg" alt="Read the code" height="44"/></a>
+</p>
 
 <br/>
 
-## `> activity pulse`  <sub><sub>_updates itself_</sub></sub>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal128005&bg_color=04070a&color=22d3ee&line=0e7490&point=c8fff4&area=true&hide_border=true&custom_title=Commit%20Signal" width="100%"/>
-</div>
+<p align="center">
+<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/project-navyam.svg" alt="Navyam: Autonomous drone for industrial monitoring. In development, Dec 2025 to present." width="100%"/></a>
+<br/>
+<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/btn-navyam-run-the-full-simulation.svg" alt="Run the full simulation" height="44"/></a>
+<a href="https://github.com/sujal128005/gps-denied-drone"><img src="./assets/generated/btn-navyam-drone-code.svg" alt="Drone code" height="44"/></a>
+<a href="https://github.com/sujal128005/Navyam-Simulation"><img src="./assets/generated/btn-navyam-simulation-code.svg" alt="Simulation code" height="44"/></a>
+</p>
 
 <br/>
 
-## `> field record`
+<p align="center">
+<a href="https://sujalnegi.tech/Navya.html"><img src="./assets/generated/project-navya.svg" alt="Navya: Autonomous ground vehicle, where I&#x27;m project lead. Field testing, 2025 to present." width="100%"/></a>
+<br/>
+<a href="https://sujalnegi.tech/Navya.html"><img src="./assets/generated/btn-navya-run-the-simulation.svg" alt="Run the simulation" height="44"/></a>
+</p>
+
+<br/>
 
 <div align="center">
 
-| | |
-|---|---|
-| **Club Coordinator** | DataWorks Club (AI/ML & Data Science), IIITDM Kurnool — 600+ participants trained, 40% engagement lift |
-| **Institute SPOC** | Inter-IIIT Tech Meet "Udbhav" — coordinated with 23 SPOCs, ran a hackathon for 350+ students |
-| **Semi-Finalist** | UPAKRITIN Hackathon — NavIC-based crowd management |
-| **Certified** | IBM Data Science Fundamentals · Google Analytics (98.25%) · Agile & Scrum (84%) |
-| **Recognition** | Top 10 Finalist AWA 2024 · #88 in India's Top Poets (S7 Poetry) |
-| **Published Author** | 10 books, English & Hindi literature (pen name: alfaazsujalke) |
+<a href="https://sujalnegi.tech/#s-traction"><img src="./assets/generated/proof.svg" alt="Winner, IBM SkillsBuild Hackathon South Region Finale" width="100%"/></a>
 
 </div>
 
 <br/>
 
-## `> trophies`
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sujal128005&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=22d3ee&text_color=e6f7fb"/>
+
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg" alt="Live GitHub telemetry" width="100%"/></a>
+
 </div>
 
 <br/>
 
 <div align="center">
-<sub>Building at the intersection of <b>mechanical design</b> and <b>autonomous intelligence</b>. From CAD to code to the road.</sub>
+
+<img src="./assets/generated/section-shipped.svg" alt="Recently shipped" width="100%"/>
+
+</div>
+
+_Filled in on the first sync._
+
+
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3844,50:0e7490,100:22d3ee&height=90&section=footer" width="100%"/>
+
+<div align="center">
+
+<a href="https://sujalnegi.tech/#s-teams"><img src="./assets/generated/crew.svg" alt="Teams and events I&#x27;ve run." width="100%"/></a>
+
+<br/><br/>
+
+<a href="https://sujalnegi.tech/#s-playbook"><img src="./assets/generated/playbook.svg" alt="How I operate." width="100%"/></a>
+
+<br/><br/>
+
+<a href="https://sujalnegi.tech/#s-toolkit"><img src="./assets/generated/toolkit.svg" alt="Workbench." width="100%"/></a>
+
+<br/><br/>
+
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg" alt="Let&#x27;s build something." width="100%"/></a>
+
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg" alt="offsujal128005@gmail.com" height="44"/></a>
+<a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg" alt="LinkedIn" height="44"/></a>
+<a href="https://github.com/sujal128005"><img src="./assets/generated/btn-contact-github.svg" alt="GitHub" height="44"/></a>
+<a href="https://sujalnegi.tech/Sujal_Negi_Resume.pdf"><img src="./assets/generated/btn-contact-resume.svg" alt="Résumé" height="44"/></a>
+
+<br/><br/>
+
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced pending first run · rebuilt by GitHub Actions</sub>
+
 </div>

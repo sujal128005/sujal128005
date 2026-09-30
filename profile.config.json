@@ -1,0 +1,21 @@
+{
+  "user": "sujal128005",
+  "portfolio_url": "https://sujalnegi.tech/",
+  "portfolio_label": "sujalnegi.tech",
+  "portfolio_sources": [
+    "https://sujalnegi.tech/",
+    "https://raw.githubusercontent.com/sujal128005/sujalnegi.github.io/HEAD/index.html"
+  ],
+  "board_note": "Live apps sleep on free hosting, so give them a few seconds to wake. This list mirrors sujalnegi.tech.",
+  "utc_offset_minutes": 330,
+  "refresh_label": "6 hours",
+  "embed_portrait": true,
+  "show_phone": false,
+  "exclude_repos": [
+    "sujal128005"
+  ],
+  "language_ignore": [],
+  "language_repo_limit": 40,
+  "recent_limit": 6,
+  "bench_limit": 8
+}
