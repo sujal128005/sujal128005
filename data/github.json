@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-01T02:06+05:30",
+  "fetched_at": "2026-10-01T02:17+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 19,
+    "public_repos": 20,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -171,20 +171,20 @@
   },
   "languages": [
     [
-      "JavaScript",
-      1728629
+      "TypeScript",
+      2132718
     ],
     [
-      "TypeScript",
-      1456273
+      "JavaScript",
+      1729188
     ],
     [
       "Python",
-      1400944
+      1401010
     ],
     [
       "CSS",
-      434001
+      445619
     ],
     [
       "HTML",
@@ -273,6 +273,19 @@
       "pushed_at": "2026-09-13T18:28:52Z"
     },
     {
+      "name": "bouncerkya",
+      "full": "sujal128005/bouncerkya",
+      "url": "https://github.com/sujal128005/bouncerkya",
+      "commits": 10,
+      "latest": {
+        "sha": "337d28c",
+        "message": "Complete project updates and fixes",
+        "date": "2026-09-01T13:37:21Z",
+        "url": "https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93"
+      },
+      "pushed_at": "2026-09-01T13:37:32Z"
+    },
+    {
       "name": "Covenant",
       "full": "sujal128005/Covenant",
       "url": "https://github.com/sujal128005/Covenant",
@@ -284,19 +297,6 @@
         "url": "https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396"
       },
       "pushed_at": "2026-08-19T05:03:07Z"
-    },
-    {
-      "name": "khata",
-      "full": "sujal128005/khata",
-      "url": "https://github.com/sujal128005/khata",
-      "commits": 18,
-      "latest": {
-        "sha": "7fb1c52",
-        "message": "Reorganize 'Built by' section in README.md",
-        "date": "2026-08-08T07:17:30Z",
-        "url": "https://github.com/sujal128005/khata/commit/7fb1c52944dbf584c21578b36207b66b719fddc1"
-      },
-      "pushed_at": "2026-08-08T07:17:30Z"
     }
   ],
   "bench": [
@@ -328,6 +328,16 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-09-13T18:28:52Z",
+      "archived": false
+    },
+    {
+      "name": "bouncerkya",
+      "url": "https://github.com/sujal128005/bouncerkya",
+      "description": "Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human.",
+      "language": "TypeScript",
+      "stars": 0,
+      "homepage": "https://bouncerkya.onrender.com",
+      "pushed_at": "2026-09-01T13:37:32Z",
       "archived": false
     },
     {
@@ -369,27 +379,17 @@
       "homepage": "",
       "pushed_at": "2026-04-04T16:39:01Z",
       "archived": false
-    },
-    {
-      "name": "binance-futures-trading-bot",
-      "url": "https://github.com/sujal128005/binance-futures-trading-bot",
-      "description": "A Python-based CLI bot for Binance Futures Testnet with structured logging and modular architecture.",
-      "language": "Python",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-02-13T11:14:02Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 276,
-    "commits": 258,
+    "total": 287,
+    "commits": 268,
     "prs": 0,
     "issues": 0,
     "reviews": 0,
     "private": 0,
     "streak": 1,
-    "longest": 5,
+    "longest": 6,
     "days": [
       [
         "2025-09-28",
@@ -1741,11 +1741,11 @@
       ],
       [
         "2026-08-31",
-        0
+        8
       ],
       [
         "2026-09-01",
-        1
+        4
       ],
       [
         "2026-09-02",
