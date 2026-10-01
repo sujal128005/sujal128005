@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=9b96d7bc" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
+<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=a58038d0" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
 <br/>
 <a href="https://limen-peqe.onrender.com"><img src="./assets/generated/btn-limen-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/limen"><img src="./assets/generated/btn-limen-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -49,7 +49,7 @@
 <br/>
 
 <p align="center">
-<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/project-navyam.svg?v=23495f03" alt="Navyam: Autonomous drone for industrial monitoring. In development, Dec 2025 to present." width="100%"/></a>
+<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/project-navyam.svg?v=ccdc2bc1" alt="Navyam: Autonomous drone for industrial monitoring. In development, Dec 2025 to present." width="100%"/></a>
 <br/>
 <a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/btn-navyam-run-the-full-simulation.svg?v=2b685a66" alt="Run the full simulation" height="44"/></a>
 <a href="https://github.com/sujal128005/gps-denied-drone"><img src="./assets/generated/btn-navyam-drone-code.svg?v=187f0df0" alt="Drone code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=1fda4832" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=1974a2b3" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,9 +90,9 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 9 h ago |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 18 h ago |
 | [**limen**](https://github.com/sujal128005/limen) | [`8025aa8`](https://github.com/sujal128005/limen/commit/8025aa87fff28a9ee3c48cca012d07e64f980f4c) Make the external supplier feed work, and delete the duplicated test suite | 4 d ago |
-| [**jeeultimate2.0**](https://github.com/sujal128005/jeeultimate2.0) | [`783d398`](https://github.com/sujal128005/jeeultimate2.0/commit/783d3980dc56fb7916c6a8857cb058109ed4b61c) Colleges data and icons, workspace login, light chat, counselling split | 6 d ago |
+| [**jeeultimate2.0**](https://github.com/sujal128005/jeeultimate2.0) | [`783d398`](https://github.com/sujal128005/jeeultimate2.0/commit/783d3980dc56fb7916c6a8857cb058109ed4b61c) Colleges data and icons, workspace login, light chat, counselling split | 7 d ago |
 | [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 17 d ago |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`337d28c`](https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93) Complete project updates and fixes | 29 d ago |
 | [**Covenant**](https://github.com/sujal128005/Covenant) | [`abec123`](https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396) Fix link format for technical documentation PDF | 1 mo ago |
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 01 Oct 2026, 02:17 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 01 Oct 2026, 11:38 IST · rebuilt by GitHub Actions</sub>
 
 </div>
