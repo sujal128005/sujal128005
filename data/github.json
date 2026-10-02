@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-02T18:20+05:30",
+  "fetched_at": "2026-10-03T03:51+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 20,
+    "public_repos": 19,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -171,20 +171,20 @@
   },
   "languages": [
     [
-      "TypeScript",
-      2132718
-    ],
-    [
       "JavaScript",
-      1729188
+      1727174
     ],
     [
       "Python",
       1401010
     ],
     [
+      "TypeScript",
+      1131823
+    ],
+    [
       "CSS",
-      445619
+      386721
     ],
     [
       "HTML",
@@ -205,10 +205,6 @@
     [
       "C++",
       1826
-    ],
-    [
-      "Batchfile",
-      1601
     ],
     [
       "CMake",
@@ -245,19 +241,6 @@
         "url": "https://github.com/sujal128005/limen/commit/8025aa87fff28a9ee3c48cca012d07e64f980f4c"
       },
       "pushed_at": "2026-09-26T07:47:47Z"
-    },
-    {
-      "name": "jeeultimate2.0",
-      "full": "sujal128005/jeeultimate2.0",
-      "url": "https://github.com/sujal128005/jeeultimate2.0",
-      "commits": 18,
-      "latest": {
-        "sha": "783d398",
-        "message": "Colleges data and icons, workspace login, light chat, counselling split",
-        "date": "2026-09-24T03:53:54Z",
-        "url": "https://github.com/sujal128005/jeeultimate2.0/commit/783d3980dc56fb7916c6a8857cb058109ed4b61c"
-      },
-      "pushed_at": "2026-09-24T03:53:58Z"
     },
     {
       "name": "apix",
@@ -297,6 +280,19 @@
         "url": "https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396"
       },
       "pushed_at": "2026-08-19T05:03:07Z"
+    },
+    {
+      "name": "khata",
+      "full": "sujal128005/khata",
+      "url": "https://github.com/sujal128005/khata",
+      "commits": 18,
+      "latest": {
+        "sha": "7fb1c52",
+        "message": "Reorganize 'Built by' section in README.md",
+        "date": "2026-08-08T07:17:30Z",
+        "url": "https://github.com/sujal128005/khata/commit/7fb1c52944dbf584c21578b36207b66b719fddc1"
+      },
+      "pushed_at": "2026-08-08T07:17:30Z"
     }
   ],
   "bench": [
@@ -308,16 +304,6 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-09-30T11:33:24Z",
-      "archived": false
-    },
-    {
-      "name": "jeeultimate2.0",
-      "url": "https://github.com/sujal128005/jeeultimate2.0",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "https://jeeultimate2-0.vercel.app",
-      "pushed_at": "2026-09-24T03:53:58Z",
       "archived": false
     },
     {
@@ -379,11 +365,21 @@
       "homepage": "",
       "pushed_at": "2026-04-04T16:39:01Z",
       "archived": false
+    },
+    {
+      "name": "binance-futures-trading-bot",
+      "url": "https://github.com/sujal128005/binance-futures-trading-bot",
+      "description": "A Python-based CLI bot for Binance Futures Testnet with structured logging and modular architecture.",
+      "language": "Python",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-02-13T11:14:02Z",
+      "archived": false
     }
   ],
   "calendar": {
-    "total": 288,
-    "commits": 269,
+    "total": 269,
+    "commits": 251,
     "prs": 0,
     "issues": 0,
     "reviews": 0,
@@ -1809,15 +1805,15 @@
       ],
       [
         "2026-09-17",
-        9
+        0
       ],
       [
         "2026-09-18",
-        10
+        5
       ],
       [
         "2026-09-19",
-        4
+        0
       ],
       [
         "2026-09-20",
@@ -1837,7 +1833,7 @@
       ],
       [
         "2026-09-24",
-        1
+        0
       ],
       [
         "2026-09-25",
