@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=0c319ade" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
+<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=4b53ac9e" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
 <br/>
 <a href="https://limen-peqe.onrender.com"><img src="./assets/generated/btn-limen-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/limen"><img src="./assets/generated/btn-limen-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=10f6a4a8" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=452dc090" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,9 +90,9 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**limen**](https://github.com/sujal128005/limen) | [`b2f9985`](https://github.com/sujal128005/limen/commit/b2f9985c63d7a81415f99f3f221b819f0d17f348) Give the buyer a company, in two halves that cannot be confused | 4 h ago |
+| [**limen**](https://github.com/sujal128005/limen) | [`b2f9985`](https://github.com/sujal128005/limen/commit/b2f9985c63d7a81415f99f3f221b819f0d17f348) Give the buyer a company, in two halves that cannot be confused | 9 h ago |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 3 d ago |
-| [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 19 d ago |
+| [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 20 d ago |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`337d28c`](https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93) Complete project updates and fixes | 1 mo ago |
 | [**Covenant**](https://github.com/sujal128005/Covenant) | [`abec123`](https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396) Fix link format for technical documentation PDF | 1 mo ago |
 | [**khata**](https://github.com/sujal128005/khata) | [`7fb1c52`](https://github.com/sujal128005/khata/commit/7fb1c52944dbf584c21578b36207b66b719fddc1) Reorganize 'Built by' section in README.md | 1 mo ago |
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=1ec5726f" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=7a8471ac" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 03 Oct 2026, 22:00 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 04 Oct 2026, 02:57 IST · rebuilt by GitHub Actions</sub>
 
 </div>
