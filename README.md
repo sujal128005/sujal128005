@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=6fd1213c" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
+<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=e28e81b4" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
 <br/>
 <a href="https://limen-peqe.onrender.com"><img src="./assets/generated/btn-limen-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/limen"><img src="./assets/generated/btn-limen-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -40,7 +40,7 @@
 <br/>
 
 <p align="center">
-<a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/project-khata.svg?v=68b007ed" alt="Khata: Real-time claim verification for live sales calls. Live, Aug 2026." width="100%"/></a>
+<a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/project-khata.svg?v=19bd38dc" alt="Khata: Real-time claim verification for live sales calls. Live, Aug 2026." width="100%"/></a>
 <br/>
 <a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/btn-khata-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/khata"><img src="./assets/generated/btn-khata-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -49,7 +49,7 @@
 <br/>
 
 <p align="center">
-<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/project-navyam.svg?v=ccdc2bc1" alt="Navyam: Autonomous drone for industrial monitoring. In development, Dec 2025 to present." width="100%"/></a>
+<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/project-navyam.svg?v=38915286" alt="Navyam: Autonomous drone for industrial monitoring. In development, Dec 2025 to present." width="100%"/></a>
 <br/>
 <a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/btn-navyam-run-the-full-simulation.svg?v=2b685a66" alt="Run the full simulation" height="44"/></a>
 <a href="https://github.com/sujal128005/gps-denied-drone"><img src="./assets/generated/btn-navyam-drone-code.svg?v=187f0df0" alt="Drone code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=fce68683" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=6116da11" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 03 Oct 2026, 03:51 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 03 Oct 2026, 10:57 IST · rebuilt by GitHub Actions</sub>
 
 </div>
