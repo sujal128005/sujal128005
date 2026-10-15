@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T22:40+05:30",
+  "fetched_at": "2026-10-16T03:01+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -172,15 +172,15 @@
   "languages": [
     [
       "JavaScript",
-      2189136
+      2211148
+    ],
+    [
+      "TypeScript",
+      1487272
     ],
     [
       "Python",
       1401010
-    ],
-    [
-      "TypeScript",
-      1131823
     ],
     [
       "CSS",
@@ -216,6 +216,19 @@
     ]
   ],
   "recent": [
+    {
+      "name": "housefi",
+      "full": "sujal128005/housefi",
+      "url": "https://github.com/sujal128005/housefi",
+      "commits": 8,
+      "latest": {
+        "sha": "4288807",
+        "message": "CI journeys: print the device's app-error log on failure; queue CI runs instead of cancelling them",
+        "date": "2026-10-15T20:49:46Z",
+        "url": "https://github.com/sujal128005/housefi/commit/4288807e7c13b7e3326fe0bb2998c5f2eed9c932"
+      },
+      "pushed_at": "2026-10-15T20:49:49Z"
+    },
     {
       "name": "limen",
       "full": "sujal128005/limen",
@@ -280,19 +293,6 @@
         "url": "https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396"
       },
       "pushed_at": "2026-08-19T05:03:07Z"
-    },
-    {
-      "name": "khata",
-      "full": "sujal128005/khata",
-      "url": "https://github.com/sujal128005/khata",
-      "commits": 18,
-      "latest": {
-        "sha": "7fb1c52",
-        "message": "Reorganize 'Built by' section in README.md",
-        "date": "2026-08-08T07:17:30Z",
-        "url": "https://github.com/sujal128005/khata/commit/7fb1c52944dbf584c21578b36207b66b719fddc1"
-      },
-      "pushed_at": "2026-08-08T07:17:30Z"
     }
   ],
   "bench": [
@@ -300,10 +300,10 @@
       "name": "housefi",
       "url": "https://github.com/sujal128005/housefi",
       "description": "",
-      "language": "",
+      "language": "TypeScript",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-15T15:04:24Z",
+      "pushed_at": "2026-10-15T20:49:49Z",
       "archived": false
     },
     {
