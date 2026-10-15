@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-15T17:12+05:30",
+  "fetched_at": "2026-10-15T22:40+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 19,
+    "public_repos": 20,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -297,6 +297,16 @@
   ],
   "bench": [
     {
+      "name": "housefi",
+      "url": "https://github.com/sujal128005/housefi",
+      "description": "",
+      "language": "",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-15T15:04:24Z",
+      "archived": false
+    },
+    {
       "name": "sujalnegi.github.io",
       "url": "https://github.com/sujal128005/sujalnegi.github.io",
       "description": "Portfolio",
@@ -365,26 +375,16 @@
       "homepage": "",
       "pushed_at": "2026-04-04T16:39:01Z",
       "archived": false
-    },
-    {
-      "name": "binance-futures-trading-bot",
-      "url": "https://github.com/sujal128005/binance-futures-trading-bot",
-      "description": "A Python-based CLI bot for Binance Futures Testnet with structured logging and modular architecture.",
-      "language": "Python",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-02-13T11:14:02Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 279,
-    "commits": 248,
-    "prs": 13,
+    "total": 250,
+    "commits": 231,
+    "prs": 0,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 3,
+    "streak": 1,
     "longest": 6,
     "days": [
       [
@@ -1833,15 +1833,15 @@
       ],
       [
         "2026-10-08",
-        7
+        0
       ],
       [
         "2026-10-09",
-        17
+        0
       ],
       [
         "2026-10-10",
-        2
+        0
       ],
       [
         "2026-10-11",
@@ -1853,11 +1853,11 @@
       ],
       [
         "2026-10-13",
-        1
+        0
       ],
       [
         "2026-10-14",
-        2
+        0
       ],
       [
         "2026-10-15",

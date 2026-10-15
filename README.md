@@ -49,7 +49,7 @@
 <br/>
 
 <p align="center">
-<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/project-navyam.svg?v=4c08fff0" alt="Navyam: Autonomous drone for industrial monitoring. In development, Dec 2025 to present." width="100%"/></a>
+<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/project-navyam.svg?v=8fcd6c27" alt="Navyam: Autonomous drone for industrial monitoring. In development, Dec 2025 to present." width="100%"/></a>
 <br/>
 <a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/btn-navyam-run-the-full-simulation.svg?v=2b685a66" alt="Run the full simulation" height="44"/></a>
 <a href="https://github.com/sujal128005/gps-denied-drone"><img src="./assets/generated/btn-navyam-drone-code.svg?v=187f0df0" alt="Drone code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=e95a3b01" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=c928c667" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -99,6 +99,7 @@
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
+| [**housefi**](https://github.com/sujal128005/housefi) | — | — |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
 | [**apix**](https://github.com/sujal128005/apix) | — | Python |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
@@ -106,7 +107,6 @@
 | [**Navya--Nexara9**](https://github.com/sujal128005/Navya--Nexara9) | Project | Python |
 | [**Navyam**](https://github.com/sujal128005/Navyam) | — | — |
 | [**finance_backend**](https://github.com/sujal128005/finance_backend) | — | Python |
-| [**binance-futures-trading-bot**](https://github.com/sujal128005/binance-futures-trading-bot) | A Python-based CLI bot for Binance Futures Testnet with structured logging and modular architecture. | Python |
 
 <br/>
 
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 15 Oct 2026, 17:12 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 15 Oct 2026, 22:40 IST · rebuilt by GitHub Actions</sub>
 
 </div>
