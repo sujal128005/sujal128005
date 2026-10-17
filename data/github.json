@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T16:26+05:30",
+  "fetched_at": "2026-10-17T21:13+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -172,11 +172,11 @@
   "languages": [
     [
       "JavaScript",
-      2225613
+      2227210
     ],
     [
       "TypeScript",
-      2005227
+      2062387
     ],
     [
       "Python",
@@ -220,14 +220,14 @@
       "name": "housefi",
       "full": "sujal128005/housefi",
       "url": "https://github.com/sujal128005/housefi",
-      "commits": 21,
+      "commits": 25,
       "latest": {
-        "sha": "b12ac39",
-        "message": "Frontend complete: stopgap illustrations, review leftovers, welcome pager fix, final screenshots",
-        "date": "2026-10-17T09:35:09Z",
-        "url": "https://github.com/sujal128005/housefi/commit/b12ac3906111936b9e8643319752a30972e33de8"
+        "sha": "ad95c41",
+        "message": "Phone-call job offers for technicians without smartphones: requirements",
+        "date": "2026-10-17T13:09:00Z",
+        "url": "https://github.com/sujal128005/housefi/commit/ad95c41bf66855eb10ac1002a450bbd0adec1200"
       },
-      "pushed_at": "2026-10-17T09:35:26Z"
+      "pushed_at": "2026-10-17T13:09:06Z"
     },
     {
       "name": "limen",
@@ -303,7 +303,7 @@
       "language": "TypeScript",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-17T09:35:26Z",
+      "pushed_at": "2026-10-17T13:09:06Z",
       "archived": false
     },
     {
@@ -378,8 +378,8 @@
     }
   ],
   "calendar": {
-    "total": 271,
-    "commits": 252,
+    "total": 275,
+    "commits": 256,
     "prs": 0,
     "issues": 0,
     "reviews": 0,
@@ -1869,7 +1869,7 @@
       ],
       [
         "2026-10-17",
-        7
+        11
       ]
     ]
   }
