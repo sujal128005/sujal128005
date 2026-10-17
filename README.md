@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=066fe2e2" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=f6c3de53" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,7 +90,7 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**housefi**](https://github.com/sujal128005/housefi) | [`e8aba2d`](https://github.com/sujal128005/housefi/commit/e8aba2dfb0f6bd761e11e5fdc60cf92356865fd8) Report: CI result | 3 h ago |
+| [**housefi**](https://github.com/sujal128005/housefi) | [`b12ac39`](https://github.com/sujal128005/housefi/commit/b12ac3906111936b9e8643319752a30972e33de8) Frontend complete: stopgap illustrations, review leftovers, welcome pager fix, final screenshots | 1 h ago |
 | [**limen**](https://github.com/sujal128005/limen) | [`468a004`](https://github.com/sujal128005/limen/commit/468a00457ad79de5518c90f8a254f756bbf837e0) Let a company have more than one purchase, and one policy over all of them | 13 d ago |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 16 d ago |
 | [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 1 mo ago |
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 17 Oct 2026, 10:10 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 17 Oct 2026, 16:26 IST · rebuilt by GitHub Actions</sub>
 
 </div>
