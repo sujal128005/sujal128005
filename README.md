@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=fd1bde0e" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=8426d1cd" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,15 +90,16 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**housefi**](https://github.com/sujal128005/housefi) | [`749f9b3`](https://github.com/sujal128005/housefi/commit/749f9b3fea1662d192603eb62c9d16b280c15a05) Code review fixes: idempotent booking and payment, +91 numbers, failed pending payments | 6 h ago |
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`3382ec5`](https://github.com/sujal128005/housefi-website/commit/3382ec5b8fc17fc52b099a0df01534ad91db822f) Add GitHub Actions workflow for deployment | 5 h ago |
+| [**backendwork**](https://github.com/sujal128005/backendwork) | [`d0cd0a5`](https://github.com/sujal128005/backendwork/commit/d0cd0a5aaf26d337c092cdc2e3e3d864d4f6b990) Latest backend files | 3 h ago |
+| [**housefi**](https://github.com/sujal128005/housefi) | [`749f9b3`](https://github.com/sujal128005/housefi/commit/749f9b3fea1662d192603eb62c9d16b280c15a05) Code review fixes: idempotent booking and payment, +91 numbers, failed pending payments | 13 h ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`3382ec5`](https://github.com/sujal128005/housefi-website/commit/3382ec5b8fc17fc52b099a0df01534ad91db822f) Add GitHub Actions workflow for deployment | 12 h ago |
 | [**limen**](https://github.com/sujal128005/limen) | [`468a004`](https://github.com/sujal128005/limen/commit/468a00457ad79de5518c90f8a254f756bbf837e0) Let a company have more than one purchase, and one policy over all of them | 14 d ago |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 17 d ago |
 | [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 1 mo ago |
-| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`337d28c`](https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93) Complete project updates and fixes | 1 mo ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
+| [**backendwork**](https://github.com/sujal128005/backendwork) | — | TypeScript |
 | [**housefi**](https://github.com/sujal128005/housefi) | — | TypeScript |
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | — | TypeScript |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
@@ -106,7 +107,6 @@
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
 | [**Covenant**](https://github.com/sujal128005/Covenant) · [live](https://covenant-j1op.onrender.com) | Covenant is an AI procurement agent with on-chain spending controls. It helps businesses source physical goods, compare suppliers, negotiate prices, and execute purchases while keeping the spending limit outside the agent's control. | JavaScript |
 | [**Navya--Nexara9**](https://github.com/sujal128005/Navya--Nexara9) | Project | Python |
-| [**Navyam**](https://github.com/sujal128005/Navyam) | — | — |
 
 <br/>
 
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 18 Oct 2026, 10:15 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 18 Oct 2026, 16:52 IST · rebuilt by GitHub Actions</sub>
 
 </div>

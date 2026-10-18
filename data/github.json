@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-18T10:15+05:30",
+  "fetched_at": "2026-10-18T16:52+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 21,
+    "public_repos": 22,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -172,11 +172,11 @@
   "languages": [
     [
       "TypeScript",
-      2402695
+      3138772
     ],
     [
       "JavaScript",
-      2247636
+      2261505
     ],
     [
       "Python",
@@ -199,6 +199,10 @@
       12111
     ],
     [
+      "PLpgSQL",
+      4024
+    ],
+    [
       "Dockerfile",
       2483
     ],
@@ -216,6 +220,19 @@
     ]
   ],
   "recent": [
+    {
+      "name": "backendwork",
+      "full": "sujal128005/backendwork",
+      "url": "https://github.com/sujal128005/backendwork",
+      "commits": 16,
+      "latest": {
+        "sha": "d0cd0a5",
+        "message": "Latest backend files",
+        "date": "2026-10-18T07:53:29Z",
+        "url": "https://github.com/sujal128005/backendwork/commit/d0cd0a5aaf26d337c092cdc2e3e3d864d4f6b990"
+      },
+      "pushed_at": "2026-10-18T07:56:22Z"
+    },
     {
       "name": "housefi",
       "full": "sujal128005/housefi",
@@ -280,22 +297,19 @@
         "url": "https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa"
       },
       "pushed_at": "2026-09-13T18:28:52Z"
-    },
-    {
-      "name": "bouncerkya",
-      "full": "sujal128005/bouncerkya",
-      "url": "https://github.com/sujal128005/bouncerkya",
-      "commits": 10,
-      "latest": {
-        "sha": "337d28c",
-        "message": "Complete project updates and fixes",
-        "date": "2026-09-01T13:37:21Z",
-        "url": "https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93"
-      },
-      "pushed_at": "2026-09-01T13:37:32Z"
     }
   ],
   "bench": [
+    {
+      "name": "backendwork",
+      "url": "https://github.com/sujal128005/backendwork",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-18T07:56:22Z",
+      "archived": false
+    },
     {
       "name": "housefi",
       "url": "https://github.com/sujal128005/housefi",
@@ -365,21 +379,11 @@
       "homepage": "",
       "pushed_at": "2026-06-11T11:35:08Z",
       "archived": false
-    },
-    {
-      "name": "Navyam",
-      "url": "https://github.com/sujal128005/Navyam",
-      "description": "",
-      "language": "",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-06-10T07:04:29Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 279,
-    "commits": 259,
+    "total": 282,
+    "commits": 261,
     "prs": 0,
     "issues": 0,
     "reviews": 0,
@@ -1845,7 +1849,7 @@
       ],
       [
         "2026-10-18",
-        3
+        6
       ]
     ]
   }
