@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-18T02:14+05:30",
+  "fetched_at": "2026-10-18T10:15+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 20,
+    "public_repos": 21,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -33,12 +33,12 @@
         1,
         1,
         0,
-        10,
-        4,
-        11,
+        14,
         0,
-        6,
-        10,
+        11,
+        1,
+        15,
+        0,
         0
       ],
       "languages": {
@@ -70,8 +70,8 @@
       },
       "weekly": [
         0,
-        8,
-        10,
+        18,
+        0,
         0,
         0,
         0,
@@ -171,12 +171,12 @@
   },
   "languages": [
     [
-      "JavaScript",
-      2227210
+      "TypeScript",
+      2402695
     ],
     [
-      "TypeScript",
-      2062387
+      "JavaScript",
+      2247636
     ],
     [
       "Python",
@@ -184,7 +184,7 @@
     ],
     [
       "CSS",
-      409069
+      499733
     ],
     [
       "HTML",
@@ -220,14 +220,27 @@
       "name": "housefi",
       "full": "sujal128005/housefi",
       "url": "https://github.com/sujal128005/housefi",
-      "commits": 25,
+      "commits": 26,
       "latest": {
-        "sha": "ad95c41",
-        "message": "Phone-call job offers for technicians without smartphones: requirements",
-        "date": "2026-10-17T13:09:00Z",
-        "url": "https://github.com/sujal128005/housefi/commit/ad95c41bf66855eb10ac1002a450bbd0adec1200"
+        "sha": "749f9b3",
+        "message": "Code review fixes: idempotent booking and payment, +91 numbers, failed pending payments",
+        "date": "2026-10-17T22:10:23Z",
+        "url": "https://github.com/sujal128005/housefi/commit/749f9b3fea1662d192603eb62c9d16b280c15a05"
       },
-      "pushed_at": "2026-10-17T13:09:06Z"
+      "pushed_at": "2026-10-18T01:10:18Z"
+    },
+    {
+      "name": "housefi-website",
+      "full": "sujal128005/housefi-website",
+      "url": "https://github.com/sujal128005/housefi-website",
+      "commits": 2,
+      "latest": {
+        "sha": "3382ec5",
+        "message": "Add GitHub Actions workflow for deployment",
+        "date": "2026-10-17T22:51:48Z",
+        "url": "https://github.com/sujal128005/housefi-website/commit/3382ec5b8fc17fc52b099a0df01534ad91db822f"
+      },
+      "pushed_at": "2026-10-17T22:51:48Z"
     },
     {
       "name": "limen",
@@ -280,19 +293,6 @@
         "url": "https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93"
       },
       "pushed_at": "2026-09-01T13:37:32Z"
-    },
-    {
-      "name": "Covenant",
-      "full": "sujal128005/Covenant",
-      "url": "https://github.com/sujal128005/Covenant",
-      "commits": 3,
-      "latest": {
-        "sha": "abec123",
-        "message": "Fix link format for technical documentation PDF",
-        "date": "2026-08-19T05:03:07Z",
-        "url": "https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396"
-      },
-      "pushed_at": "2026-08-19T05:03:07Z"
     }
   ],
   "bench": [
@@ -303,7 +303,17 @@
       "language": "TypeScript",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-17T13:09:06Z",
+      "pushed_at": "2026-10-18T01:10:18Z",
+      "archived": false
+    },
+    {
+      "name": "housefi-website",
+      "url": "https://github.com/sujal128005/housefi-website",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-17T22:51:48Z",
       "archived": false
     },
     {
@@ -365,56 +375,18 @@
       "homepage": "",
       "pushed_at": "2026-06-10T07:04:29Z",
       "archived": false
-    },
-    {
-      "name": "finance_backend",
-      "url": "https://github.com/sujal128005/finance_backend",
-      "description": "",
-      "language": "Python",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-04-04T16:39:01Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 275,
-    "commits": 256,
+    "total": 279,
+    "commits": 259,
     "prs": 0,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 3,
+    "streak": 4,
     "longest": 6,
     "days": [
-      [
-        "2025-10-12",
-        0
-      ],
-      [
-        "2025-10-13",
-        0
-      ],
-      [
-        "2025-10-14",
-        0
-      ],
-      [
-        "2025-10-15",
-        0
-      ],
-      [
-        "2025-10-16",
-        0
-      ],
-      [
-        "2025-10-17",
-        0
-      ],
-      [
-        "2025-10-18",
-        0
-      ],
       [
         "2025-10-19",
         0
@@ -1869,7 +1841,11 @@
       ],
       [
         "2026-10-17",
-        11
+        12
+      ],
+      [
+        "2026-10-18",
+        3
       ]
     ]
   }
