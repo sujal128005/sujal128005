@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=416c39d8" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=71c5275e" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,7 +90,7 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`b7c2f85`](https://github.com/sujal128005/housefi-website/commit/b7c2f85f23f5ab92a87f67de9a28bdf15cda748f) Merge pull request #1 from sujal128005/dependabot/npm_and_yarn/npm_and_yarn-176e43cd4b | 14 h ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`b7c2f85`](https://github.com/sujal128005/housefi-website/commit/b7c2f85f23f5ab92a87f67de9a28bdf15cda748f) Merge pull request #1 from sujal128005/dependabot/npm_and_yarn/npm_and_yarn-176e43cd4b | 23 h ago |
 | [**limen**](https://github.com/sujal128005/limen) | [`468a004`](https://github.com/sujal128005/limen/commit/468a00457ad79de5518c90f8a254f756bbf837e0) Let a company have more than one purchase, and one policy over all of them | 15 d ago |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 19 d ago |
 | [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 1 mo ago |
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=cf1fa90f" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=5ff284ea" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 19 Oct 2026, 19:06 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 20 Oct 2026, 03:58 IST · rebuilt by GitHub Actions</sub>
 
 </div>
