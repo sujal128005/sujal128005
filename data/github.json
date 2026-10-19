@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-19T02:23+05:30",
+  "fetched_at": "2026-10-19T10:23+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 22,
+    "public_repos": 20,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -171,20 +171,20 @@
   },
   "languages": [
     [
-      "TypeScript",
-      3138772
+      "JavaScript",
+      2209562
     ],
     [
-      "JavaScript",
-      2261505
+      "TypeScript",
+      1461704
     ],
     [
       "Python",
-      1406313
+      1401010
     ],
     [
       "CSS",
-      499733
+      501810
     ],
     [
       "HTML",
@@ -197,10 +197,6 @@
     [
       "Shell",
       12111
-    ],
-    [
-      "PLpgSQL",
-      4024
     ],
     [
       "Dockerfile",
@@ -221,43 +217,17 @@
   ],
   "recent": [
     {
-      "name": "housefi",
-      "full": "sujal128005/housefi",
-      "url": "https://github.com/sujal128005/housefi",
-      "commits": 26,
-      "latest": {
-        "sha": "749f9b3",
-        "message": "Code review fixes: idempotent booking and payment, +91 numbers, failed pending payments",
-        "date": "2026-10-17T22:10:23Z",
-        "url": "https://github.com/sujal128005/housefi/commit/749f9b3fea1662d192603eb62c9d16b280c15a05"
-      },
-      "pushed_at": "2026-10-18T15:41:30Z"
-    },
-    {
-      "name": "backendwork",
-      "full": "sujal128005/backendwork",
-      "url": "https://github.com/sujal128005/backendwork",
-      "commits": 16,
-      "latest": {
-        "sha": "d0cd0a5",
-        "message": "Latest backend files",
-        "date": "2026-10-18T07:53:29Z",
-        "url": "https://github.com/sujal128005/backendwork/commit/d0cd0a5aaf26d337c092cdc2e3e3d864d4f6b990"
-      },
-      "pushed_at": "2026-10-18T15:09:31Z"
-    },
-    {
       "name": "housefi-website",
       "full": "sujal128005/housefi-website",
       "url": "https://github.com/sujal128005/housefi-website",
-      "commits": 2,
+      "commits": 7,
       "latest": {
-        "sha": "3382ec5",
-        "message": "Add GitHub Actions workflow for deployment",
-        "date": "2026-10-17T22:51:48Z",
-        "url": "https://github.com/sujal128005/housefi-website/commit/3382ec5b8fc17fc52b099a0df01534ad91db822f"
+        "sha": "b7c2f85",
+        "message": "Merge pull request #1 from sujal128005/dependabot/npm_and_yarn/npm_and_yarn-176e43cd4b",
+        "date": "2026-10-18T23:02:37Z",
+        "url": "https://github.com/sujal128005/housefi-website/commit/b7c2f85f23f5ab92a87f67de9a28bdf15cda748f"
       },
-      "pushed_at": "2026-10-18T14:38:38Z"
+      "pushed_at": "2026-10-18T23:09:22Z"
     },
     {
       "name": "limen",
@@ -297,29 +267,35 @@
         "url": "https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa"
       },
       "pushed_at": "2026-09-13T18:28:52Z"
+    },
+    {
+      "name": "bouncerkya",
+      "full": "sujal128005/bouncerkya",
+      "url": "https://github.com/sujal128005/bouncerkya",
+      "commits": 10,
+      "latest": {
+        "sha": "337d28c",
+        "message": "Complete project updates and fixes",
+        "date": "2026-09-01T13:37:21Z",
+        "url": "https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93"
+      },
+      "pushed_at": "2026-09-01T13:37:32Z"
+    },
+    {
+      "name": "Covenant",
+      "full": "sujal128005/Covenant",
+      "url": "https://github.com/sujal128005/Covenant",
+      "commits": 3,
+      "latest": {
+        "sha": "abec123",
+        "message": "Fix link format for technical documentation PDF",
+        "date": "2026-08-19T05:03:07Z",
+        "url": "https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396"
+      },
+      "pushed_at": "2026-08-19T05:03:07Z"
     }
   ],
   "bench": [
-    {
-      "name": "housefi",
-      "url": "https://github.com/sujal128005/housefi",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-18T15:41:30Z",
-      "archived": false
-    },
-    {
-      "name": "backendwork",
-      "url": "https://github.com/sujal128005/backendwork",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-18T15:09:31Z",
-      "archived": false
-    },
     {
       "name": "housefi-website",
       "url": "https://github.com/sujal128005/housefi-website",
@@ -327,7 +303,7 @@
       "language": "TypeScript",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-18T14:38:38Z",
+      "pushed_at": "2026-10-18T23:09:22Z",
       "archived": false
     },
     {
@@ -379,16 +355,36 @@
       "homepage": "",
       "pushed_at": "2026-06-11T11:35:08Z",
       "archived": false
+    },
+    {
+      "name": "Navyam",
+      "url": "https://github.com/sujal128005/Navyam",
+      "description": "",
+      "language": "",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-06-10T07:04:29Z",
+      "archived": false
+    },
+    {
+      "name": "finance_backend",
+      "url": "https://github.com/sujal128005/finance_backend",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-04-04T16:39:01Z",
+      "archived": false
     }
   ],
   "calendar": {
-    "total": 286,
-    "commits": 261,
-    "prs": 4,
+    "total": 256,
+    "commits": 236,
+    "prs": 1,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 4,
+    "streak": 3,
     "longest": 6,
     "days": [
       [
@@ -1837,19 +1833,23 @@
       ],
       [
         "2026-10-15",
-        1
+        0
       ],
       [
         "2026-10-16",
-        14
+        0
       ],
       [
         "2026-10-17",
-        12
+        1
       ],
       [
         "2026-10-18",
-        10
+        4
+      ],
+      [
+        "2026-10-19",
+        2
       ]
     ]
   }
