@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=337984a9" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=23101953" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,8 +90,8 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`99a57be`](https://github.com/sujal128005/housefi-website/commit/99a57bef6a6892785bfd0e3bcd49d0ff3e7c4325) Merge pull request #3 from sujal128005/website/technicians | 8 h ago |
-| [**procure**](https://github.com/sujal128005/procure) | [`d374678`](https://github.com/sujal128005/procure/commit/d374678761fc3bb3ad36dd46724c2c9da2812ad8) Add docs, Docker, CI; upgrade vulnerable dependencies | 7 h ago |
+| [**procure**](https://github.com/sujal128005/procure) | [`fbf90e7`](https://github.com/sujal128005/procure/commit/fbf90e7ecf57f47e40d2de0c4fe4246231a27799) Add the complete technical guide (PDF with HTML source and screenshots) | 37 min ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`c62d1bc`](https://github.com/sujal128005/housefi-website/commit/c62d1bc8b3ece02bbc1d59a12e0f10d332672b34) Merge pull request #5 from sujal128005/website/smooth-scroll | 52 min ago |
 | [**limen**](https://github.com/sujal128005/limen) | [`468a004`](https://github.com/sujal128005/limen/commit/468a00457ad79de5518c90f8a254f756bbf837e0) Let a company have more than one purchase, and one policy over all of them | 16 d ago |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 20 d ago |
 | [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 1 mo ago |
@@ -99,8 +99,8 @@
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | — | TypeScript |
 | [**procure**](https://github.com/sujal128005/procure) | — | TypeScript |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | — | TypeScript |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
 | [**apix**](https://github.com/sujal128005/apix) | — | Python |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=5ff284ea" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=191048c2" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 20 Oct 2026, 22:49 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 21 Oct 2026, 03:13 IST · rebuilt by GitHub Actions</sub>
 
 </div>

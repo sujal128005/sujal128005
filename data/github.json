@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T22:49+05:30",
+  "fetched_at": "2026-10-21T03:13+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -172,11 +172,11 @@
   "languages": [
     [
       "TypeScript",
-      2773223
+      3414354
     ],
     [
       "JavaScript",
-      2210500
+      2221962
     ],
     [
       "Python",
@@ -184,11 +184,11 @@
     ],
     [
       "CSS",
-      507152
+      507248
     ],
     [
       "HTML",
-      359085
+      359336
     ],
     [
       "Solidity",
@@ -196,11 +196,11 @@
     ],
     [
       "Shell",
-      12111
+      15872
     ],
     [
       "Dockerfile",
-      3881
+      4406
     ],
     [
       "C++",
@@ -217,30 +217,30 @@
   ],
   "recent": [
     {
-      "name": "housefi-website",
-      "full": "sujal128005/housefi-website",
-      "url": "https://github.com/sujal128005/housefi-website",
-      "commits": 9,
-      "latest": {
-        "sha": "99a57be",
-        "message": "Merge pull request #3 from sujal128005/website/technicians",
-        "date": "2026-10-20T08:24:37Z",
-        "url": "https://github.com/sujal128005/housefi-website/commit/99a57bef6a6892785bfd0e3bcd49d0ff3e7c4325"
-      },
-      "pushed_at": "2026-10-20T11:17:54Z"
-    },
-    {
       "name": "procure",
       "full": "sujal128005/procure",
       "url": "https://github.com/sujal128005/procure",
-      "commits": 5,
+      "commits": 16,
       "latest": {
-        "sha": "d374678",
-        "message": "Add docs, Docker, CI; upgrade vulnerable dependencies",
-        "date": "2026-10-20T10:08:42Z",
-        "url": "https://github.com/sujal128005/procure/commit/d374678761fc3bb3ad36dd46724c2c9da2812ad8"
+        "sha": "fbf90e7",
+        "message": "Add the complete technical guide (PDF with HTML source and screenshots)",
+        "date": "2026-10-20T21:05:22Z",
+        "url": "https://github.com/sujal128005/procure/commit/fbf90e7ecf57f47e40d2de0c4fe4246231a27799"
       },
-      "pushed_at": "2026-10-20T10:27:44Z"
+      "pushed_at": "2026-10-20T21:05:27Z"
+    },
+    {
+      "name": "housefi-website",
+      "full": "sujal128005/housefi-website",
+      "url": "https://github.com/sujal128005/housefi-website",
+      "commits": 13,
+      "latest": {
+        "sha": "c62d1bc",
+        "message": "Merge pull request #5 from sujal128005/website/smooth-scroll",
+        "date": "2026-10-20T20:50:39Z",
+        "url": "https://github.com/sujal128005/housefi-website/commit/c62d1bc8b3ece02bbc1d59a12e0f10d332672b34"
+      },
+      "pushed_at": "2026-10-20T20:50:39Z"
     },
     {
       "name": "limen",
@@ -297,23 +297,23 @@
   ],
   "bench": [
     {
-      "name": "housefi-website",
-      "url": "https://github.com/sujal128005/housefi-website",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-20T11:17:54Z",
-      "archived": false
-    },
-    {
       "name": "procure",
       "url": "https://github.com/sujal128005/procure",
       "description": "",
       "language": "TypeScript",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-20T10:27:44Z",
+      "pushed_at": "2026-10-20T21:05:27Z",
+      "archived": false
+    },
+    {
+      "name": "housefi-website",
+      "url": "https://github.com/sujal128005/housefi-website",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-20T20:50:39Z",
       "archived": false
     },
     {
@@ -378,8 +378,8 @@
     }
   ],
   "calendar": {
-    "total": 261,
-    "commits": 238,
+    "total": 263,
+    "commits": 240,
     "prs": 3,
     "issues": 0,
     "reviews": 0,
@@ -1853,7 +1853,7 @@
       ],
       [
         "2026-10-20",
-        5
+        7
       ]
     ]
   }
