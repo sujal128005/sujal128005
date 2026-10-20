@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=57041208" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=337984a9" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,8 +90,8 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`99a57be`](https://github.com/sujal128005/housefi-website/commit/99a57bef6a6892785bfd0e3bcd49d0ff3e7c4325) Merge pull request #3 from sujal128005/website/technicians | 3 h ago |
-| [**procure**](https://github.com/sujal128005/procure) | [`d374678`](https://github.com/sujal128005/procure/commit/d374678761fc3bb3ad36dd46724c2c9da2812ad8) Add docs, Docker, CI; upgrade vulnerable dependencies | 1 h ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`99a57be`](https://github.com/sujal128005/housefi-website/commit/99a57bef6a6892785bfd0e3bcd49d0ff3e7c4325) Merge pull request #3 from sujal128005/website/technicians | 8 h ago |
+| [**procure**](https://github.com/sujal128005/procure) | [`d374678`](https://github.com/sujal128005/procure/commit/d374678761fc3bb3ad36dd46724c2c9da2812ad8) Add docs, Docker, CI; upgrade vulnerable dependencies | 7 h ago |
 | [**limen**](https://github.com/sujal128005/limen) | [`468a004`](https://github.com/sujal128005/limen/commit/468a00457ad79de5518c90f8a254f756bbf837e0) Let a company have more than one purchase, and one policy over all of them | 16 d ago |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 20 d ago |
 | [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 1 mo ago |
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 20 Oct 2026, 17:20 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 20 Oct 2026, 22:49 IST · rebuilt by GitHub Actions</sub>
 
 </div>
