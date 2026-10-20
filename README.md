@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=9b291b57" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=57041208" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,23 +90,23 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`b7c2f85`](https://github.com/sujal128005/housefi-website/commit/b7c2f85f23f5ab92a87f67de9a28bdf15cda748f) Merge pull request #1 from sujal128005/dependabot/npm_and_yarn/npm_and_yarn-176e43cd4b | 1 d ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`99a57be`](https://github.com/sujal128005/housefi-website/commit/99a57bef6a6892785bfd0e3bcd49d0ff3e7c4325) Merge pull request #3 from sujal128005/website/technicians | 3 h ago |
+| [**procure**](https://github.com/sujal128005/procure) | [`d374678`](https://github.com/sujal128005/procure/commit/d374678761fc3bb3ad36dd46724c2c9da2812ad8) Add docs, Docker, CI; upgrade vulnerable dependencies | 1 h ago |
 | [**limen**](https://github.com/sujal128005/limen) | [`468a004`](https://github.com/sujal128005/limen/commit/468a00457ad79de5518c90f8a254f756bbf837e0) Let a company have more than one purchase, and one policy over all of them | 16 d ago |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 19 d ago |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 20 d ago |
 | [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 1 mo ago |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`337d28c`](https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93) Complete project updates and fixes | 1 mo ago |
-| [**Covenant**](https://github.com/sujal128005/Covenant) | [`abec123`](https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396) Fix link format for technical documentation PDF | 2 mo ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | — | TypeScript |
+| [**procure**](https://github.com/sujal128005/procure) | — | TypeScript |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
 | [**apix**](https://github.com/sujal128005/apix) | — | Python |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
 | [**Covenant**](https://github.com/sujal128005/Covenant) · [live](https://covenant-j1op.onrender.com) | Covenant is an AI procurement agent with on-chain spending controls. It helps businesses source physical goods, compare suppliers, negotiate prices, and execute purchases while keeping the spending limit outside the agent's control. | JavaScript |
 | [**Navya--Nexara9**](https://github.com/sujal128005/Navya--Nexara9) | Project | Python |
 | [**Navyam**](https://github.com/sujal128005/Navyam) | — | — |
-| [**finance_backend**](https://github.com/sujal128005/finance_backend) | — | Python |
 
 <br/>
 
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 20 Oct 2026, 10:30 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 20 Oct 2026, 17:20 IST · rebuilt by GitHub Actions</sub>
 
 </div>

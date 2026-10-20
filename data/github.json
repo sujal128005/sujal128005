@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-20T10:30+05:30",
+  "fetched_at": "2026-10-20T17:20+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 20,
+    "public_repos": 21,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -171,12 +171,12 @@
   },
   "languages": [
     [
-      "JavaScript",
-      2209562
+      "TypeScript",
+      2773223
     ],
     [
-      "TypeScript",
-      1461704
+      "JavaScript",
+      2210500
     ],
     [
       "Python",
@@ -184,11 +184,11 @@
     ],
     [
       "CSS",
-      501810
+      507152
     ],
     [
       "HTML",
-      358250
+      359085
     ],
     [
       "Solidity",
@@ -200,7 +200,7 @@
     ],
     [
       "Dockerfile",
-      2483
+      3881
     ],
     [
       "C++",
@@ -220,14 +220,27 @@
       "name": "housefi-website",
       "full": "sujal128005/housefi-website",
       "url": "https://github.com/sujal128005/housefi-website",
-      "commits": 7,
+      "commits": 9,
       "latest": {
-        "sha": "b7c2f85",
-        "message": "Merge pull request #1 from sujal128005/dependabot/npm_and_yarn/npm_and_yarn-176e43cd4b",
-        "date": "2026-10-18T23:02:37Z",
-        "url": "https://github.com/sujal128005/housefi-website/commit/b7c2f85f23f5ab92a87f67de9a28bdf15cda748f"
+        "sha": "99a57be",
+        "message": "Merge pull request #3 from sujal128005/website/technicians",
+        "date": "2026-10-20T08:24:37Z",
+        "url": "https://github.com/sujal128005/housefi-website/commit/99a57bef6a6892785bfd0e3bcd49d0ff3e7c4325"
       },
-      "pushed_at": "2026-10-18T23:09:22Z"
+      "pushed_at": "2026-10-20T11:17:54Z"
+    },
+    {
+      "name": "procure",
+      "full": "sujal128005/procure",
+      "url": "https://github.com/sujal128005/procure",
+      "commits": 5,
+      "latest": {
+        "sha": "d374678",
+        "message": "Add docs, Docker, CI; upgrade vulnerable dependencies",
+        "date": "2026-10-20T10:08:42Z",
+        "url": "https://github.com/sujal128005/procure/commit/d374678761fc3bb3ad36dd46724c2c9da2812ad8"
+      },
+      "pushed_at": "2026-10-20T10:27:44Z"
     },
     {
       "name": "limen",
@@ -280,19 +293,6 @@
         "url": "https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93"
       },
       "pushed_at": "2026-09-01T13:37:32Z"
-    },
-    {
-      "name": "Covenant",
-      "full": "sujal128005/Covenant",
-      "url": "https://github.com/sujal128005/Covenant",
-      "commits": 3,
-      "latest": {
-        "sha": "abec123",
-        "message": "Fix link format for technical documentation PDF",
-        "date": "2026-08-19T05:03:07Z",
-        "url": "https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396"
-      },
-      "pushed_at": "2026-08-19T05:03:07Z"
     }
   ],
   "bench": [
@@ -303,7 +303,17 @@
       "language": "TypeScript",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-18T23:09:22Z",
+      "pushed_at": "2026-10-20T11:17:54Z",
+      "archived": false
+    },
+    {
+      "name": "procure",
+      "url": "https://github.com/sujal128005/procure",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-20T10:27:44Z",
       "archived": false
     },
     {
@@ -365,26 +375,16 @@
       "homepage": "",
       "pushed_at": "2026-06-10T07:04:29Z",
       "archived": false
-    },
-    {
-      "name": "finance_backend",
-      "url": "https://github.com/sujal128005/finance_backend",
-      "description": "",
-      "language": "Python",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-04-04T16:39:01Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 256,
-    "commits": 236,
-    "prs": 1,
+    "total": 261,
+    "commits": 238,
+    "prs": 3,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 3,
+    "streak": 4,
     "longest": 6,
     "days": [
       [
@@ -1853,7 +1853,7 @@
       ],
       [
         "2026-10-20",
-        0
+        5
       ]
     ]
   }
