@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=dcf8a957" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=34758afb" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -99,6 +99,7 @@
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
+| [**housefi-ibmbob**](https://github.com/sujal128005/housefi-ibmbob) | — | — |
 | [**procure**](https://github.com/sujal128005/procure) | — | TypeScript |
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | — | TypeScript |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
@@ -106,7 +107,6 @@
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
 | [**Covenant**](https://github.com/sujal128005/Covenant) · [live](https://covenant-j1op.onrender.com) | Covenant is an AI procurement agent with on-chain spending controls. It helps businesses source physical goods, compare suppliers, negotiate prices, and execute purchases while keeping the spending limit outside the agent's control. | JavaScript |
 | [**Navya--Nexara9**](https://github.com/sujal128005/Navya--Nexara9) | Project | Python |
-| [**Navyam**](https://github.com/sujal128005/Navyam) | — | — |
 
 <br/>
 
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 23 Oct 2026, 17:19 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 23 Oct 2026, 22:46 IST · rebuilt by GitHub Actions</sub>
 
 </div>

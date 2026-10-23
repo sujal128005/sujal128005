@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-23T17:19+05:30",
+  "fetched_at": "2026-10-23T22:46+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 21,
+    "public_repos": 22,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -297,6 +297,16 @@
   ],
   "bench": [
     {
+      "name": "housefi-ibmbob",
+      "url": "https://github.com/sujal128005/housefi-ibmbob",
+      "description": "",
+      "language": "",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-23T15:44:10Z",
+      "archived": false
+    },
+    {
       "name": "procure",
       "url": "https://github.com/sujal128005/procure",
       "description": "",
@@ -365,26 +375,16 @@
       "homepage": "",
       "pushed_at": "2026-06-11T11:35:08Z",
       "archived": false
-    },
-    {
-      "name": "Navyam",
-      "url": "https://github.com/sujal128005/Navyam",
-      "description": "",
-      "language": "",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-06-10T07:04:29Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 266,
+    "total": 268,
     "commits": 242,
-    "prs": 4,
+    "prs": 5,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 0,
+    "streak": 1,
     "longest": 6,
     "days": [
       [
@@ -1865,7 +1865,7 @@
       ],
       [
         "2026-10-23",
-        0
+        2
       ]
     ]
   }
