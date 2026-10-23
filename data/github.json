@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-23T22:46+05:30",
+  "fetched_at": "2026-10-24T03:00+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 22,
+    "public_repos": 23,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -172,23 +172,23 @@
   "languages": [
     [
       "TypeScript",
-      3414354
+      6946721
     ],
     [
       "JavaScript",
-      2221962
+      2395348
     ],
     [
       "Python",
-      1401010
+      1408029
     ],
     [
       "CSS",
-      507248
+      559726
     ],
     [
       "HTML",
-      359336
+      360949
     ],
     [
       "Solidity",
@@ -196,11 +196,19 @@
     ],
     [
       "Shell",
-      15872
+      17415
+    ],
+    [
+      "PowerShell",
+      9110
     ],
     [
       "Dockerfile",
-      4406
+      6407
+    ],
+    [
+      "PLpgSQL",
+      4024
     ],
     [
       "C++",
@@ -213,9 +221,26 @@
     [
       "Mako",
       616
+    ],
+    [
+      "Batchfile",
+      196
     ]
   ],
   "recent": [
+    {
+      "name": "housefi",
+      "full": "sujal128005/housefi",
+      "url": "https://github.com/sujal128005/housefi",
+      "commits": 191,
+      "latest": {
+        "sha": "6c746a0",
+        "message": "Merge pull request #68 from sujal128005/feature/courses",
+        "date": "2026-10-23T21:27:29Z",
+        "url": "https://github.com/sujal128005/housefi/commit/6c746a09d15d0509369c5a4533c8ec71a42b1f03"
+      },
+      "pushed_at": "2026-10-23T21:27:29Z"
+    },
     {
       "name": "procure",
       "full": "sujal128005/procure",
@@ -280,22 +305,19 @@
         "url": "https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa"
       },
       "pushed_at": "2026-09-13T18:28:52Z"
-    },
-    {
-      "name": "bouncerkya",
-      "full": "sujal128005/bouncerkya",
-      "url": "https://github.com/sujal128005/bouncerkya",
-      "commits": 10,
-      "latest": {
-        "sha": "337d28c",
-        "message": "Complete project updates and fixes",
-        "date": "2026-09-01T13:37:21Z",
-        "url": "https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93"
-      },
-      "pushed_at": "2026-09-01T13:37:32Z"
     }
   ],
   "bench": [
+    {
+      "name": "housefi",
+      "url": "https://github.com/sujal128005/housefi",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-23T21:27:29Z",
+      "archived": false
+    },
     {
       "name": "housefi-ibmbob",
       "url": "https://github.com/sujal128005/housefi-ibmbob",
@@ -365,27 +387,17 @@
       "homepage": "https://covenant-j1op.onrender.com",
       "pushed_at": "2026-08-19T05:03:07Z",
       "archived": false
-    },
-    {
-      "name": "Navya--Nexara9",
-      "url": "https://github.com/sujal128005/Navya--Nexara9",
-      "description": "Project",
-      "language": "Python",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-06-11T11:35:08Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 268,
-    "commits": 242,
-    "prs": 5,
+    "total": 448,
+    "commits": 377,
+    "prs": 49,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 1,
-    "longest": 6,
+    "streak": 9,
+    "longest": 9,
     "days": [
       [
         "2025-10-19",
@@ -1833,39 +1845,39 @@
       ],
       [
         "2026-10-15",
-        0
-      ],
-      [
-        "2026-10-16",
-        0
-      ],
-      [
-        "2026-10-17",
         1
       ],
       [
+        "2026-10-16",
+        14
+      ],
+      [
+        "2026-10-17",
+        13
+      ],
+      [
         "2026-10-18",
-        4
+        22
       ],
       [
         "2026-10-19",
-        2
+        72
       ],
       [
         "2026-10-20",
-        7
+        33
       ],
       [
         "2026-10-21",
-        3
+        7
       ],
       [
         "2026-10-22",
-        0
+        14
       ],
       [
         "2026-10-23",
-        2
+        23
       ]
     ]
   }
