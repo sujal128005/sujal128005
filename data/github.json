@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-24T10:17+05:30",
+  "fetched_at": "2026-10-24T16:46+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 23,
+    "public_repos": 22,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -172,23 +172,23 @@
   "languages": [
     [
       "TypeScript",
-      10676997
+      7231481
     ],
     [
       "JavaScript",
-      2568734
+      2395348
     ],
     [
       "Python",
-      1415048
+      1408029
     ],
     [
       "CSS",
-      613335
+      560857
     ],
     [
       "HTML",
-      362562
+      360949
     ],
     [
       "Solidity",
@@ -196,19 +196,19 @@
     ],
     [
       "Shell",
-      18958
+      17415
     ],
     [
       "PowerShell",
-      18220
+      9110
     ],
     [
       "Dockerfile",
-      8408
+      6407
     ],
     [
       "PLpgSQL",
-      8048
+      4024
     ],
     [
       "C++",
@@ -224,22 +224,22 @@
     ],
     [
       "Batchfile",
-      392
+      196
     ]
   ],
   "recent": [
     {
-      "name": "housefi",
-      "full": "sujal128005/housefi",
-      "url": "https://github.com/sujal128005/housefi",
-      "commits": 207,
+      "name": "housefi-ibmbob",
+      "full": "sujal128005/housefi-ibmbob",
+      "url": "https://github.com/sujal128005/housefi-ibmbob",
+      "commits": 2,
       "latest": {
-        "sha": "552ff8a",
-        "message": "Merge pull request #73 from sujal128005/feature/apprentice-mode",
-        "date": "2026-10-24T04:44:41Z",
-        "url": "https://github.com/sujal128005/housefi/commit/552ff8a41dfcca0422c542ff36d12ad594069eea"
+        "sha": "82c3e0f",
+        "message": "Update: Skill Passport, Fair-pay meter, Quote checker, Apprentice mode, Society repair day, free AI backups",
+        "date": "2026-10-24T09:25:01Z",
+        "url": "https://github.com/sujal128005/housefi-ibmbob/commit/82c3e0f558456b161e0dd00587e949adebc6d6be"
       },
-      "pushed_at": "2026-10-24T04:44:41Z"
+      "pushed_at": "2026-10-24T09:28:04Z"
     },
     {
       "name": "housefi-website",
@@ -253,19 +253,6 @@
         "url": "https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4"
       },
       "pushed_at": "2026-10-23T23:01:55Z"
-    },
-    {
-      "name": "housefi-ibmbob",
-      "full": "sujal128005/housefi-ibmbob",
-      "url": "https://github.com/sujal128005/housefi-ibmbob",
-      "commits": 1,
-      "latest": {
-        "sha": "a080317",
-        "message": "Housefi: home services platform for Hyderabad (app, API server, admin portal)",
-        "date": "2026-10-23T22:10:58Z",
-        "url": "https://github.com/sujal128005/housefi-ibmbob/commit/a080317580fac85f02967532b87dc16df4e0b2c2"
-      },
-      "pushed_at": "2026-10-23T22:14:53Z"
     },
     {
       "name": "procure",
@@ -305,17 +292,30 @@
         "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28"
       },
       "pushed_at": "2026-09-30T11:33:24Z"
+    },
+    {
+      "name": "apix",
+      "full": "sujal128005/apix",
+      "url": "https://github.com/sujal128005/apix",
+      "commits": 39,
+      "latest": {
+        "sha": "90f211e",
+        "message": "Record: last-minute premium is unmeasured; remove test asserting it",
+        "date": "2026-09-13T18:28:49Z",
+        "url": "https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa"
+      },
+      "pushed_at": "2026-09-13T18:28:52Z"
     }
   ],
   "bench": [
     {
-      "name": "housefi",
-      "url": "https://github.com/sujal128005/housefi",
+      "name": "housefi-ibmbob",
+      "url": "https://github.com/sujal128005/housefi-ibmbob",
       "description": "",
       "language": "TypeScript",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-24T04:44:41Z",
+      "pushed_at": "2026-10-24T09:28:04Z",
       "archived": false
     },
     {
@@ -326,16 +326,6 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-10-23T23:01:55Z",
-      "archived": false
-    },
-    {
-      "name": "housefi-ibmbob",
-      "url": "https://github.com/sujal128005/housefi-ibmbob",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-23T22:14:53Z",
       "archived": false
     },
     {
@@ -387,17 +377,27 @@
       "homepage": "https://covenant-j1op.onrender.com",
       "pushed_at": "2026-08-19T05:03:07Z",
       "archived": false
+    },
+    {
+      "name": "Navya--Nexara9",
+      "url": "https://github.com/sujal128005/Navya--Nexara9",
+      "description": "Project",
+      "language": "Python",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-06-11T11:35:08Z",
+      "archived": false
     }
   ],
   "calendar": {
-    "total": 488,
-    "commits": 407,
-    "prs": 59,
+    "total": 273,
+    "commits": 246,
+    "prs": 6,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 10,
-    "longest": 10,
+    "streak": 2,
+    "longest": 6,
     "days": [
       [
         "2025-10-19",
@@ -1845,43 +1845,43 @@
       ],
       [
         "2026-10-15",
-        1
+        0
       ],
       [
         "2026-10-16",
-        14
+        0
       ],
       [
         "2026-10-17",
-        13
+        1
       ],
       [
         "2026-10-18",
-        22
+        4
       ],
       [
         "2026-10-19",
-        72
+        2
       ],
       [
         "2026-10-20",
-        33
-      ],
-      [
-        "2026-10-21",
         7
       ],
       [
+        "2026-10-21",
+        3
+      ],
+      [
         "2026-10-22",
-        14
+        0
       ],
       [
         "2026-10-23",
-        23
+        2
       ],
       [
         "2026-10-24",
-        40
+        5
       ]
     ]
   }
