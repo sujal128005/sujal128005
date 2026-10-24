@@ -1,53 +1,16 @@
 {
-  "fetched_at": "2026-10-24T16:46+05:30",
+  "fetched_at": "2026-10-24T21:34+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 22,
+    "public_repos": 20,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
   "featured": {
     "sujal128005/limen": {
       "full": "sujal128005/limen",
-      "url": "https://github.com/sujal128005/limen",
-      "private": false,
-      "description": "AI purchasing infrastructure with enforceable spending limits, role-based approvals, escrow, and auditable payments.",
-      "homepage": "https://limen-peqe.onrender.com",
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-03T23:47:31Z",
-      "created_at": "2026-09-01T19:13:13Z",
-      "commits": 43,
-      "latest": {
-        "sha": "468a004",
-        "message": "Let a company have more than one purchase, and one policy over all of them",
-        "date": "2026-10-03T23:25:36Z",
-        "url": "https://github.com/sujal128005/limen/commit/468a00457ad79de5518c90f8a254f756bbf837e0"
-      },
-      "weekly": [
-        0,
-        1,
-        1,
-        0,
-        10,
-        4,
-        11,
-        0,
-        6,
-        10,
-        0,
-        0
-      ],
-      "languages": {
-        "JavaScript": 1648424,
-        "CSS": 245245,
-        "HTML": 90560,
-        "Solidity": 31577
-      },
-      "topics": []
+      "private": true
     },
     "sujal128005/khata": {
       "full": "sujal128005/khata",
@@ -172,31 +135,31 @@
   "languages": [
     [
       "TypeScript",
-      7231481
-    ],
-    [
-      "JavaScript",
-      2395348
+      5294672
     ],
     [
       "Python",
       1408029
     ],
     [
+      "JavaScript",
+      738751
+    ],
+    [
       "CSS",
-      560857
+      314198
     ],
     [
       "HTML",
-      360949
+      269303
     ],
     [
       "Solidity",
-      49059
+      17482
     ],
     [
       "Shell",
-      17415
+      13654
     ],
     [
       "PowerShell",
@@ -204,7 +167,7 @@
     ],
     [
       "Dockerfile",
-      6407
+      4484
     ],
     [
       "PLpgSQL",
@@ -232,14 +195,14 @@
       "name": "housefi-ibmbob",
       "full": "sujal128005/housefi-ibmbob",
       "url": "https://github.com/sujal128005/housefi-ibmbob",
-      "commits": 2,
+      "commits": 10,
       "latest": {
-        "sha": "82c3e0f",
-        "message": "Update: Skill Passport, Fair-pay meter, Quote checker, Apprentice mode, Society repair day, free AI backups",
-        "date": "2026-10-24T09:25:01Z",
-        "url": "https://github.com/sujal128005/housefi-ibmbob/commit/82c3e0f558456b161e0dd00587e949adebc6d6be"
+        "sha": "f283889",
+        "message": "Merge pull request #10 from sujal128005/sujal128005-patch-2",
+        "date": "2026-10-24T12:56:19Z",
+        "url": "https://github.com/sujal128005/housefi-ibmbob/commit/f283889079edd9c687369b353f56be016f69055d"
       },
-      "pushed_at": "2026-10-24T09:28:04Z"
+      "pushed_at": "2026-10-24T12:56:27Z"
     },
     {
       "name": "housefi-website",
@@ -253,32 +216,6 @@
         "url": "https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4"
       },
       "pushed_at": "2026-10-23T23:01:55Z"
-    },
-    {
-      "name": "procure",
-      "full": "sujal128005/procure",
-      "url": "https://github.com/sujal128005/procure",
-      "commits": 16,
-      "latest": {
-        "sha": "fbf90e7",
-        "message": "Add the complete technical guide (PDF with HTML source and screenshots)",
-        "date": "2026-10-20T21:05:22Z",
-        "url": "https://github.com/sujal128005/procure/commit/fbf90e7ecf57f47e40d2de0c4fe4246231a27799"
-      },
-      "pushed_at": "2026-10-20T21:05:27Z"
-    },
-    {
-      "name": "limen",
-      "full": "sujal128005/limen",
-      "url": "https://github.com/sujal128005/limen",
-      "commits": 43,
-      "latest": {
-        "sha": "468a004",
-        "message": "Let a company have more than one purchase, and one policy over all of them",
-        "date": "2026-10-03T23:25:36Z",
-        "url": "https://github.com/sujal128005/limen/commit/468a00457ad79de5518c90f8a254f756bbf837e0"
-      },
-      "pushed_at": "2026-10-03T23:47:31Z"
     },
     {
       "name": "sujalnegi.github.io",
@@ -305,6 +242,32 @@
         "url": "https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa"
       },
       "pushed_at": "2026-09-13T18:28:52Z"
+    },
+    {
+      "name": "bouncerkya",
+      "full": "sujal128005/bouncerkya",
+      "url": "https://github.com/sujal128005/bouncerkya",
+      "commits": 10,
+      "latest": {
+        "sha": "337d28c",
+        "message": "Complete project updates and fixes",
+        "date": "2026-09-01T13:37:21Z",
+        "url": "https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93"
+      },
+      "pushed_at": "2026-09-01T13:37:32Z"
+    },
+    {
+      "name": "Covenant",
+      "full": "sujal128005/Covenant",
+      "url": "https://github.com/sujal128005/Covenant",
+      "commits": 3,
+      "latest": {
+        "sha": "abec123",
+        "message": "Fix link format for technical documentation PDF",
+        "date": "2026-08-19T05:03:07Z",
+        "url": "https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396"
+      },
+      "pushed_at": "2026-08-19T05:03:07Z"
     }
   ],
   "bench": [
@@ -315,7 +278,7 @@
       "language": "TypeScript",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-24T09:28:04Z",
+      "pushed_at": "2026-10-24T12:56:27Z",
       "archived": false
     },
     {
@@ -326,16 +289,6 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-10-23T23:01:55Z",
-      "archived": false
-    },
-    {
-      "name": "procure",
-      "url": "https://github.com/sujal128005/procure",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-20T21:05:27Z",
       "archived": false
     },
     {
@@ -387,17 +340,27 @@
       "homepage": "",
       "pushed_at": "2026-06-11T11:35:08Z",
       "archived": false
+    },
+    {
+      "name": "Navyam",
+      "url": "https://github.com/sujal128005/Navyam",
+      "description": "",
+      "language": "",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-06-10T07:04:29Z",
+      "archived": false
     }
   ],
   "calendar": {
-    "total": 273,
-    "commits": 246,
-    "prs": 6,
+    "total": 259,
+    "commits": 230,
+    "prs": 10,
     "issues": 0,
     "reviews": 0,
     "private": 0,
     "streak": 2,
-    "longest": 6,
+    "longest": 5,
     "days": [
       [
         "2025-10-19",
@@ -1597,7 +1560,7 @@
       ],
       [
         "2026-08-14",
-        17
+        16
       ],
       [
         "2026-08-15",
@@ -1617,7 +1580,7 @@
       ],
       [
         "2026-08-19",
-        9
+        8
       ],
       [
         "2026-08-20",
@@ -1669,23 +1632,23 @@
       ],
       [
         "2026-09-01",
-        4
+        3
       ],
       [
         "2026-09-02",
-        2
+        0
       ],
       [
         "2026-09-03",
-        7
+        0
       ],
       [
         "2026-09-04",
-        1
+        0
       ],
       [
         "2026-09-05",
-        4
+        0
       ],
       [
         "2026-09-06",
@@ -1729,7 +1692,7 @@
       ],
       [
         "2026-09-16",
-        3
+        0
       ],
       [
         "2026-09-17",
@@ -1737,7 +1700,7 @@
       ],
       [
         "2026-09-18",
-        5
+        0
       ],
       [
         "2026-09-19",
@@ -1865,7 +1828,7 @@
       ],
       [
         "2026-10-20",
-        7
+        6
       ],
       [
         "2026-10-21",
@@ -1881,7 +1844,7 @@
       ],
       [
         "2026-10-24",
-        5
+        17
       ]
     ]
   }
