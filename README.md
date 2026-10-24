@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=4a74029d" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=40ff546e" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,8 +90,8 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**housefi-ibmbob**](https://github.com/sujal128005/housefi-ibmbob) | [`f283889`](https://github.com/sujal128005/housefi-ibmbob/commit/f283889079edd9c687369b353f56be016f69055d) Merge pull request #10 from sujal128005/sujal128005-patch-2 | 3 h ago |
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 17 h ago |
+| [**housefi-ibmbob**](https://github.com/sujal128005/housefi-ibmbob) | [`f283889`](https://github.com/sujal128005/housefi-ibmbob/commit/f283889079edd9c687369b353f56be016f69055d) Merge pull request #10 from sujal128005/sujal128005-patch-2 | 8 h ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 21 h ago |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 24 d ago |
 | [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 1 mo ago |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`337d28c`](https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93) Complete project updates and fixes | 1 mo ago |
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=85537019" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=6f546f89" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 24 Oct 2026, 21:34 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 25 Oct 2026, 02:28 IST · rebuilt by GitHub Actions</sub>
 
 </div>
