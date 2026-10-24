@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=bc4e906b" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
+<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=535a8f27" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
 <br/>
 <a href="https://limen-peqe.onrender.com"><img src="./assets/generated/btn-limen-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/limen"><img src="./assets/generated/btn-limen-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -40,7 +40,7 @@
 <br/>
 
 <p align="center">
-<a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/project-khata.svg?v=d8cd407a" alt="Khata: Real-time claim verification for live sales calls. Live, Aug 2026." width="100%"/></a>
+<a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/project-khata.svg?v=f771591b" alt="Khata: Real-time claim verification for live sales calls. Live, Aug 2026." width="100%"/></a>
 <br/>
 <a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/btn-khata-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/khata"><img src="./assets/generated/btn-khata-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=e68f5c7d" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=6e9102ab" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,19 +90,19 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**housefi**](https://github.com/sujal128005/housefi) | [`6c746a0`](https://github.com/sujal128005/housefi/commit/6c746a09d15d0509369c5a4533c8ec71a42b1f03) Merge pull request #68 from sujal128005/feature/courses | 3 min ago |
+| [**housefi**](https://github.com/sujal128005/housefi) | [`552ff8a`](https://github.com/sujal128005/housefi/commit/552ff8a41dfcca0422c542ff36d12ad594069eea) Merge pull request #73 from sujal128005/feature/apprentice-mode | 2 min ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 5 h ago |
+| [**housefi-ibmbob**](https://github.com/sujal128005/housefi-ibmbob) | [`a080317`](https://github.com/sujal128005/housefi-ibmbob/commit/a080317580fac85f02967532b87dc16df4e0b2c2) Housefi: home services platform for Hyderabad (app, API server, admin portal) | 6 h ago |
 | [**procure**](https://github.com/sujal128005/procure) | [`fbf90e7`](https://github.com/sujal128005/procure/commit/fbf90e7ecf57f47e40d2de0c4fe4246231a27799) Add the complete technical guide (PDF with HTML source and screenshots) | 3 d ago |
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`c62d1bc`](https://github.com/sujal128005/housefi-website/commit/c62d1bc8b3ece02bbc1d59a12e0f10d332672b34) Merge pull request #5 from sujal128005/website/smooth-scroll | 3 d ago |
-| [**limen**](https://github.com/sujal128005/limen) | [`468a004`](https://github.com/sujal128005/limen/commit/468a00457ad79de5518c90f8a254f756bbf837e0) Let a company have more than one purchase, and one policy over all of them | 19 d ago |
+| [**limen**](https://github.com/sujal128005/limen) | [`468a004`](https://github.com/sujal128005/limen/commit/468a00457ad79de5518c90f8a254f756bbf837e0) Let a company have more than one purchase, and one policy over all of them | 20 d ago |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 23 d ago |
-| [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 1 mo ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
 | [**housefi**](https://github.com/sujal128005/housefi) | — | TypeScript |
-| [**housefi-ibmbob**](https://github.com/sujal128005/housefi-ibmbob) | — | — |
-| [**procure**](https://github.com/sujal128005/procure) | — | TypeScript |
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | — | TypeScript |
+| [**housefi-ibmbob**](https://github.com/sujal128005/housefi-ibmbob) | — | TypeScript |
+| [**procure**](https://github.com/sujal128005/procure) | — | TypeScript |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
 | [**apix**](https://github.com/sujal128005/apix) | — | Python |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 24 Oct 2026, 03:00 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 24 Oct 2026, 10:17 IST · rebuilt by GitHub Actions</sub>
 
 </div>

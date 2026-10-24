@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T03:00+05:30",
+  "fetched_at": "2026-10-24T10:17+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -29,13 +29,13 @@
       },
       "weekly": [
         0,
-        0,
-        2,
+        1,
+        1,
         0,
         10,
         4,
-        6,
-        5,
+        11,
+        0,
         6,
         10,
         0,
@@ -69,8 +69,8 @@
         "url": "https://github.com/sujal128005/khata/commit/7fb1c52944dbf584c21578b36207b66b719fddc1"
       },
       "weekly": [
-        0,
-        18,
+        8,
+        10,
         0,
         0,
         0,
@@ -172,23 +172,23 @@
   "languages": [
     [
       "TypeScript",
-      6946721
+      10676997
     ],
     [
       "JavaScript",
-      2395348
+      2568734
     ],
     [
       "Python",
-      1408029
+      1415048
     ],
     [
       "CSS",
-      559726
+      613335
     ],
     [
       "HTML",
-      360949
+      362562
     ],
     [
       "Solidity",
@@ -196,19 +196,19 @@
     ],
     [
       "Shell",
-      17415
+      18958
     ],
     [
       "PowerShell",
-      9110
+      18220
     ],
     [
       "Dockerfile",
-      6407
+      8408
     ],
     [
       "PLpgSQL",
-      4024
+      8048
     ],
     [
       "C++",
@@ -224,7 +224,7 @@
     ],
     [
       "Batchfile",
-      196
+      392
     ]
   ],
   "recent": [
@@ -232,14 +232,40 @@
       "name": "housefi",
       "full": "sujal128005/housefi",
       "url": "https://github.com/sujal128005/housefi",
-      "commits": 191,
+      "commits": 207,
       "latest": {
-        "sha": "6c746a0",
-        "message": "Merge pull request #68 from sujal128005/feature/courses",
-        "date": "2026-10-23T21:27:29Z",
-        "url": "https://github.com/sujal128005/housefi/commit/6c746a09d15d0509369c5a4533c8ec71a42b1f03"
+        "sha": "552ff8a",
+        "message": "Merge pull request #73 from sujal128005/feature/apprentice-mode",
+        "date": "2026-10-24T04:44:41Z",
+        "url": "https://github.com/sujal128005/housefi/commit/552ff8a41dfcca0422c542ff36d12ad594069eea"
       },
-      "pushed_at": "2026-10-23T21:27:29Z"
+      "pushed_at": "2026-10-24T04:44:41Z"
+    },
+    {
+      "name": "housefi-website",
+      "full": "sujal128005/housefi-website",
+      "url": "https://github.com/sujal128005/housefi-website",
+      "commits": 15,
+      "latest": {
+        "sha": "e16a648",
+        "message": "Merge pull request #6 from sujal128005/website/skill-passport",
+        "date": "2026-10-23T23:01:55Z",
+        "url": "https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4"
+      },
+      "pushed_at": "2026-10-23T23:01:55Z"
+    },
+    {
+      "name": "housefi-ibmbob",
+      "full": "sujal128005/housefi-ibmbob",
+      "url": "https://github.com/sujal128005/housefi-ibmbob",
+      "commits": 1,
+      "latest": {
+        "sha": "a080317",
+        "message": "Housefi: home services platform for Hyderabad (app, API server, admin portal)",
+        "date": "2026-10-23T22:10:58Z",
+        "url": "https://github.com/sujal128005/housefi-ibmbob/commit/a080317580fac85f02967532b87dc16df4e0b2c2"
+      },
+      "pushed_at": "2026-10-23T22:14:53Z"
     },
     {
       "name": "procure",
@@ -253,19 +279,6 @@
         "url": "https://github.com/sujal128005/procure/commit/fbf90e7ecf57f47e40d2de0c4fe4246231a27799"
       },
       "pushed_at": "2026-10-20T21:05:27Z"
-    },
-    {
-      "name": "housefi-website",
-      "full": "sujal128005/housefi-website",
-      "url": "https://github.com/sujal128005/housefi-website",
-      "commits": 13,
-      "latest": {
-        "sha": "c62d1bc",
-        "message": "Merge pull request #5 from sujal128005/website/smooth-scroll",
-        "date": "2026-10-20T20:50:39Z",
-        "url": "https://github.com/sujal128005/housefi-website/commit/c62d1bc8b3ece02bbc1d59a12e0f10d332672b34"
-      },
-      "pushed_at": "2026-10-20T20:50:39Z"
     },
     {
       "name": "limen",
@@ -292,19 +305,6 @@
         "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28"
       },
       "pushed_at": "2026-09-30T11:33:24Z"
-    },
-    {
-      "name": "apix",
-      "full": "sujal128005/apix",
-      "url": "https://github.com/sujal128005/apix",
-      "commits": 39,
-      "latest": {
-        "sha": "90f211e",
-        "message": "Record: last-minute premium is unmeasured; remove test asserting it",
-        "date": "2026-09-13T18:28:49Z",
-        "url": "https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa"
-      },
-      "pushed_at": "2026-09-13T18:28:52Z"
     }
   ],
   "bench": [
@@ -315,17 +315,27 @@
       "language": "TypeScript",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-23T21:27:29Z",
+      "pushed_at": "2026-10-24T04:44:41Z",
+      "archived": false
+    },
+    {
+      "name": "housefi-website",
+      "url": "https://github.com/sujal128005/housefi-website",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-23T23:01:55Z",
       "archived": false
     },
     {
       "name": "housefi-ibmbob",
       "url": "https://github.com/sujal128005/housefi-ibmbob",
       "description": "",
-      "language": "",
+      "language": "TypeScript",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-23T15:44:10Z",
+      "pushed_at": "2026-10-23T22:14:53Z",
       "archived": false
     },
     {
@@ -336,16 +346,6 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-10-20T21:05:27Z",
-      "archived": false
-    },
-    {
-      "name": "housefi-website",
-      "url": "https://github.com/sujal128005/housefi-website",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-20T20:50:39Z",
       "archived": false
     },
     {
@@ -390,14 +390,14 @@
     }
   ],
   "calendar": {
-    "total": 448,
-    "commits": 377,
-    "prs": 49,
+    "total": 488,
+    "commits": 407,
+    "prs": 59,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 9,
-    "longest": 9,
+    "streak": 10,
+    "longest": 10,
     "days": [
       [
         "2025-10-19",
@@ -1878,6 +1878,10 @@
       [
         "2026-10-23",
         23
+      ],
+      [
+        "2026-10-24",
+        40
       ]
     ]
   }
