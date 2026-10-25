@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-25T02:28+05:30",
+  "fetched_at": "2026-10-25T10:25+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 20,
+    "public_repos": 21,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -32,8 +32,8 @@
         "url": "https://github.com/sujal128005/khata/commit/7fb1c52944dbf584c21578b36207b66b719fddc1"
       },
       "weekly": [
-        8,
-        10,
+        18,
+        0,
         0,
         0,
         0,
@@ -143,15 +143,15 @@
     ],
     [
       "JavaScript",
-      738751
+      833793
     ],
     [
       "CSS",
-      314198
+      387254
     ],
     [
       "HTML",
-      269303
+      269428
     ],
     [
       "Solidity",
@@ -192,6 +192,32 @@
   ],
   "recent": [
     {
+      "name": "sujalnegi.github.io",
+      "full": "sujal128005/sujalnegi.github.io",
+      "url": "https://github.com/sujal128005/sujalnegi.github.io",
+      "commits": 35,
+      "latest": {
+        "sha": "b09f27b",
+        "message": "Update index.html",
+        "date": "2026-10-24T22:14:25Z",
+        "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a"
+      },
+      "pushed_at": "2026-10-24T22:14:26Z"
+    },
+    {
+      "name": "alfaaz-sujal-ke",
+      "full": "sujal128005/alfaaz-sujal-ke",
+      "url": "https://github.com/sujal128005/alfaaz-sujal-ke",
+      "commits": 7,
+      "latest": {
+        "sha": "ded2da8",
+        "message": "Set website address",
+        "date": "2026-10-24T21:59:36Z",
+        "url": "https://github.com/sujal128005/alfaaz-sujal-ke/commit/ded2da8947d448e5a1f3dd05cd5b4385431e4f40"
+      },
+      "pushed_at": "2026-10-24T21:59:39Z"
+    },
+    {
       "name": "housefi-ibmbob",
       "full": "sujal128005/housefi-ibmbob",
       "url": "https://github.com/sujal128005/housefi-ibmbob",
@@ -218,19 +244,6 @@
       "pushed_at": "2026-10-23T23:01:55Z"
     },
     {
-      "name": "sujalnegi.github.io",
-      "full": "sujal128005/sujalnegi.github.io",
-      "url": "https://github.com/sujal128005/sujalnegi.github.io",
-      "commits": 33,
-      "latest": {
-        "sha": "e3fd852",
-        "message": "Update index.html",
-        "date": "2026-09-30T11:33:23Z",
-        "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28"
-      },
-      "pushed_at": "2026-09-30T11:33:24Z"
-    },
-    {
       "name": "apix",
       "full": "sujal128005/apix",
       "url": "https://github.com/sujal128005/apix",
@@ -255,22 +268,29 @@
         "url": "https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93"
       },
       "pushed_at": "2026-09-01T13:37:32Z"
-    },
-    {
-      "name": "Covenant",
-      "full": "sujal128005/Covenant",
-      "url": "https://github.com/sujal128005/Covenant",
-      "commits": 3,
-      "latest": {
-        "sha": "abec123",
-        "message": "Fix link format for technical documentation PDF",
-        "date": "2026-08-19T05:03:07Z",
-        "url": "https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396"
-      },
-      "pushed_at": "2026-08-19T05:03:07Z"
     }
   ],
   "bench": [
+    {
+      "name": "sujalnegi.github.io",
+      "url": "https://github.com/sujal128005/sujalnegi.github.io",
+      "description": "Portfolio",
+      "language": "HTML",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-24T22:14:26Z",
+      "archived": false
+    },
+    {
+      "name": "alfaaz-sujal-ke",
+      "url": "https://github.com/sujal128005/alfaaz-sujal-ke",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-24T21:59:39Z",
+      "archived": false
+    },
     {
       "name": "housefi-ibmbob",
       "url": "https://github.com/sujal128005/housefi-ibmbob",
@@ -289,16 +309,6 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-10-23T23:01:55Z",
-      "archived": false
-    },
-    {
-      "name": "sujalnegi.github.io",
-      "url": "https://github.com/sujal128005/sujalnegi.github.io",
-      "description": "Portfolio",
-      "language": "HTML",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-09-30T11:33:24Z",
       "archived": false
     },
     {
@@ -340,56 +350,18 @@
       "homepage": "",
       "pushed_at": "2026-06-11T11:35:08Z",
       "archived": false
-    },
-    {
-      "name": "Navyam",
-      "url": "https://github.com/sujal128005/Navyam",
-      "description": "",
-      "language": "",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-06-10T07:04:29Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 259,
-    "commits": 230,
+    "total": 269,
+    "commits": 239,
     "prs": 10,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 2,
+    "streak": 3,
     "longest": 5,
     "days": [
-      [
-        "2025-10-19",
-        0
-      ],
-      [
-        "2025-10-20",
-        0
-      ],
-      [
-        "2025-10-21",
-        0
-      ],
-      [
-        "2025-10-22",
-        0
-      ],
-      [
-        "2025-10-23",
-        0
-      ],
-      [
-        "2025-10-24",
-        0
-      ],
-      [
-        "2025-10-25",
-        0
-      ],
       [
         "2025-10-26",
         0
@@ -1844,7 +1816,11 @@
       ],
       [
         "2026-10-24",
-        17
+        18
+      ],
+      [
+        "2026-10-25",
+        9
       ]
     ]
   }

@@ -92,7 +92,7 @@
       ],
       [
         "Also",
-        "Author of 10 books in English and Hindi as <a href=\"https://www.instagram.com/sujal128005/\" target=\"_blank\" rel=\"noopener\" aria-label=\"alfaazsujalke on Instagram, @sujal128005\"><em>alfaazsujalke</em></a>"
+        "Author of 10 books in English and Hindi as <a href=\"https://alfaaz.sujalnegi.tech\" target=\"_blank\" rel=\"noopener\" aria-label=\"alfaazsujalke, my poetry website\"><em>alfaazsujalke</em></a>"
       ]
     ],
     "portrait_src": "Sujal_img.jpeg"
@@ -362,6 +362,11 @@
         "kind": "line",
         "href": "https://github.com/sujal128005",
         "label": "GitHub"
+      },
+      {
+        "kind": "line",
+        "href": "https://alfaaz.sujalnegi.tech",
+        "label": "Poetry · alfaazsujalke"
       },
       {
         "kind": "line",

@@ -24,7 +24,7 @@
 
 <a href="https://sujalnegi.tech/#s-about"><img src="./assets/generated/about.svg?v=0185c017" alt="Who&#x27;s building this." width="100%"/></a>
 
-<sub>**Building next:** [NEXARA9](https://nexara9.me/), an autonomous-systems venture · **Also:** Author of 10 books in English and Hindi as [alfaazsujalke](https://www.instagram.com/sujal128005/)</sub>
+<sub>**Building next:** [NEXARA9](https://nexara9.me/), an autonomous-systems venture · **Also:** Author of 10 books in English and Hindi as [alfaazsujalke](https://alfaaz.sujalnegi.tech)</sub>
 
 </div>
 
@@ -40,7 +40,7 @@
 <br/>
 
 <p align="center">
-<a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/project-khata.svg?v=f771591b" alt="Khata: Real-time claim verification for live sales calls. Live, Aug 2026." width="100%"/></a>
+<a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/project-khata.svg?v=feabd1ac" alt="Khata: Real-time claim verification for live sales calls. Live, Aug 2026." width="100%"/></a>
 <br/>
 <a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/btn-khata-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/khata"><img src="./assets/generated/btn-khata-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=40ff546e" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=8d15cc84" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,23 +90,23 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**housefi-ibmbob**](https://github.com/sujal128005/housefi-ibmbob) | [`f283889`](https://github.com/sujal128005/housefi-ibmbob/commit/f283889079edd9c687369b353f56be016f69055d) Merge pull request #10 from sujal128005/sujal128005-patch-2 | 8 h ago |
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 21 h ago |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`e3fd852`](https://github.com/sujal128005/sujalnegi.github.io/commit/e3fd85207cd9074baf2324d02577de53fe397f28) Update index.html | 24 d ago |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 6 h ago |
+| [**alfaaz-sujal-ke**](https://github.com/sujal128005/alfaaz-sujal-ke) | [`ded2da8`](https://github.com/sujal128005/alfaaz-sujal-ke/commit/ded2da8947d448e5a1f3dd05cd5b4385431e4f40) Set website address | 6 h ago |
+| [**housefi-ibmbob**](https://github.com/sujal128005/housefi-ibmbob) | [`f283889`](https://github.com/sujal128005/housefi-ibmbob/commit/f283889079edd9c687369b353f56be016f69055d) Merge pull request #10 from sujal128005/sujal128005-patch-2 | 15 h ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 1 d ago |
 | [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 1 mo ago |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`337d28c`](https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93) Complete project updates and fixes | 1 mo ago |
-| [**Covenant**](https://github.com/sujal128005/Covenant) | [`abec123`](https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396) Fix link format for technical documentation PDF | 2 mo ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
+| [**alfaaz-sujal-ke**](https://github.com/sujal128005/alfaaz-sujal-ke) | — | JavaScript |
 | [**housefi-ibmbob**](https://github.com/sujal128005/housefi-ibmbob) | — | TypeScript |
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | — | TypeScript |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
 | [**apix**](https://github.com/sujal128005/apix) | — | Python |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
 | [**Covenant**](https://github.com/sujal128005/Covenant) · [live](https://covenant-j1op.onrender.com) | Covenant is an AI procurement agent with on-chain spending controls. It helps businesses source physical goods, compare suppliers, negotiate prices, and execute purchases while keeping the spending limit outside the agent's control. | JavaScript |
 | [**Navya--Nexara9**](https://github.com/sujal128005/Navya--Nexara9) | Project | Python |
-| [**Navyam**](https://github.com/sujal128005/Navyam) | — | — |
 
 <br/>
 
@@ -129,10 +129,11 @@
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
 <a href="https://github.com/sujal128005"><img src="./assets/generated/btn-contact-github.svg?v=9687e206" alt="GitHub" height="44"/></a>
+<a href="https://alfaaz.sujalnegi.tech"><img src="./assets/generated/btn-contact-poetry-alfaazsujalke.svg?v=6ef2dcf1" alt="Poetry · alfaazsujalke" height="44"/></a>
 <a href="https://sujalnegi.tech/Sujal_Negi_Resume.pdf"><img src="./assets/generated/btn-contact-resume.svg?v=319905cb" alt="Résumé" height="44"/></a>
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 25 Oct 2026, 02:28 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 25 Oct 2026, 10:25 IST · rebuilt by GitHub Actions</sub>
 
 </div>
