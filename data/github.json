@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-28T18:42+05:30",
+  "fetched_at": "2026-10-29T04:12+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 21,
+    "public_repos": 20,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -135,23 +135,23 @@
   "languages": [
     [
       "TypeScript",
-      5294672
+      1482901
     ],
     [
       "Python",
-      1408029
+      1401010
     ],
     [
       "JavaScript",
-      833793
+      660407
     ],
     [
       "CSS",
-      387254
+      334776
     ],
     [
       "HTML",
-      269428
+      267815
     ],
     [
       "Solidity",
@@ -159,19 +159,11 @@
     ],
     [
       "Shell",
-      13654
-    ],
-    [
-      "PowerShell",
-      9110
+      12111
     ],
     [
       "Dockerfile",
-      4484
-    ],
-    [
-      "PLpgSQL",
-      4024
+      2483
     ],
     [
       "C++",
@@ -184,10 +176,6 @@
     [
       "Mako",
       616
-    ],
-    [
-      "Batchfile",
-      196
     ]
   ],
   "recent": [
@@ -203,19 +191,6 @@
         "url": "https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4"
       },
       "pushed_at": "2026-10-26T12:56:33Z"
-    },
-    {
-      "name": "housefi-ibmbob",
-      "full": "sujal128005/housefi-ibmbob",
-      "url": "https://github.com/sujal128005/housefi-ibmbob",
-      "commits": 10,
-      "latest": {
-        "sha": "f283889",
-        "message": "Merge pull request #10 from sujal128005/sujal128005-patch-2",
-        "date": "2026-10-24T12:56:19Z",
-        "url": "https://github.com/sujal128005/housefi-ibmbob/commit/f283889079edd9c687369b353f56be016f69055d"
-      },
-      "pushed_at": "2026-10-26T05:55:27Z"
     },
     {
       "name": "sujalnegi.github.io",
@@ -268,6 +243,19 @@
         "url": "https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93"
       },
       "pushed_at": "2026-09-01T13:37:32Z"
+    },
+    {
+      "name": "Covenant",
+      "full": "sujal128005/Covenant",
+      "url": "https://github.com/sujal128005/Covenant",
+      "commits": 3,
+      "latest": {
+        "sha": "abec123",
+        "message": "Fix link format for technical documentation PDF",
+        "date": "2026-08-19T05:03:07Z",
+        "url": "https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396"
+      },
+      "pushed_at": "2026-08-19T05:03:07Z"
     }
   ],
   "bench": [
@@ -279,16 +267,6 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-10-26T12:56:33Z",
-      "archived": false
-    },
-    {
-      "name": "housefi-ibmbob",
-      "url": "https://github.com/sujal128005/housefi-ibmbob",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-26T05:55:27Z",
       "archived": false
     },
     {
@@ -350,12 +328,22 @@
       "homepage": "",
       "pushed_at": "2026-06-11T11:35:08Z",
       "archived": false
+    },
+    {
+      "name": "Navyam",
+      "url": "https://github.com/sujal128005/Navyam",
+      "description": "",
+      "language": "",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-06-10T07:04:29Z",
+      "archived": false
     }
   ],
   "calendar": {
-    "total": 269,
-    "commits": 239,
-    "prs": 10,
+    "total": 254,
+    "commits": 229,
+    "prs": 6,
     "issues": 0,
     "reviews": 0,
     "private": 0,
@@ -1812,11 +1800,11 @@
       ],
       [
         "2026-10-23",
-        2
+        1
       ],
       [
         "2026-10-24",
-        18
+        4
       ],
       [
         "2026-10-25",
