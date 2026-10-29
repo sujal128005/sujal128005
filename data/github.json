@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-29T18:49+05:30",
+  "fetched_at": "2026-10-30T04:20+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 20,
+    "public_repos": 21,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -135,7 +135,7 @@
   "languages": [
     [
       "Python",
-      1486226
+      1513879
     ],
     [
       "TypeScript",
@@ -158,16 +158,16 @@
       17482
     ],
     [
+      "C++",
+      12237
+    ],
+    [
       "Shell",
       12111
     ],
     [
       "Dockerfile",
       2483
-    ],
-    [
-      "C++",
-      1826
     ],
     [
       "CMake",
@@ -179,6 +179,19 @@
     ]
   ],
   "recent": [
+    {
+      "name": "navya_autonomouscar",
+      "full": "sujal128005/navya_autonomouscar",
+      "url": "https://github.com/sujal128005/navya_autonomouscar",
+      "commits": 11,
+      "latest": {
+        "sha": "02378bd",
+        "message": "Slower cruise speed for indoor runs (200 -> 130)",
+        "date": "2026-10-29T18:24:41Z",
+        "url": "https://github.com/sujal128005/navya_autonomouscar/commit/02378bda9d221de3bc762518188a8c0756a29f8a"
+      },
+      "pushed_at": "2026-10-29T18:24:45Z"
+    },
     {
       "name": "Navyam",
       "full": "sujal128005/Navyam",
@@ -243,22 +256,19 @@
         "url": "https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa"
       },
       "pushed_at": "2026-09-13T18:28:52Z"
-    },
-    {
-      "name": "bouncerkya",
-      "full": "sujal128005/bouncerkya",
-      "url": "https://github.com/sujal128005/bouncerkya",
-      "commits": 10,
-      "latest": {
-        "sha": "337d28c",
-        "message": "Complete project updates and fixes",
-        "date": "2026-09-01T13:37:21Z",
-        "url": "https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93"
-      },
-      "pushed_at": "2026-09-01T13:37:32Z"
     }
   ],
   "bench": [
+    {
+      "name": "navya_autonomouscar",
+      "url": "https://github.com/sujal128005/navya_autonomouscar",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-29T18:24:45Z",
+      "archived": false
+    },
     {
       "name": "Navyam",
       "url": "https://github.com/sujal128005/Navyam",
@@ -328,21 +338,11 @@
       "homepage": "https://covenant-j1op.onrender.com",
       "pushed_at": "2026-08-19T05:03:07Z",
       "archived": false
-    },
-    {
-      "name": "Navya--Nexara9",
-      "url": "https://github.com/sujal128005/Navya--Nexara9",
-      "description": "Project",
-      "language": "Python",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-06-11T11:35:08Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 258,
-    "commits": 233,
+    "total": 270,
+    "commits": 244,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
@@ -1392,7 +1392,7 @@
       ],
       [
         "2026-07-13",
-        0
+        6
       ],
       [
         "2026-07-14",
@@ -1824,7 +1824,7 @@
       ],
       [
         "2026-10-29",
-        4
+        10
       ]
     ]
   }
