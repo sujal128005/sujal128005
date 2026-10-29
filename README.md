@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=ef6e4169" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=daf4a559" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,15 +90,16 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
+| [**Navyam**](https://github.com/sujal128005/Navyam) | [`c07fbe2`](https://github.com/sujal128005/Navyam/commit/c07fbe2970c87b196376557dfdfc2576e2b33c6f) Guide: clone from sujal128005/Navyam into ~/navyam | 13 min ago |
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 5 d ago |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 4 d ago |
 | [**alfaaz-sujal-ke**](https://github.com/sujal128005/alfaaz-sujal-ke) | [`ded2da8`](https://github.com/sujal128005/alfaaz-sujal-ke/commit/ded2da8947d448e5a1f3dd05cd5b4385431e4f40) Set website address | 4 d ago |
 | [**apix**](https://github.com/sujal128005/apix) | [`90f211e`](https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa) Record: last-minute premium is unmeasured; remove test asserting it | 1 mo ago |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`337d28c`](https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93) Complete project updates and fixes | 1 mo ago |
-| [**Covenant**](https://github.com/sujal128005/Covenant) | [`abec123`](https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396) Fix link format for technical documentation PDF | 2 mo ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
+| [**Navyam**](https://github.com/sujal128005/Navyam) | — | Python |
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | — | TypeScript |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
 | [**alfaaz-sujal-ke**](https://github.com/sujal128005/alfaaz-sujal-ke) | — | JavaScript |
@@ -106,7 +107,6 @@
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
 | [**Covenant**](https://github.com/sujal128005/Covenant) · [live](https://covenant-j1op.onrender.com) | Covenant is an AI procurement agent with on-chain spending controls. It helps businesses source physical goods, compare suppliers, negotiate prices, and execute purchases while keeping the spending limit outside the agent's control. | JavaScript |
 | [**Navya--Nexara9**](https://github.com/sujal128005/Navya--Nexara9) | Project | Python |
-| [**Navyam**](https://github.com/sujal128005/Navyam) | — | — |
 
 <br/>
 
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 29 Oct 2026, 11:29 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 29 Oct 2026, 18:49 IST · rebuilt by GitHub Actions</sub>
 
 </div>

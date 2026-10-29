@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T11:29+05:30",
+  "fetched_at": "2026-10-29T18:49+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -134,12 +134,12 @@
   },
   "languages": [
     [
-      "TypeScript",
-      1482901
+      "Python",
+      1486226
     ],
     [
-      "Python",
-      1401010
+      "TypeScript",
+      1482901
     ],
     [
       "JavaScript",
@@ -171,7 +171,7 @@
     ],
     [
       "CMake",
-      801
+      1527
     ],
     [
       "Mako",
@@ -179,6 +179,19 @@
     ]
   ],
   "recent": [
+    {
+      "name": "Navyam",
+      "full": "sujal128005/Navyam",
+      "url": "https://github.com/sujal128005/Navyam",
+      "commits": 4,
+      "latest": {
+        "sha": "c07fbe2",
+        "message": "Guide: clone from sujal128005/Navyam into ~/navyam",
+        "date": "2026-10-29T13:05:46Z",
+        "url": "https://github.com/sujal128005/Navyam/commit/c07fbe2970c87b196376557dfdfc2576e2b33c6f"
+      },
+      "pushed_at": "2026-10-29T13:05:58Z"
+    },
     {
       "name": "housefi-website",
       "full": "sujal128005/housefi-website",
@@ -243,22 +256,19 @@
         "url": "https://github.com/sujal128005/bouncerkya/commit/337d28c1b0a5548537237d1716b43fce97f7eb93"
       },
       "pushed_at": "2026-09-01T13:37:32Z"
-    },
-    {
-      "name": "Covenant",
-      "full": "sujal128005/Covenant",
-      "url": "https://github.com/sujal128005/Covenant",
-      "commits": 3,
-      "latest": {
-        "sha": "abec123",
-        "message": "Fix link format for technical documentation PDF",
-        "date": "2026-08-19T05:03:07Z",
-        "url": "https://github.com/sujal128005/Covenant/commit/abec1233a90814bafae2680f6990209cd81d7396"
-      },
-      "pushed_at": "2026-08-19T05:03:07Z"
     }
   ],
   "bench": [
+    {
+      "name": "Navyam",
+      "url": "https://github.com/sujal128005/Navyam",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-29T13:05:58Z",
+      "archived": false
+    },
     {
       "name": "housefi-website",
       "url": "https://github.com/sujal128005/housefi-website",
@@ -328,26 +338,16 @@
       "homepage": "",
       "pushed_at": "2026-06-11T11:35:08Z",
       "archived": false
-    },
-    {
-      "name": "Navyam",
-      "url": "https://github.com/sujal128005/Navyam",
-      "description": "",
-      "language": "",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-06-10T07:04:29Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 254,
-    "commits": 229,
+    "total": 258,
+    "commits": 233,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 0,
+    "streak": 1,
     "longest": 5,
     "days": [
       [
@@ -1824,7 +1824,7 @@
       ],
       [
         "2026-10-29",
-        0
+        4
       ]
     ]
   }
