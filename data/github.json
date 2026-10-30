@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T18:41+05:30",
+  "fetched_at": "2026-10-31T03:58+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -135,7 +135,7 @@
   "languages": [
     [
       "Python",
-      1557923
+      1589860
     ],
     [
       "TypeScript",
@@ -183,27 +183,27 @@
       "name": "navya_autonomouscar",
       "full": "sujal128005/navya_autonomouscar",
       "url": "https://github.com/sujal128005/navya_autonomouscar",
-      "commits": 17,
+      "commits": 26,
       "latest": {
-        "sha": "fed4203",
-        "message": "Move off faster after an obstacle clears",
-        "date": "2026-10-30T11:28:33Z",
-        "url": "https://github.com/sujal128005/navya_autonomouscar/commit/fed42034914510ea3556e6efc0a5104fad41fb8d"
+        "sha": "bc42255",
+        "message": "Bill: keep the toy steering (professor's decision), mark what the current car needs",
+        "date": "2026-10-30T20:03:52Z",
+        "url": "https://github.com/sujal128005/navya_autonomouscar/commit/bc42255e8805b6646112bd78fd08e3a3839ddf28"
       },
-      "pushed_at": "2026-10-30T11:28:36Z"
+      "pushed_at": "2026-10-30T20:03:55Z"
     },
     {
       "name": "Navyam",
       "full": "sujal128005/Navyam",
       "url": "https://github.com/sujal128005/Navyam",
-      "commits": 4,
+      "commits": 5,
       "latest": {
-        "sha": "c07fbe2",
-        "message": "Guide: clone from sujal128005/Navyam into ~/navyam",
-        "date": "2026-10-29T13:05:46Z",
-        "url": "https://github.com/sujal128005/Navyam/commit/c07fbe2970c87b196376557dfdfc2576e2b33c6f"
+        "sha": "3fa2007",
+        "message": "Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026)",
+        "date": "2026-10-30T19:42:31Z",
+        "url": "https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637"
       },
-      "pushed_at": "2026-10-29T13:05:58Z"
+      "pushed_at": "2026-10-30T19:42:34Z"
     },
     {
       "name": "housefi-website",
@@ -266,7 +266,7 @@
       "language": "Python",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-30T11:28:36Z",
+      "pushed_at": "2026-10-30T20:03:55Z",
       "archived": false
     },
     {
@@ -276,7 +276,7 @@
       "language": "Python",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-29T13:05:58Z",
+      "pushed_at": "2026-10-30T19:42:34Z",
       "archived": false
     },
     {
