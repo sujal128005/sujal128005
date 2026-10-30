@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=a9178901" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=1da7008f" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,8 +90,8 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`02378bd`](https://github.com/sujal128005/navya_autonomouscar/commit/02378bda9d221de3bc762518188a8c0756a29f8a) Slower cruise speed for indoor runs (200 -> 130) | 11 h ago |
-| [**Navyam**](https://github.com/sujal128005/Navyam) | [`c07fbe2`](https://github.com/sujal128005/Navyam/commit/c07fbe2970c87b196376557dfdfc2576e2b33c6f) Guide: clone from sujal128005/Navyam into ~/navyam | 16 h ago |
+| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`fed4203`](https://github.com/sujal128005/navya_autonomouscar/commit/fed42034914510ea3556e6efc0a5104fad41fb8d) Move off faster after an obstacle clears | 1 h ago |
+| [**Navyam**](https://github.com/sujal128005/Navyam) | [`c07fbe2`](https://github.com/sujal128005/Navyam/commit/c07fbe2970c87b196376557dfdfc2576e2b33c6f) Guide: clone from sujal128005/Navyam into ~/navyam | 1 d ago |
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 6 d ago |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 5 d ago |
 | [**alfaaz-sujal-ke**](https://github.com/sujal128005/alfaaz-sujal-ke) | [`ded2da8`](https://github.com/sujal128005/alfaaz-sujal-ke/commit/ded2da8947d448e5a1f3dd05cd5b4385431e4f40) Set website address | 5 d ago |
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 30 Oct 2026, 11:30 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 30 Oct 2026, 18:41 IST · rebuilt by GitHub Actions</sub>
 
 </div>

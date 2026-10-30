@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T11:30+05:30",
+  "fetched_at": "2026-10-30T18:41+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -135,7 +135,7 @@
   "languages": [
     [
       "Python",
-      1513879
+      1557923
     ],
     [
       "TypeScript",
@@ -183,14 +183,14 @@
       "name": "navya_autonomouscar",
       "full": "sujal128005/navya_autonomouscar",
       "url": "https://github.com/sujal128005/navya_autonomouscar",
-      "commits": 11,
+      "commits": 17,
       "latest": {
-        "sha": "02378bd",
-        "message": "Slower cruise speed for indoor runs (200 -> 130)",
-        "date": "2026-10-29T18:24:41Z",
-        "url": "https://github.com/sujal128005/navya_autonomouscar/commit/02378bda9d221de3bc762518188a8c0756a29f8a"
+        "sha": "fed4203",
+        "message": "Move off faster after an obstacle clears",
+        "date": "2026-10-30T11:28:33Z",
+        "url": "https://github.com/sujal128005/navya_autonomouscar/commit/fed42034914510ea3556e6efc0a5104fad41fb8d"
       },
-      "pushed_at": "2026-10-29T18:24:45Z"
+      "pushed_at": "2026-10-30T11:28:36Z"
     },
     {
       "name": "Navyam",
@@ -266,7 +266,7 @@
       "language": "Python",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-29T18:24:45Z",
+      "pushed_at": "2026-10-30T11:28:36Z",
       "archived": false
     },
     {
@@ -341,13 +341,13 @@
     }
   ],
   "calendar": {
-    "total": 270,
-    "commits": 244,
+    "total": 276,
+    "commits": 250,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 1,
+    "streak": 2,
     "longest": 5,
     "days": [
       [
@@ -1828,7 +1828,7 @@
       ],
       [
         "2026-10-30",
-        0
+        6
       ]
     ]
   }
