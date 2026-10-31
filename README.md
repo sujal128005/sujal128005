@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=1e2ae97c" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=9dfc012d" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,8 +90,8 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`bc42255`](https://github.com/sujal128005/navya_autonomouscar/commit/bc42255e8805b6646112bd78fd08e3a3839ddf28) Bill: keep the toy steering (professor's decision), mark what the current car needs | 9 h ago |
-| [**Navyam**](https://github.com/sujal128005/Navyam) | [`3fa2007`](https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637) Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026) | 10 h ago |
+| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`bc42255`](https://github.com/sujal128005/navya_autonomouscar/commit/bc42255e8805b6646112bd78fd08e3a3839ddf28) Bill: keep the toy steering (professor's decision), mark what the current car needs | 16 h ago |
+| [**Navyam**](https://github.com/sujal128005/Navyam) | [`3fa2007`](https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637) Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026) | 17 h ago |
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 7 d ago |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 6 d ago |
 | [**alfaaz-sujal-ke**](https://github.com/sujal128005/alfaaz-sujal-ke) | [`ded2da8`](https://github.com/sujal128005/alfaaz-sujal-ke/commit/ded2da8947d448e5a1f3dd05cd5b4385431e4f40) Set website address | 6 d ago |
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 31 Oct 2026, 11:26 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 31 Oct 2026, 18:17 IST · rebuilt by GitHub Actions</sub>
 
 </div>
