@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-31T18:17+05:30",
+  "fetched_at": "2026-11-01T03:13+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 21,
+    "public_repos": 22,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -134,32 +134,32 @@
   },
   "languages": [
     [
-      "Python",
-      1589860
+      "TypeScript",
+      1860443
     ],
     [
-      "TypeScript",
-      1482901
+      "Python",
+      1644947
     ],
     [
       "JavaScript",
-      660407
+      665746
     ],
     [
       "CSS",
-      334776
+      378318
     ],
     [
       "HTML",
-      267815
+      269564
+    ],
+    [
+      "C++",
+      22860
     ],
     [
       "Solidity",
       17482
-    ],
-    [
-      "C++",
-      12237
     ],
     [
       "Shell",
@@ -180,17 +180,30 @@
   ],
   "recent": [
     {
+      "name": "myvault",
+      "full": "sujal128005/myvault",
+      "url": "https://github.com/sujal128005/myvault",
+      "commits": 2,
+      "latest": {
+        "sha": "6c45d4e",
+        "message": "Fix: allow selecting .myvault backups on phones",
+        "date": "2026-10-31T21:37:53Z",
+        "url": "https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f"
+      },
+      "pushed_at": "2026-10-31T21:37:58Z"
+    },
+    {
       "name": "navya_autonomouscar",
       "full": "sujal128005/navya_autonomouscar",
       "url": "https://github.com/sujal128005/navya_autonomouscar",
-      "commits": 26,
+      "commits": 29,
       "latest": {
-        "sha": "bc42255",
-        "message": "Bill: keep the toy steering (professor's decision), mark what the current car needs",
-        "date": "2026-10-30T20:03:52Z",
-        "url": "https://github.com/sujal128005/navya_autonomouscar/commit/bc42255e8805b6646112bd78fd08e3a3839ddf28"
+        "sha": "fe48bf4",
+        "message": "Ask Navya: free Gemini first, Groq fallback (no Anthropic key)",
+        "date": "2026-10-31T21:21:22Z",
+        "url": "https://github.com/sujal128005/navya_autonomouscar/commit/fe48bf4648f2310a204a0ef3b6421c7fa8c1e7ef"
       },
-      "pushed_at": "2026-10-30T20:03:55Z"
+      "pushed_at": "2026-10-31T21:21:27Z"
     },
     {
       "name": "Navyam",
@@ -243,22 +256,19 @@
         "url": "https://github.com/sujal128005/alfaaz-sujal-ke/commit/ded2da8947d448e5a1f3dd05cd5b4385431e4f40"
       },
       "pushed_at": "2026-10-24T21:59:39Z"
-    },
-    {
-      "name": "apix",
-      "full": "sujal128005/apix",
-      "url": "https://github.com/sujal128005/apix",
-      "commits": 39,
-      "latest": {
-        "sha": "90f211e",
-        "message": "Record: last-minute premium is unmeasured; remove test asserting it",
-        "date": "2026-09-13T18:28:49Z",
-        "url": "https://github.com/sujal128005/apix/commit/90f211e54efaae3405d1602b4ae4e77df3bfabfa"
-      },
-      "pushed_at": "2026-09-13T18:28:52Z"
     }
   ],
   "bench": [
+    {
+      "name": "myvault",
+      "url": "https://github.com/sujal128005/myvault",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-31T21:37:58Z",
+      "archived": false
+    },
     {
       "name": "navya_autonomouscar",
       "url": "https://github.com/sujal128005/navya_autonomouscar",
@@ -266,7 +276,7 @@
       "language": "Python",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-10-30T20:03:55Z",
+      "pushed_at": "2026-10-31T21:21:27Z",
       "archived": false
     },
     {
@@ -328,20 +338,10 @@
       "homepage": "https://bouncerkya.onrender.com",
       "pushed_at": "2026-09-01T13:37:32Z",
       "archived": false
-    },
-    {
-      "name": "Covenant",
-      "url": "https://github.com/sujal128005/Covenant",
-      "description": "Covenant is an AI procurement agent with on-chain spending controls. It helps businesses source physical goods, compare suppliers, negotiate prices, and execute purchases while keeping the spending limit outside the agent's control.",
-      "language": "JavaScript",
-      "stars": 0,
-      "homepage": "https://covenant-j1op.onrender.com",
-      "pushed_at": "2026-08-19T05:03:07Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 286,
+    "total": 287,
     "commits": 260,
     "prs": 6,
     "issues": 0,
@@ -1832,7 +1832,7 @@
       ],
       [
         "2026-10-31",
-        10
+        11
       ]
     ]
   }
