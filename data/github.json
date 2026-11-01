@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-01T11:54+05:30",
+  "fetched_at": "2026-11-01T23:28+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -143,7 +143,7 @@
     ],
     [
       "JavaScript",
-      688398
+      688875
     ],
     [
       "CSS",
@@ -184,6 +184,19 @@
   ],
   "recent": [
     {
+      "name": "codeseed",
+      "full": "sujal128005/codeseed",
+      "url": "https://github.com/sujal128005/codeseed",
+      "commits": 3,
+      "latest": {
+        "sha": "5a155e6",
+        "message": "Update feed",
+        "date": "2026-11-01T16:05:58Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/5a155e687ba478b2b9ce31b63639c62ec78a3bed"
+      },
+      "pushed_at": "2026-11-01T16:05:59Z"
+    },
+    {
       "name": "navya_autonomouscar",
       "full": "sujal128005/navya_autonomouscar",
       "url": "https://github.com/sujal128005/navya_autonomouscar",
@@ -195,19 +208,6 @@
         "url": "https://github.com/sujal128005/navya_autonomouscar/commit/2db5de077d2f8f5c19a0058961e3f3cfd9b3ec2b"
       },
       "pushed_at": "2026-10-31T23:23:35Z"
-    },
-    {
-      "name": "codeseed",
-      "full": "sujal128005/codeseed",
-      "url": "https://github.com/sujal128005/codeseed",
-      "commits": 2,
-      "latest": {
-        "sha": "d6bf69e",
-        "message": "Update feed",
-        "date": "2026-10-31T23:01:47Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/d6bf69e16fb860e6a8effdd5043fc8a656b9b566"
-      },
-      "pushed_at": "2026-10-31T23:01:48Z"
     },
     {
       "name": "myvault",
@@ -264,6 +264,16 @@
   ],
   "bench": [
     {
+      "name": "codeseed",
+      "url": "https://github.com/sujal128005/codeseed",
+      "description": "",
+      "language": "HTML",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-01T16:05:59Z",
+      "archived": false
+    },
+    {
       "name": "navya_autonomouscar",
       "url": "https://github.com/sujal128005/navya_autonomouscar",
       "description": "",
@@ -271,16 +281,6 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-10-31T23:23:35Z",
-      "archived": false
-    },
-    {
-      "name": "codeseed",
-      "url": "https://github.com/sujal128005/codeseed",
-      "description": "",
-      "language": "HTML",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-31T23:01:48Z",
       "archived": false
     },
     {
