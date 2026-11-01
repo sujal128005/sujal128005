@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-01T03:13+05:30",
+  "fetched_at": "2026-11-01T11:54+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 22,
+    "public_repos": 23,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -32,7 +32,7 @@
         "url": "https://github.com/sujal128005/khata/commit/7fb1c52944dbf584c21578b36207b66b719fddc1"
       },
       "weekly": [
-        10,
+        0,
         0,
         0,
         0,
@@ -139,23 +139,23 @@
     ],
     [
       "Python",
-      1644947
+      1669305
     ],
     [
       "JavaScript",
-      665746
+      688398
     ],
     [
       "CSS",
-      378318
+      398795
     ],
     [
       "HTML",
-      269564
+      330320
     ],
     [
       "C++",
-      22860
+      23316
     ],
     [
       "Solidity",
@@ -170,6 +170,10 @@
       2483
     ],
     [
+      "Batchfile",
+      2213
+    ],
+    [
       "CMake",
       1527
     ],
@@ -179,6 +183,32 @@
     ]
   ],
   "recent": [
+    {
+      "name": "navya_autonomouscar",
+      "full": "sujal128005/navya_autonomouscar",
+      "url": "https://github.com/sujal128005/navya_autonomouscar",
+      "commits": 31,
+      "latest": {
+        "sha": "2db5de0",
+        "message": "Review fixes before the full test day",
+        "date": "2026-10-31T23:23:33Z",
+        "url": "https://github.com/sujal128005/navya_autonomouscar/commit/2db5de077d2f8f5c19a0058961e3f3cfd9b3ec2b"
+      },
+      "pushed_at": "2026-10-31T23:23:35Z"
+    },
+    {
+      "name": "codeseed",
+      "full": "sujal128005/codeseed",
+      "url": "https://github.com/sujal128005/codeseed",
+      "commits": 2,
+      "latest": {
+        "sha": "d6bf69e",
+        "message": "Update feed",
+        "date": "2026-10-31T23:01:47Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/d6bf69e16fb860e6a8effdd5043fc8a656b9b566"
+      },
+      "pushed_at": "2026-10-31T23:01:48Z"
+    },
     {
       "name": "myvault",
       "full": "sujal128005/myvault",
@@ -191,19 +221,6 @@
         "url": "https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f"
       },
       "pushed_at": "2026-10-31T21:37:58Z"
-    },
-    {
-      "name": "navya_autonomouscar",
-      "full": "sujal128005/navya_autonomouscar",
-      "url": "https://github.com/sujal128005/navya_autonomouscar",
-      "commits": 29,
-      "latest": {
-        "sha": "fe48bf4",
-        "message": "Ask Navya: free Gemini first, Groq fallback (no Anthropic key)",
-        "date": "2026-10-31T21:21:22Z",
-        "url": "https://github.com/sujal128005/navya_autonomouscar/commit/fe48bf4648f2310a204a0ef3b6421c7fa8c1e7ef"
-      },
-      "pushed_at": "2026-10-31T21:21:27Z"
     },
     {
       "name": "Navyam",
@@ -243,22 +260,29 @@
         "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a"
       },
       "pushed_at": "2026-10-24T22:14:26Z"
-    },
-    {
-      "name": "alfaaz-sujal-ke",
-      "full": "sujal128005/alfaaz-sujal-ke",
-      "url": "https://github.com/sujal128005/alfaaz-sujal-ke",
-      "commits": 7,
-      "latest": {
-        "sha": "ded2da8",
-        "message": "Set website address",
-        "date": "2026-10-24T21:59:36Z",
-        "url": "https://github.com/sujal128005/alfaaz-sujal-ke/commit/ded2da8947d448e5a1f3dd05cd5b4385431e4f40"
-      },
-      "pushed_at": "2026-10-24T21:59:39Z"
     }
   ],
   "bench": [
+    {
+      "name": "navya_autonomouscar",
+      "url": "https://github.com/sujal128005/navya_autonomouscar",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-31T23:23:35Z",
+      "archived": false
+    },
+    {
+      "name": "codeseed",
+      "url": "https://github.com/sujal128005/codeseed",
+      "description": "",
+      "language": "HTML",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-10-31T23:01:48Z",
+      "archived": false
+    },
     {
       "name": "myvault",
       "url": "https://github.com/sujal128005/myvault",
@@ -267,16 +291,6 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-10-31T21:37:58Z",
-      "archived": false
-    },
-    {
-      "name": "navya_autonomouscar",
-      "url": "https://github.com/sujal128005/navya_autonomouscar",
-      "description": "",
-      "language": "Python",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-31T21:21:27Z",
       "archived": false
     },
     {
@@ -328,56 +342,18 @@
       "homepage": "",
       "pushed_at": "2026-09-13T18:28:52Z",
       "archived": false
-    },
-    {
-      "name": "bouncerkya",
-      "url": "https://github.com/sujal128005/bouncerkya",
-      "description": "Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human.",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "https://bouncerkya.onrender.com",
-      "pushed_at": "2026-09-01T13:37:32Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 287,
-    "commits": 260,
+    "total": 296,
+    "commits": 268,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 3,
+    "streak": 4,
     "longest": 5,
     "days": [
-      [
-        "2025-10-26",
-        0
-      ],
-      [
-        "2025-10-27",
-        0
-      ],
-      [
-        "2025-10-28",
-        0
-      ],
-      [
-        "2025-10-29",
-        0
-      ],
-      [
-        "2025-10-30",
-        0
-      ],
-      [
-        "2025-10-31",
-        0
-      ],
-      [
-        "2025-11-01",
-        0
-      ],
       [
         "2025-11-02",
         0
@@ -1832,7 +1808,11 @@
       ],
       [
         "2026-10-31",
-        11
+        12
+      ],
+      [
+        "2026-11-01",
+        8
       ]
     ]
   }

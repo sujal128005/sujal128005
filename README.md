@@ -40,7 +40,7 @@
 <br/>
 
 <p align="center">
-<a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/project-khata.svg?v=feabd1ac" alt="Khata: Real-time claim verification for live sales calls. Live, Aug 2026." width="100%"/></a>
+<a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/project-khata.svg?v=2861c89c" alt="Khata: Real-time claim verification for live sales calls. Live, Aug 2026." width="100%"/></a>
 <br/>
 <a href="https://khata-avs8.onrender.com/login"><img src="./assets/generated/btn-khata-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/khata"><img src="./assets/generated/btn-khata-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=583dda18" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=19f01ff7" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,23 +90,23 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 5 min ago |
-| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`fe48bf4`](https://github.com/sujal128005/navya_autonomouscar/commit/fe48bf4648f2310a204a0ef3b6421c7fa8c1e7ef) Ask Navya: free Gemini first, Groq fallback (no Anthropic key) | 22 min ago |
+| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`2db5de0`](https://github.com/sujal128005/navya_autonomouscar/commit/2db5de077d2f8f5c19a0058961e3f3cfd9b3ec2b) Review fixes before the full test day | 7 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`d6bf69e`](https://github.com/sujal128005/codeseed/commit/d6bf69e16fb860e6a8effdd5043fc8a656b9b566) Update feed | 7 h ago |
+| [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 8 h ago |
 | [**Navyam**](https://github.com/sujal128005/Navyam) | [`3fa2007`](https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637) Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026) | 1 d ago |
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 7 d ago |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 6 d ago |
-| [**alfaaz-sujal-ke**](https://github.com/sujal128005/alfaaz-sujal-ke) | [`ded2da8`](https://github.com/sujal128005/alfaaz-sujal-ke/commit/ded2da8947d448e5a1f3dd05cd5b4385431e4f40) Set website address | 6 d ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 8 d ago |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 7 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
-| [**myvault**](https://github.com/sujal128005/myvault) | — | TypeScript |
 | [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | — | Python |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
+| [**myvault**](https://github.com/sujal128005/myvault) | — | TypeScript |
 | [**Navyam**](https://github.com/sujal128005/Navyam) | — | Python |
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | — | TypeScript |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
 | [**alfaaz-sujal-ke**](https://github.com/sujal128005/alfaaz-sujal-ke) | — | JavaScript |
 | [**apix**](https://github.com/sujal128005/apix) | — | Python |
-| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
 
 <br/>
 
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 01 Nov 2026, 03:13 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 01 Nov 2026, 11:54 IST · rebuilt by GitHub Actions</sub>
 
 </div>
