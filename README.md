@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=9789cfbe" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=1aff6858" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,12 +90,12 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`8adb9de`](https://github.com/sujal128005/codeseed/commit/8adb9dec934f4bb265b47cf97b1bd9d731200235) Update feed | 3 min ago |
-| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`2db5de0`](https://github.com/sujal128005/navya_autonomouscar/commit/2db5de077d2f8f5c19a0058961e3f3cfd9b3ec2b) Review fixes before the full test day | 22 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`088172d`](https://github.com/sujal128005/codeseed/commit/088172dd73c650735a47e9fa1736b2c2bc24123a) Update feed | 5 min ago |
+| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`2db5de0`](https://github.com/sujal128005/navya_autonomouscar/commit/2db5de077d2f8f5c19a0058961e3f3cfd9b3ec2b) Review fixes before the full test day | 1 d ago |
 | [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 1 d ago |
 | [**Navyam**](https://github.com/sujal128005/Navyam) | [`3fa2007`](https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637) Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026) | 2 d ago |
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 8 d ago |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 7 d ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 9 d ago |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 8 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 02 Nov 2026, 03:41 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 02 Nov 2026, 11:55 IST · rebuilt by GitHub Actions</sub>
 
 </div>
