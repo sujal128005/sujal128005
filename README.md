@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=e09e3ab6" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=a57d40b9" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,12 +90,12 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`8f65b9b`](https://github.com/sujal128005/codeseed/commit/8f65b9b2488558c5ed183a65900d4ca0da915e65) Update feed | 3 min ago |
-| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`c29c107`](https://github.com/sujal128005/navya_autonomouscar/commit/c29c107235d9633acd39443c00ce87c0b7201fa7) Project report: the Jetson as onboard computer (3 Nov bench test), fixes, next steps | 7 h ago |
-| [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 2 d ago |
-| [**Navyam**](https://github.com/sujal128005/Navyam) | [`3fa2007`](https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637) Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026) | 3 d ago |
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 10 d ago |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 9 d ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`44b6270`](https://github.com/sujal128005/codeseed/commit/44b627015db1c1c5627e622d8b7d6bee05270f8c) Update feed | 5 h ago |
+| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`c29c107`](https://github.com/sujal128005/navya_autonomouscar/commit/c29c107235d9633acd39443c00ce87c0b7201fa7) Project report: the Jetson as onboard computer (3 Nov bench test), fixes, next steps | 18 h ago |
+| [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 3 d ago |
+| [**Navyam**](https://github.com/sujal128005/Navyam) | [`3fa2007`](https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637) Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026) | 4 d ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 11 d ago |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 10 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 04 Nov 2026, 01:07 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 04 Nov 2026, 12:11 IST · rebuilt by GitHub Actions</sub>
 
 </div>
