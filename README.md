@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=98d427ca" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=6476abc1" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,12 +90,12 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`a538057`](https://github.com/sujal128005/codeseed/commit/a5380579fea7deb0c1d14972705a1182060e5ce4) Update feed | 1 min ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`9cd4cbf`](https://github.com/sujal128005/codeseed/commit/9cd4cbf1692a804531b5bb5c639ef67c843b1d4f) Update feed | 2 h ago |
 | [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`8eb2a54`](https://github.com/sujal128005/navya_autonomouscar/commit/8eb2a5467439ccca8b8d31bdc64c47eb9661203c) docs: complete wiring as one 16:9 image, and its generator | 4 d ago |
-| [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 7 d ago |
-| [**Navyam**](https://github.com/sujal128005/Navyam) | [`3fa2007`](https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637) Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026) | 8 d ago |
+| [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 8 d ago |
+| [**Navyam**](https://github.com/sujal128005/Navyam) | [`3fa2007`](https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637) Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026) | 9 d ago |
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 15 d ago |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 14 d ago |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 15 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=9a3ef195" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=11cc9471" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 08 Nov 2026, 19:08 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 09 Nov 2026, 03:45 IST · rebuilt by GitHub Actions</sub>
 
 </div>
