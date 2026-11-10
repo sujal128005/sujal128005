@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T12:59+05:30",
+  "fetched_at": "2026-11-11T01:21+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -135,7 +135,7 @@
   "languages": [
     [
       "TypeScript",
-      4119813
+      4124520
     ],
     [
       "Python",
@@ -143,7 +143,7 @@
     ],
     [
       "JavaScript",
-      700719
+      701945
     ],
     [
       "CSS",
@@ -184,30 +184,43 @@
   ],
   "recent": [
     {
-      "name": "codeseed",
-      "full": "sujal128005/codeseed",
-      "url": "https://github.com/sujal128005/codeseed",
-      "commits": 28,
+      "name": "FlexDrop",
+      "full": "sujal128005/FlexDrop",
+      "url": "https://github.com/sujal128005/FlexDrop",
+      "commits": 2,
       "latest": {
-        "sha": "f376ad7",
-        "message": "Update feed",
-        "date": "2026-11-10T07:26:36Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/f376ad76b7735b657c174d652387f2d1142a5f38"
+        "sha": "ec8aa5e",
+        "message": "Add one-click Render deployment (render.yaml) and docs",
+        "date": "2026-11-10T17:51:05Z",
+        "url": "https://github.com/sujal128005/FlexDrop/commit/ec8aa5e0fec59834c6084e4a2db0452c8587962e"
       },
-      "pushed_at": "2026-11-10T07:26:37Z"
+      "pushed_at": "2026-11-10T17:51:09Z"
     },
     {
       "name": "paypal-attribute",
       "full": "sujal128005/paypal-attribute",
       "url": "https://github.com/sujal128005/paypal-attribute",
-      "commits": 3,
+      "commits": 8,
       "latest": {
-        "sha": "00c00c5",
-        "message": "Auto-select an available AI model",
-        "date": "2026-11-09T23:53:00Z",
-        "url": "https://github.com/sujal128005/paypal-attribute/commit/00c00c5d8548dc7a1465e106feb054620a12acb8"
+        "sha": "9642585",
+        "message": "Render AI answer formatting in the sale trace",
+        "date": "2026-11-10T17:41:32Z",
+        "url": "https://github.com/sujal128005/paypal-attribute/commit/964258561c18bd1ea30d94de66024cd0856d7ccb"
       },
-      "pushed_at": "2026-11-09T23:53:03Z"
+      "pushed_at": "2026-11-10T17:41:36Z"
+    },
+    {
+      "name": "codeseed",
+      "full": "sujal128005/codeseed",
+      "url": "https://github.com/sujal128005/codeseed",
+      "commits": 29,
+      "latest": {
+        "sha": "9a4f9c9",
+        "message": "Update feed",
+        "date": "2026-11-10T17:06:40Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/9a4f9c97e577e0274e50754f5ef077c171113589"
+      },
+      "pushed_at": "2026-11-10T17:06:42Z"
     },
     {
       "name": "navya_autonomouscar",
@@ -247,30 +260,17 @@
         "url": "https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637"
       },
       "pushed_at": "2026-10-30T19:42:34Z"
-    },
-    {
-      "name": "housefi-website",
-      "full": "sujal128005/housefi-website",
-      "url": "https://github.com/sujal128005/housefi-website",
-      "commits": 15,
-      "latest": {
-        "sha": "e16a648",
-        "message": "Merge pull request #6 from sujal128005/website/skill-passport",
-        "date": "2026-10-23T23:01:55Z",
-        "url": "https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4"
-      },
-      "pushed_at": "2026-10-26T12:56:33Z"
     }
   ],
   "bench": [
     {
-      "name": "codeseed",
-      "url": "https://github.com/sujal128005/codeseed",
+      "name": "FlexDrop",
+      "url": "https://github.com/sujal128005/FlexDrop",
       "description": "",
-      "language": "HTML",
+      "language": "",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-10T07:26:37Z",
+      "pushed_at": "2026-11-10T17:51:09Z",
       "archived": false
     },
     {
@@ -280,17 +280,17 @@
       "language": "TypeScript",
       "stars": 0,
       "homepage": "https://paypal-attribute.onrender.com/",
-      "pushed_at": "2026-11-09T23:53:03Z",
+      "pushed_at": "2026-11-10T17:41:36Z",
       "archived": false
     },
     {
-      "name": "FlexDrop",
-      "url": "https://github.com/sujal128005/FlexDrop",
+      "name": "codeseed",
+      "url": "https://github.com/sujal128005/codeseed",
       "description": "",
-      "language": "",
+      "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-09T21:59:31Z",
+      "pushed_at": "2026-11-10T17:06:42Z",
       "archived": false
     },
     {
@@ -345,8 +345,8 @@
     }
   ],
   "calendar": {
-    "total": 340,
-    "commits": 309,
+    "total": 347,
+    "commits": 316,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
@@ -1820,7 +1820,7 @@
       ],
       [
         "2026-11-10",
-        3
+        10
       ]
     ]
   }

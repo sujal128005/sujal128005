@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=deee637d" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=6fee6853" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,18 +90,18 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`f376ad7`](https://github.com/sujal128005/codeseed/commit/f376ad76b7735b657c174d652387f2d1142a5f38) Update feed | 2 min ago |
-| [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) | [`00c00c5`](https://github.com/sujal128005/paypal-attribute/commit/00c00c5d8548dc7a1465e106feb054620a12acb8) Auto-select an available AI model | 7 h ago |
-| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`1063c22`](https://github.com/sujal128005/navya_autonomouscar/commit/1063c2283f03cbc1af71c80185b6f2b0adc7e52b) docs: complete project record PDF (29 Oct - 9 Nov) and its generator | 14 h ago |
+| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`ec8aa5e`](https://github.com/sujal128005/FlexDrop/commit/ec8aa5e0fec59834c6084e4a2db0452c8587962e) Add one-click Render deployment (render.yaml) and docs | 2 h ago |
+| [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) | [`9642585`](https://github.com/sujal128005/paypal-attribute/commit/964258561c18bd1ea30d94de66024cd0856d7ccb) Render AI answer formatting in the sale trace | 2 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`9a4f9c9`](https://github.com/sujal128005/codeseed/commit/9a4f9c97e577e0274e50754f5ef077c171113589) Update feed | 2 h ago |
+| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`1063c22`](https://github.com/sujal128005/navya_autonomouscar/commit/1063c2283f03cbc1af71c80185b6f2b0adc7e52b) docs: complete project record PDF (29 Oct - 9 Nov) and its generator | 1 d ago |
 | [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 9 d ago |
-| [**Navyam**](https://github.com/sujal128005/Navyam) | [`3fa2007`](https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637) Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026) | 10 d ago |
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 17 d ago |
+| [**Navyam**](https://github.com/sujal128005/Navyam) | [`3fa2007`](https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637) Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026) | 11 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
-| [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) · [live](https://paypal-attribute.onrender.com/) | PayPal Attribute is an attribution and payout rail for agentic commerce, built on the PayPal developer platform. | TypeScript |
 | [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | — | — |
+| [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) · [live](https://paypal-attribute.onrender.com/) | PayPal Attribute is an attribution and payout rail for agentic commerce, built on the PayPal developer platform. | TypeScript |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
 | [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | — | Python |
 | [**myvault**](https://github.com/sujal128005/myvault) | — | TypeScript |
 | [**Navyam**](https://github.com/sujal128005/Navyam) | — | Python |
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=2f0a2b7b" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=038cce42" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 10 Nov 2026, 12:59 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 11 Nov 2026, 01:21 IST · rebuilt by GitHub Actions</sub>
 
 </div>
