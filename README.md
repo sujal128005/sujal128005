@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=b23425a0" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=deee637d" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,23 +90,23 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`5be63fb`](https://github.com/sujal128005/codeseed/commit/5be63fb9fd815cae0336a53992034073f2fba812) Update feed | 2 min ago |
-| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`1063c22`](https://github.com/sujal128005/navya_autonomouscar/commit/1063c2283f03cbc1af71c80185b6f2b0adc7e52b) docs: complete project record PDF (29 Oct - 9 Nov) and its generator | 5 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`f376ad7`](https://github.com/sujal128005/codeseed/commit/f376ad76b7735b657c174d652387f2d1142a5f38) Update feed | 2 min ago |
+| [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) | [`00c00c5`](https://github.com/sujal128005/paypal-attribute/commit/00c00c5d8548dc7a1465e106feb054620a12acb8) Auto-select an available AI model | 7 h ago |
+| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`1063c22`](https://github.com/sujal128005/navya_autonomouscar/commit/1063c2283f03cbc1af71c80185b6f2b0adc7e52b) docs: complete project record PDF (29 Oct - 9 Nov) and its generator | 14 h ago |
 | [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 9 d ago |
 | [**Navyam**](https://github.com/sujal128005/Navyam) | [`3fa2007`](https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637) Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026) | 10 d ago |
-| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 16 d ago |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`b09f27b`](https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a) Update index.html | 16 d ago |
+| [**housefi-website**](https://github.com/sujal128005/housefi-website) | [`e16a648`](https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4) Merge pull request #6 from sujal128005/website/skill-passport | 17 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
 | [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
+| [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) · [live](https://paypal-attribute.onrender.com/) | PayPal Attribute is an attribution and payout rail for agentic commerce, built on the PayPal developer platform. | TypeScript |
 | [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | — | — |
 | [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | — | Python |
 | [**myvault**](https://github.com/sujal128005/myvault) | — | TypeScript |
 | [**Navyam**](https://github.com/sujal128005/Navyam) | — | Python |
 | [**housefi-website**](https://github.com/sujal128005/housefi-website) | — | TypeScript |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | HTML |
-| [**alfaaz-sujal-ke**](https://github.com/sujal128005/alfaaz-sujal-ke) | — | JavaScript |
 
 <br/>
 
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 10 Nov 2026, 04:00 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 10 Nov 2026, 12:59 IST · rebuilt by GitHub Actions</sub>
 
 </div>

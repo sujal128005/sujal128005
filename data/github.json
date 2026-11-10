@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-10T04:00+05:30",
+  "fetched_at": "2026-11-10T12:59+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 25,
+    "public_repos": 26,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -135,7 +135,7 @@
   "languages": [
     [
       "TypeScript",
-      3799178
+      4119813
     ],
     [
       "Python",
@@ -143,11 +143,11 @@
     ],
     [
       "JavaScript",
-      697797
+      700719
     ],
     [
       "CSS",
-      400209
+      404595
     ],
     [
       "HTML",
@@ -187,14 +187,27 @@
       "name": "codeseed",
       "full": "sujal128005/codeseed",
       "url": "https://github.com/sujal128005/codeseed",
-      "commits": 27,
+      "commits": 28,
       "latest": {
-        "sha": "5be63fb",
+        "sha": "f376ad7",
         "message": "Update feed",
-        "date": "2026-11-09T22:28:13Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/5be63fb9fd815cae0336a53992034073f2fba812"
+        "date": "2026-11-10T07:26:36Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/f376ad76b7735b657c174d652387f2d1142a5f38"
       },
-      "pushed_at": "2026-11-09T22:28:14Z"
+      "pushed_at": "2026-11-10T07:26:37Z"
+    },
+    {
+      "name": "paypal-attribute",
+      "full": "sujal128005/paypal-attribute",
+      "url": "https://github.com/sujal128005/paypal-attribute",
+      "commits": 3,
+      "latest": {
+        "sha": "00c00c5",
+        "message": "Auto-select an available AI model",
+        "date": "2026-11-09T23:53:00Z",
+        "url": "https://github.com/sujal128005/paypal-attribute/commit/00c00c5d8548dc7a1465e106feb054620a12acb8"
+      },
+      "pushed_at": "2026-11-09T23:53:03Z"
     },
     {
       "name": "navya_autonomouscar",
@@ -247,19 +260,6 @@
         "url": "https://github.com/sujal128005/housefi-website/commit/e16a648ce036ee03b7ca47c0cbdb9ea70c55bdb4"
       },
       "pushed_at": "2026-10-26T12:56:33Z"
-    },
-    {
-      "name": "sujalnegi.github.io",
-      "full": "sujal128005/sujalnegi.github.io",
-      "url": "https://github.com/sujal128005/sujalnegi.github.io",
-      "commits": 35,
-      "latest": {
-        "sha": "b09f27b",
-        "message": "Update index.html",
-        "date": "2026-10-24T22:14:25Z",
-        "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/b09f27bef8f6736c02403e5b9f54fed85bf6d47a"
-      },
-      "pushed_at": "2026-10-24T22:14:26Z"
     }
   ],
   "bench": [
@@ -270,7 +270,17 @@
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-09T22:28:14Z",
+      "pushed_at": "2026-11-10T07:26:37Z",
+      "archived": false
+    },
+    {
+      "name": "paypal-attribute",
+      "url": "https://github.com/sujal128005/paypal-attribute",
+      "description": "PayPal Attribute is an attribution and payout rail for agentic commerce, built on the PayPal developer platform.",
+      "language": "TypeScript",
+      "stars": 0,
+      "homepage": "https://paypal-attribute.onrender.com/",
+      "pushed_at": "2026-11-09T23:53:03Z",
       "archived": false
     },
     {
@@ -332,26 +342,16 @@
       "homepage": "",
       "pushed_at": "2026-10-24T22:14:26Z",
       "archived": false
-    },
-    {
-      "name": "alfaaz-sujal-ke",
-      "url": "https://github.com/sujal128005/alfaaz-sujal-ke",
-      "description": "",
-      "language": "JavaScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-24T21:59:39Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 336,
-    "commits": 306,
+    "total": 340,
+    "commits": 309,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 1,
+    "streak": 2,
     "longest": 7,
     "days": [
       [
@@ -1816,7 +1816,11 @@
       ],
       [
         "2026-11-09",
-        2
+        3
+      ],
+      [
+        "2026-11-10",
+        3
       ]
     ]
   }
