@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=203eb35d" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=ad63f10e" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,11 +90,11 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`e356fda`](https://github.com/sujal128005/codeseed/commit/e356fda9095ca31e593601e7aee9eb684650b071) Update feed | 7 min ago |
-| [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | [`0c804b9`](https://github.com/sujal128005/supplier-decision-lab/commit/0c804b93d2ad086d257c7875a74e547e6c6d4694) Delete CNAME | 10 h ago |
-| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`ec8aa5e`](https://github.com/sujal128005/FlexDrop/commit/ec8aa5e0fec59834c6084e4a2db0452c8587962e) Add one-click Render deployment (render.yaml) and docs | 12 h ago |
-| [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) | [`9642585`](https://github.com/sujal128005/paypal-attribute/commit/964258561c18bd1ea30d94de66024cd0856d7ccb) Render AI answer formatting in the sale trace | 13 h ago |
-| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`1063c22`](https://github.com/sujal128005/navya_autonomouscar/commit/1063c2283f03cbc1af71c80185b6f2b0adc7e52b) docs: complete project record PDF (29 Oct - 9 Nov) and its generator | 1 d ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`963ef14`](https://github.com/sujal128005/codeseed/commit/963ef1403e6345493352ebd117400c43b85f2300) Update feed | 2 h ago |
+| [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | [`0c804b9`](https://github.com/sujal128005/supplier-decision-lab/commit/0c804b93d2ad086d257c7875a74e547e6c6d4694) Delete CNAME | 23 h ago |
+| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`ec8aa5e`](https://github.com/sujal128005/FlexDrop/commit/ec8aa5e0fec59834c6084e4a2db0452c8587962e) Add one-click Render deployment (render.yaml) and docs | 1 d ago |
+| [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) | [`9642585`](https://github.com/sujal128005/paypal-attribute/commit/964258561c18bd1ea30d94de66024cd0856d7ccb) Render AI answer formatting in the sale trace | 1 d ago |
+| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`1063c22`](https://github.com/sujal128005/navya_autonomouscar/commit/1063c2283f03cbc1af71c80185b6f2b0adc7e52b) docs: complete project record PDF (29 Oct - 9 Nov) and its generator | 2 d ago |
 | [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 10 d ago |
 
 | Also on the bench | What it is | Stack |
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=038cce42" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=4c5b623b" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 11 Nov 2026, 12:15 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 12 Nov 2026, 01:13 IST · rebuilt by GitHub Actions</sub>
 
 </div>
