@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-11T01:21+05:30",
+  "fetched_at": "2026-11-11T12:15+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 26,
+    "public_repos": 27,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -135,31 +135,31 @@
   "languages": [
     [
       "TypeScript",
-      4124520
+      4124741
     ],
     [
       "Python",
-      1685924
+      2119706
     ],
     [
       "JavaScript",
-      701945
+      972041
     ],
     [
       "CSS",
-      404595
+      433723
     ],
     [
       "HTML",
-      331406
+      348866
+    ],
+    [
+      "Shell",
+      25561
     ],
     [
       "C++",
       23510
-    ],
-    [
-      "Shell",
-      21896
     ],
     [
       "Solidity",
@@ -171,7 +171,11 @@
     ],
     [
       "Batchfile",
-      3386
+      3586
+    ],
+    [
+      "PowerShell",
+      3212
     ],
     [
       "CMake",
@@ -179,10 +183,40 @@
     ],
     [
       "Mako",
-      616
+      1221
+    ],
+    [
+      "Makefile",
+      1144
     ]
   ],
   "recent": [
+    {
+      "name": "codeseed",
+      "full": "sujal128005/codeseed",
+      "url": "https://github.com/sujal128005/codeseed",
+      "commits": 30,
+      "latest": {
+        "sha": "e356fda",
+        "message": "Update feed",
+        "date": "2026-11-11T06:37:45Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/e356fda9095ca31e593601e7aee9eb684650b071"
+      },
+      "pushed_at": "2026-11-11T06:37:46Z"
+    },
+    {
+      "name": "supplier-decision-lab",
+      "full": "sujal128005/supplier-decision-lab",
+      "url": "https://github.com/sujal128005/supplier-decision-lab",
+      "commits": 4,
+      "latest": {
+        "sha": "0c804b9",
+        "message": "Delete CNAME",
+        "date": "2026-11-10T20:33:04Z",
+        "url": "https://github.com/sujal128005/supplier-decision-lab/commit/0c804b93d2ad086d257c7875a74e547e6c6d4694"
+      },
+      "pushed_at": "2026-11-10T20:33:05Z"
+    },
     {
       "name": "FlexDrop",
       "full": "sujal128005/FlexDrop",
@@ -210,19 +244,6 @@
       "pushed_at": "2026-11-10T17:41:36Z"
     },
     {
-      "name": "codeseed",
-      "full": "sujal128005/codeseed",
-      "url": "https://github.com/sujal128005/codeseed",
-      "commits": 29,
-      "latest": {
-        "sha": "9a4f9c9",
-        "message": "Update feed",
-        "date": "2026-11-10T17:06:40Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/9a4f9c97e577e0274e50754f5ef077c171113589"
-      },
-      "pushed_at": "2026-11-10T17:06:42Z"
-    },
-    {
       "name": "navya_autonomouscar",
       "full": "sujal128005/navya_autonomouscar",
       "url": "https://github.com/sujal128005/navya_autonomouscar",
@@ -247,27 +268,34 @@
         "url": "https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f"
       },
       "pushed_at": "2026-10-31T21:37:58Z"
-    },
-    {
-      "name": "Navyam",
-      "full": "sujal128005/Navyam",
-      "url": "https://github.com/sujal128005/Navyam",
-      "commits": 5,
-      "latest": {
-        "sha": "3fa2007",
-        "message": "Add competition-drone BOM (MK7 Pro frame, stock checked 31 Oct 2026)",
-        "date": "2026-10-30T19:42:31Z",
-        "url": "https://github.com/sujal128005/Navyam/commit/3fa2007966c19b411992dec46d4adde399a1b637"
-      },
-      "pushed_at": "2026-10-30T19:42:34Z"
     }
   ],
   "bench": [
     {
+      "name": "codeseed",
+      "url": "https://github.com/sujal128005/codeseed",
+      "description": "",
+      "language": "HTML",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-11T06:37:46Z",
+      "archived": false
+    },
+    {
+      "name": "supplier-decision-lab",
+      "url": "https://github.com/sujal128005/supplier-decision-lab",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-10T20:33:05Z",
+      "archived": false
+    },
+    {
       "name": "FlexDrop",
       "url": "https://github.com/sujal128005/FlexDrop",
       "description": "",
-      "language": "",
+      "language": "Python",
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-11-10T17:51:09Z",
@@ -281,16 +309,6 @@
       "stars": 0,
       "homepage": "https://paypal-attribute.onrender.com/",
       "pushed_at": "2026-11-10T17:41:36Z",
-      "archived": false
-    },
-    {
-      "name": "codeseed",
-      "url": "https://github.com/sujal128005/codeseed",
-      "description": "",
-      "language": "HTML",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-11-10T17:06:42Z",
       "archived": false
     },
     {
@@ -332,26 +350,16 @@
       "homepage": "",
       "pushed_at": "2026-10-26T12:56:33Z",
       "archived": false
-    },
-    {
-      "name": "sujalnegi.github.io",
-      "url": "https://github.com/sujal128005/sujalnegi.github.io",
-      "description": "Portfolio",
-      "language": "HTML",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-24T22:14:26Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 347,
-    "commits": 316,
+    "total": 352,
+    "commits": 320,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 2,
+    "streak": 3,
     "longest": 7,
     "days": [
       [
@@ -1820,7 +1828,11 @@
       ],
       [
         "2026-11-10",
-        10
+        11
+      ],
+      [
+        "2026-11-11",
+        4
       ]
     ]
   }
