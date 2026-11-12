@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=ad63f10e" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=76aea042" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,17 +90,17 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`963ef14`](https://github.com/sujal128005/codeseed/commit/963ef1403e6345493352ebd117400c43b85f2300) Update feed | 2 h ago |
-| [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | [`0c804b9`](https://github.com/sujal128005/supplier-decision-lab/commit/0c804b93d2ad086d257c7875a74e547e6c6d4694) Delete CNAME | 23 h ago |
+| [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | [`6eb38d1`](https://github.com/sujal128005/supplier-decision-lab/commit/6eb38d1082308d12347645e682879c939488b7c2) Add final report: all 8 judgment tables, ANP figure, two-sided print layout | 30 min ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`963ef14`](https://github.com/sujal128005/codeseed/commit/963ef1403e6345493352ebd117400c43b85f2300) Update feed | 14 h ago |
 | [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`ec8aa5e`](https://github.com/sujal128005/FlexDrop/commit/ec8aa5e0fec59834c6084e4a2db0452c8587962e) Add one-click Render deployment (render.yaml) and docs | 1 d ago |
 | [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) | [`9642585`](https://github.com/sujal128005/paypal-attribute/commit/964258561c18bd1ea30d94de66024cd0856d7ccb) Render AI answer formatting in the sale trace | 1 d ago |
 | [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`1063c22`](https://github.com/sujal128005/navya_autonomouscar/commit/1063c2283f03cbc1af71c80185b6f2b0adc7e52b) docs: complete project record PDF (29 Oct - 9 Nov) and its generator | 2 d ago |
-| [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 10 d ago |
+| [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 11 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
 | [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | — | JavaScript |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
 | [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | — | Python |
 | [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) · [live](https://paypal-attribute.onrender.com/) | PayPal Attribute is an attribution and payout rail for agentic commerce, built on the PayPal developer platform. | TypeScript |
 | [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | — | Python |
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 12 Nov 2026, 01:13 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 12 Nov 2026, 12:54 IST · rebuilt by GitHub Actions</sub>
 
 </div>

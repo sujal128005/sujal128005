@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T01:13+05:30",
+  "fetched_at": "2026-11-12T12:54+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -143,15 +143,15 @@
     ],
     [
       "JavaScript",
-      972041
+      965750
     ],
     [
       "CSS",
-      433723
+      425163
     ],
     [
       "HTML",
-      348866
+      345490
     ],
     [
       "Shell",
@@ -192,6 +192,19 @@
   ],
   "recent": [
     {
+      "name": "supplier-decision-lab",
+      "full": "sujal128005/supplier-decision-lab",
+      "url": "https://github.com/sujal128005/supplier-decision-lab",
+      "commits": 10,
+      "latest": {
+        "sha": "6eb38d1",
+        "message": "Add final report: all 8 judgment tables, ANP figure, two-sided print layout",
+        "date": "2026-11-12T06:53:47Z",
+        "url": "https://github.com/sujal128005/supplier-decision-lab/commit/6eb38d1082308d12347645e682879c939488b7c2"
+      },
+      "pushed_at": "2026-11-12T06:53:51Z"
+    },
+    {
       "name": "codeseed",
       "full": "sujal128005/codeseed",
       "url": "https://github.com/sujal128005/codeseed",
@@ -203,19 +216,6 @@
         "url": "https://github.com/sujal128005/codeseed/commit/963ef1403e6345493352ebd117400c43b85f2300"
       },
       "pushed_at": "2026-11-11T17:14:27Z"
-    },
-    {
-      "name": "supplier-decision-lab",
-      "full": "sujal128005/supplier-decision-lab",
-      "url": "https://github.com/sujal128005/supplier-decision-lab",
-      "commits": 4,
-      "latest": {
-        "sha": "0c804b9",
-        "message": "Delete CNAME",
-        "date": "2026-11-10T20:33:04Z",
-        "url": "https://github.com/sujal128005/supplier-decision-lab/commit/0c804b93d2ad086d257c7875a74e547e6c6d4694"
-      },
-      "pushed_at": "2026-11-10T20:33:05Z"
     },
     {
       "name": "FlexDrop",
@@ -272,6 +272,16 @@
   ],
   "bench": [
     {
+      "name": "supplier-decision-lab",
+      "url": "https://github.com/sujal128005/supplier-decision-lab",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-12T06:53:51Z",
+      "archived": false
+    },
+    {
       "name": "codeseed",
       "url": "https://github.com/sujal128005/codeseed",
       "description": "",
@@ -279,16 +289,6 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-11-11T17:14:27Z",
-      "archived": false
-    },
-    {
-      "name": "supplier-decision-lab",
-      "url": "https://github.com/sujal128005/supplier-decision-lab",
-      "description": "",
-      "language": "JavaScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-11-10T20:33:05Z",
       "archived": false
     },
     {
@@ -353,13 +353,13 @@
     }
   ],
   "calendar": {
-    "total": 352,
-    "commits": 320,
+    "total": 358,
+    "commits": 326,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 3,
+    "streak": 4,
     "longest": 7,
     "days": [
       [
@@ -1833,6 +1833,10 @@
       [
         "2026-11-11",
         4
+      ],
+      [
+        "2026-11-12",
+        6
       ]
     ]
   }
