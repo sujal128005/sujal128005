@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=1c7592ae" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
+<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=dacc45f7" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
 <br/>
 <a href="https://limen-peqe.onrender.com"><img src="./assets/generated/btn-limen-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/limen"><img src="./assets/generated/btn-limen-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=584ca126" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=0f0ffc69" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,12 +90,12 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`313eb99`](https://github.com/sujal128005/codeseed/commit/313eb99ffa2df18c2daf728295bb05c6431a1dc3) Update feed | 5 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`fcf733d`](https://github.com/sujal128005/codeseed/commit/fcf733d8cd2d59a7f1ca23f957105509f0667d24) Update feed | 2 min ago |
+| [**limen**](https://github.com/sujal128005/limen) | [`2e4e5e0`](https://github.com/sujal128005/limen/commit/2e4e5e0f30bfd344366eed28ae59bd844783d928) Add a QR code to the live demo for the Buildathon deck | 21 h ago |
 | [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | [`6eb38d1`](https://github.com/sujal128005/supplier-decision-lab/commit/6eb38d1082308d12347645e682879c939488b7c2) Add final report: all 8 judgment tables, ANP figure, two-sided print layout | 1 d ago |
-| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`ec8aa5e`](https://github.com/sujal128005/FlexDrop/commit/ec8aa5e0fec59834c6084e4a2db0452c8587962e) Add one-click Render deployment (render.yaml) and docs | 2 d ago |
-| [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) | [`9642585`](https://github.com/sujal128005/paypal-attribute/commit/964258561c18bd1ea30d94de66024cd0856d7ccb) Render AI answer formatting in the sale trace | 2 d ago |
-| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`1063c22`](https://github.com/sujal128005/navya_autonomouscar/commit/1063c2283f03cbc1af71c80185b6f2b0adc7e52b) docs: complete project record PDF (29 Oct - 9 Nov) and its generator | 3 d ago |
-| [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 12 d ago |
+| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`ec8aa5e`](https://github.com/sujal128005/FlexDrop/commit/ec8aa5e0fec59834c6084e4a2db0452c8587962e) Add one-click Render deployment (render.yaml) and docs | 3 d ago |
+| [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) | [`9642585`](https://github.com/sujal128005/paypal-attribute/commit/964258561c18bd1ea30d94de66024cd0856d7ccb) Render AI answer formatting in the sale trace | 3 d ago |
+| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`1063c22`](https://github.com/sujal128005/navya_autonomouscar/commit/1063c2283f03cbc1af71c80185b6f2b0adc7e52b) docs: complete project record PDF (29 Oct - 9 Nov) and its generator | 4 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=db6a0961" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=02e7ccda" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 13 Nov 2026, 12:26 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 14 Nov 2026, 01:21 IST · rebuilt by GitHub Actions</sub>
 
 </div>
