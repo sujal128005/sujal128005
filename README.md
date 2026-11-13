@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=d914cced" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=584ca126" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,12 +90,12 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`cb160da`](https://github.com/sujal128005/codeseed/commit/cb160da36b2fec6fff7a4641736c4ec044097026) Update feed | 4 min ago |
-| [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | [`6eb38d1`](https://github.com/sujal128005/supplier-decision-lab/commit/6eb38d1082308d12347645e682879c939488b7c2) Add final report: all 8 judgment tables, ANP figure, two-sided print layout | 13 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`313eb99`](https://github.com/sujal128005/codeseed/commit/313eb99ffa2df18c2daf728295bb05c6431a1dc3) Update feed | 5 h ago |
+| [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | [`6eb38d1`](https://github.com/sujal128005/supplier-decision-lab/commit/6eb38d1082308d12347645e682879c939488b7c2) Add final report: all 8 judgment tables, ANP figure, two-sided print layout | 1 d ago |
 | [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`ec8aa5e`](https://github.com/sujal128005/FlexDrop/commit/ec8aa5e0fec59834c6084e4a2db0452c8587962e) Add one-click Render deployment (render.yaml) and docs | 2 d ago |
 | [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) | [`9642585`](https://github.com/sujal128005/paypal-attribute/commit/964258561c18bd1ea30d94de66024cd0856d7ccb) Render AI answer formatting in the sale trace | 2 d ago |
 | [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | [`1063c22`](https://github.com/sujal128005/navya_autonomouscar/commit/1063c2283f03cbc1af71c80185b6f2b0adc7e52b) docs: complete project record PDF (29 Oct - 9 Nov) and its generator | 3 d ago |
-| [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 11 d ago |
+| [**myvault**](https://github.com/sujal128005/myvault) | [`6c45d4e`](https://github.com/sujal128005/myvault/commit/6c45d4e343f55721e1de9a82cba834490a58900f) Fix: allow selecting .myvault backups on phones | 12 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 13 Nov 2026, 01:37 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 13 Nov 2026, 12:26 IST · rebuilt by GitHub Actions</sub>
 
 </div>
