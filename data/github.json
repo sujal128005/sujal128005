@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-14T01:21+05:30",
+  "fetched_at": "2026-11-14T12:13+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 28,
+    "public_repos": 30,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -31,8 +31,8 @@
         0,
         10,
         4,
-        6,
-        5,
+        11,
+        0,
         6,
         10,
         0,
@@ -176,11 +176,11 @@
     ],
     [
       "JavaScript",
-      3030268
+      3029042
     ],
     [
       "Python",
-      2119706
+      2247372
     ],
     [
       "CSS",
@@ -188,7 +188,7 @@
     ],
     [
       "HTML",
-      436049
+      576965
     ],
     [
       "Solidity",
@@ -232,14 +232,40 @@
       "name": "codeseed",
       "full": "sujal128005/codeseed",
       "url": "https://github.com/sujal128005/codeseed",
-      "commits": 36,
+      "commits": 37,
       "latest": {
-        "sha": "fcf733d",
+        "sha": "3a96601",
         "message": "Update feed",
-        "date": "2026-11-13T19:49:24Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/fcf733d8cd2d59a7f1ca23f957105509f0667d24"
+        "date": "2026-11-14T01:28:48Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/3a9660101f12892bdcc09e458fbc02025a08b14b"
       },
-      "pushed_at": "2026-11-13T19:49:31Z"
+      "pushed_at": "2026-11-14T01:28:50Z"
+    },
+    {
+      "name": "ArthaNetra",
+      "full": "sujal128005/ArthaNetra",
+      "url": "https://github.com/sujal128005/ArthaNetra",
+      "commits": 1,
+      "latest": {
+        "sha": "e7c21e3",
+        "message": "Initial commit",
+        "date": "2026-11-13T22:55:54Z",
+        "url": "https://github.com/sujal128005/ArthaNetra/commit/e7c21e31aa4770ae4aa9b7abc0fa3f62f952a142"
+      },
+      "pushed_at": "2026-11-13T22:55:55Z"
+    },
+    {
+      "name": "Qwen",
+      "full": "sujal128005/Qwen",
+      "url": "https://github.com/sujal128005/Qwen",
+      "commits": 15,
+      "latest": {
+        "sha": "c99d89e",
+        "message": "Create README.md",
+        "date": "2026-11-13T21:52:03Z",
+        "url": "https://github.com/sujal128005/Qwen/commit/c99d89eb82732dac7e01c358619b8df3dbdec3d0"
+      },
+      "pushed_at": "2026-11-13T21:52:04Z"
     },
     {
       "name": "limen",
@@ -279,32 +305,6 @@
         "url": "https://github.com/sujal128005/FlexDrop/commit/ec8aa5e0fec59834c6084e4a2db0452c8587962e"
       },
       "pushed_at": "2026-11-10T17:51:09Z"
-    },
-    {
-      "name": "paypal-attribute",
-      "full": "sujal128005/paypal-attribute",
-      "url": "https://github.com/sujal128005/paypal-attribute",
-      "commits": 8,
-      "latest": {
-        "sha": "9642585",
-        "message": "Render AI answer formatting in the sale trace",
-        "date": "2026-11-10T17:41:32Z",
-        "url": "https://github.com/sujal128005/paypal-attribute/commit/964258561c18bd1ea30d94de66024cd0856d7ccb"
-      },
-      "pushed_at": "2026-11-10T17:41:36Z"
-    },
-    {
-      "name": "navya_autonomouscar",
-      "full": "sujal128005/navya_autonomouscar",
-      "url": "https://github.com/sujal128005/navya_autonomouscar",
-      "commits": 69,
-      "latest": {
-        "sha": "1063c22",
-        "message": "docs: complete project record PDF (29 Oct - 9 Nov) and its generator",
-        "date": "2026-11-09T16:34:19Z",
-        "url": "https://github.com/sujal128005/navya_autonomouscar/commit/1063c2283f03cbc1af71c80185b6f2b0adc7e52b"
-      },
-      "pushed_at": "2026-11-09T16:34:25Z"
     }
   ],
   "bench": [
@@ -315,7 +315,27 @@
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-13T19:49:31Z",
+      "pushed_at": "2026-11-14T01:28:50Z",
+      "archived": false
+    },
+    {
+      "name": "ArthaNetra",
+      "url": "https://github.com/sujal128005/ArthaNetra",
+      "description": "",
+      "language": "",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-13T22:55:55Z",
+      "archived": false
+    },
+    {
+      "name": "Qwen",
+      "url": "https://github.com/sujal128005/Qwen",
+      "description": "",
+      "language": "HTML",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-13T21:52:04Z",
       "archived": false
     },
     {
@@ -367,36 +387,16 @@
       "homepage": "",
       "pushed_at": "2026-10-31T21:37:58Z",
       "archived": false
-    },
-    {
-      "name": "Navyam",
-      "url": "https://github.com/sujal128005/Navyam",
-      "description": "",
-      "language": "Python",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-30T19:42:34Z",
-      "archived": false
-    },
-    {
-      "name": "housefi-website",
-      "url": "https://github.com/sujal128005/housefi-website",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-10-26T12:56:33Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 399,
-    "commits": 366,
+    "total": 417,
+    "commits": 382,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 5,
+    "streak": 6,
     "longest": 7,
     "days": [
       [
@@ -1877,7 +1877,11 @@
       ],
       [
         "2026-11-13",
-        7
+        9
+      ],
+      [
+        "2026-11-14",
+        16
       ]
     ]
   }
