@@ -49,7 +49,7 @@
 <br/>
 
 <p align="center">
-<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/project-navyam.svg?v=aad6bfa3" alt="Navyam: Autonomous drone for industrial monitoring. In development, Dec 2025 to present." width="100%"/></a>
+<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/project-navyam.svg?v=6cd892ab" alt="Navyam: Autonomous drone for industrial monitoring. In development, Dec 2025 to present." width="100%"/></a>
 <br/>
 <a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/btn-navyam-run-the-full-simulation.svg?v=2b685a66" alt="Run the full simulation" height="44"/></a>
 <a href="https://github.com/sujal128005/gps-denied-drone"><img src="./assets/generated/btn-navyam-drone-code.svg?v=187f0df0" alt="Drone code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=ede20e9b" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=0011b24e" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,20 +90,20 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`3a96601`](https://github.com/sujal128005/codeseed/commit/3a9660101f12892bdcc09e458fbc02025a08b14b) Update feed | 5 h ago |
-| [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | [`e7c21e3`](https://github.com/sujal128005/ArthaNetra/commit/e7c21e31aa4770ae4aa9b7abc0fa3f62f952a142) Initial commit | 7 h ago |
-| [**Qwen**](https://github.com/sujal128005/Qwen) | [`c99d89e`](https://github.com/sujal128005/Qwen/commit/c99d89eb82732dac7e01c358619b8df3dbdec3d0) Create README.md | 8 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`ff8c8d1`](https://github.com/sujal128005/codeseed/commit/ff8c8d15f3e7c7c90262e6b8be07223448ea2ef2) Update feed | 3 min ago |
+| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`291f7e6`](https://github.com/sujal128005/FlexDrop/commit/291f7e69b6aff2fa92f781845f5665953692f511) Fix street map tiles, live order tracking with Watch rider, faster 3D | 3 h ago |
+| [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | [`e7c21e3`](https://github.com/sujal128005/ArthaNetra/commit/e7c21e31aa4770ae4aa9b7abc0fa3f62f952a142) Initial commit | 19 h ago |
+| [**Qwen**](https://github.com/sujal128005/Qwen) | [`c99d89e`](https://github.com/sujal128005/Qwen/commit/c99d89eb82732dac7e01c358619b8df3dbdec3d0) Create README.md | 20 h ago |
 | [**limen**](https://github.com/sujal128005/limen) | [`2e4e5e0`](https://github.com/sujal128005/limen/commit/2e4e5e0f30bfd344366eed28ae59bd844783d928) Add a QR code to the live demo for the Buildathon deck | 1 d ago |
-| [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | [`6eb38d1`](https://github.com/sujal128005/supplier-decision-lab/commit/6eb38d1082308d12347645e682879c939488b7c2) Add final report: all 8 judgment tables, ANP figure, two-sided print layout | 1 d ago |
-| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`ec8aa5e`](https://github.com/sujal128005/FlexDrop/commit/ec8aa5e0fec59834c6084e4a2db0452c8587962e) Add one-click Render deployment (render.yaml) and docs | 3 d ago |
+| [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | [`6eb38d1`](https://github.com/sujal128005/supplier-decision-lab/commit/6eb38d1082308d12347645e682879c939488b7c2) Add final report: all 8 judgment tables, ANP figure, two-sided print layout | 2 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
 | [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
+| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | — | Python |
 | [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | — | — |
 | [**Qwen**](https://github.com/sujal128005/Qwen) | — | HTML |
 | [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | — | JavaScript |
-| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | — | Python |
 | [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) · [live](https://paypal-attribute.onrender.com/) | PayPal Attribute is an attribution and payout rail for agentic commerce, built on the PayPal developer platform. | TypeScript |
 | [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | — | Python |
 | [**myvault**](https://github.com/sujal128005/myvault) | — | TypeScript |
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 14 Nov 2026, 12:13 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 14 Nov 2026, 23:47 IST · rebuilt by GitHub Actions</sub>
 
 </div>
