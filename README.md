@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=8076a534" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
+<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=ac6362ec" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
 <br/>
 <a href="https://limen-peqe.onrender.com"><img src="./assets/generated/btn-limen-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/limen"><img src="./assets/generated/btn-limen-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=0011b24e" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=3d9471cf" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,23 +90,23 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`ff8c8d1`](https://github.com/sujal128005/codeseed/commit/ff8c8d15f3e7c7c90262e6b8be07223448ea2ef2) Update feed | 3 min ago |
-| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`291f7e6`](https://github.com/sujal128005/FlexDrop/commit/291f7e69b6aff2fa92f781845f5665953692f511) Fix street map tiles, live order tracking with Watch rider, faster 3D | 3 h ago |
-| [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | [`e7c21e3`](https://github.com/sujal128005/ArthaNetra/commit/e7c21e31aa4770ae4aa9b7abc0fa3f62f952a142) Initial commit | 19 h ago |
-| [**Qwen**](https://github.com/sujal128005/Qwen) | [`c99d89e`](https://github.com/sujal128005/Qwen/commit/c99d89eb82732dac7e01c358619b8df3dbdec3d0) Create README.md | 20 h ago |
-| [**limen**](https://github.com/sujal128005/limen) | [`2e4e5e0`](https://github.com/sujal128005/limen/commit/2e4e5e0f30bfd344366eed28ae59bd844783d928) Add a QR code to the live demo for the Buildathon deck | 1 d ago |
-| [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | [`6eb38d1`](https://github.com/sujal128005/supplier-decision-lab/commit/6eb38d1082308d12347645e682879c939488b7c2) Add final report: all 8 judgment tables, ANP figure, two-sided print layout | 2 d ago |
+| [**nexara9**](https://github.com/sujal128005/nexara9) | [`671cfd2`](https://github.com/sujal128005/nexara9/commit/671cfd21c47d2035b740d1df8670d9324dbaca9a) Liquid switch both ways and faster; lighter pages | 27 min ago |
+| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`acc5bd0`](https://github.com/sujal128005/bouncerkya/commit/acc5bd0f3fcdb61b5a3e30f4795840bc0e93abe3) Add live demo link (Render) | 2 h ago |
+| [**Qwen**](https://github.com/sujal128005/Qwen) | [`8fd0723`](https://github.com/sujal128005/Qwen/commit/8fd0723fe51df3757f4749bc74b8bfe8487e7829) Update to latest PixelProof version and add live demo links | 2 h ago |
+| [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | [`2380da0`](https://github.com/sujal128005/ArthaNetra/commit/2380da03c93d3c8b355fe36daf9deaafff2098e5) Add live demo link (Render) | 2 h ago |
+| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`56bf3ab`](https://github.com/sujal128005/FlexDrop/commit/56bf3ab1bef14eb07869575621150878ee9ffe39) Add live demo link (Render) | 2 h ago |
+| [**Project-Udaan**](https://github.com/sujal128005/Project-Udaan) | [`6f907c1`](https://github.com/sujal128005/Project-Udaan/commit/6f907c1c62977af9960306b4fd3e798c381ad7f3) Update README.md | 3 h ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
-| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | — | Python |
-| [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | — | — |
+| [**nexara9**](https://github.com/sujal128005/nexara9) | Revealing 2027 | HTML |
+| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
 | [**Qwen**](https://github.com/sujal128005/Qwen) | — | HTML |
+| [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | — | Python |
+| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | — | Python |
+| [**Project-Udaan**](https://github.com/sujal128005/Project-Udaan) | — | HTML |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
 | [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | — | JavaScript |
-| [**paypal-attribute**](https://github.com/sujal128005/paypal-attribute) · [live](https://paypal-attribute.onrender.com/) | PayPal Attribute is an attribution and payout rail for agentic commerce, built on the PayPal developer platform. | TypeScript |
-| [**navya_autonomouscar**](https://github.com/sujal128005/navya_autonomouscar) | — | Python |
-| [**myvault**](https://github.com/sujal128005/myvault) | — | TypeScript |
 
 <br/>
 
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=02e7ccda" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=47077f57" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 14 Nov 2026, 23:47 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 15 Nov 2026, 04:04 IST · rebuilt by GitHub Actions</sub>
 
 </div>
