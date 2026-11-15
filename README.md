@@ -49,7 +49,7 @@
 <br/>
 
 <p align="center">
-<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/project-navyam.svg?v=6cd892ab" alt="Navyam: Autonomous drone for industrial monitoring. In development, Dec 2025 to present." width="100%"/></a>
+<a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/project-navyam.svg?v=5f08ddeb" alt="Navyam: Autonomous drone for industrial monitoring. In development, Dec 2025 to present." width="100%"/></a>
 <br/>
 <a href="https://sujalnegi.tech/Navyam.html"><img src="./assets/generated/btn-navyam-run-the-full-simulation.svg?v=2b685a66" alt="Run the full simulation" height="44"/></a>
 <a href="https://github.com/sujal128005/gps-denied-drone"><img src="./assets/generated/btn-navyam-drone-code.svg?v=187f0df0" alt="Drone code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=ae3db5af" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=2ee6f074" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,23 +90,23 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`af0378a`](https://github.com/sujal128005/codeseed/commit/af0378a77f61f9dd483e5bdb937c931caaf869dc) Update feed | 4 min ago |
-| [**nexara9**](https://github.com/sujal128005/nexara9) | [`cf2b926`](https://github.com/sujal128005/nexara9/commit/cf2b926bacda16895fe98171a5b6318ddd514787) Code rain: reliable direction and falling on every device; Beta tag on Nexara9 AI | 19 min ago |
-| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`acc5bd0`](https://github.com/sujal128005/bouncerkya/commit/acc5bd0f3fcdb61b5a3e30f4795840bc0e93abe3) Add live demo link (Render) | 10 h ago |
-| [**Qwen**](https://github.com/sujal128005/Qwen) | [`8fd0723`](https://github.com/sujal128005/Qwen/commit/8fd0723fe51df3757f4749bc74b8bfe8487e7829) Update to latest PixelProof version and add live demo links | 11 h ago |
-| [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | [`2380da0`](https://github.com/sujal128005/ArthaNetra/commit/2380da03c93d3c8b355fe36daf9deaafff2098e5) Add live demo link (Render) | 11 h ago |
-| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`56bf3ab`](https://github.com/sujal128005/FlexDrop/commit/56bf3ab1bef14eb07869575621150878ee9ffe39) Add live demo link (Render) | 11 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`5fc9f3d`](https://github.com/sujal128005/codeseed/commit/5fc9f3d12140d90e6ac1cde07dfe617ed5387948) Update feed | 2 h ago |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`34bbbc5`](https://github.com/sujal128005/sujalnegi.github.io/commit/34bbbc5daffc85080ab5fe1285c69fd89ebf69ea) Monitor: amber code portrait until Play; shorter intro video; remove Call | 5 h ago |
+| [**nexara9**](https://github.com/sujal128005/nexara9) | [`a3d0a13`](https://github.com/sujal128005/nexara9/commit/a3d0a134da3560196fb4a8b3f09a50c51fab85f7) Ventures: investor emails come ready-written | 9 h ago |
+| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`e62cb10`](https://github.com/sujal128005/FlexDrop/commit/e62cb10716a3a6ee37f6faceeb1bee938f6a5951) Add MIT License | 9 h ago |
+| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`783b9bb`](https://github.com/sujal128005/bouncerkya/commit/783b9bb8224a4ff44a92c17a31e5b02487eee8ac) Add MIT License | 9 h ago |
+| [**finance_backend**](https://github.com/sujal128005/finance_backend) | [`37674b2`](https://github.com/sujal128005/finance_backend/commit/37674b22acce907ac3eb47b1ea949396642fdf91) Add MIT License | 9 h ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
 | [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | JavaScript |
 | [**nexara9**](https://github.com/sujal128005/nexara9) | Revealing 2027 | HTML |
-| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
-| [**Qwen**](https://github.com/sujal128005/Qwen) | — | HTML |
-| [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | — | Python |
 | [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | — | Python |
+| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
+| [**finance_backend**](https://github.com/sujal128005/finance_backend) | — | Python |
+| [**binance-futures-trading-bot**](https://github.com/sujal128005/binance-futures-trading-bot) | A Python-based CLI bot for Binance Futures Testnet with structured logging and modular architecture. | Python |
 | [**Project-Udaan**](https://github.com/sujal128005/Project-Udaan) | — | HTML |
-| [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | — | JavaScript |
 
 <br/>
 
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=47077f57" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=39449faa" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 15 Nov 2026, 12:18 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 16 Nov 2026, 00:27 IST · rebuilt by GitHub Actions</sub>
 
 </div>

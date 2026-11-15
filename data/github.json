@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-15T12:18+05:30",
+  "fetched_at": "2026-11-16T00:27+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 30,
+    "public_repos": 24,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -91,82 +91,11 @@
     },
     "sujal128005/gps-denied-drone": {
       "full": "sujal128005/gps-denied-drone",
-      "url": "https://github.com/sujal128005/gps-denied-drone",
-      "private": false,
-      "description": "GPS-denied autonomous indoor & outdoor drone — Jetson Orin Nano + RealSense D435i + Cube Orange (ArduPilot) + Isaac ROS VIO",
-      "homepage": "",
-      "stars": 0,
-      "forks": 1,
-      "issues": 0,
-      "language": "Python",
-      "pushed_at": "2026-07-17T12:58:34Z",
-      "created_at": "2026-07-03T10:07:00Z",
-      "commits": 16,
-      "latest": {
-        "sha": "3ad7dad",
-        "message": "Engineering log: VIO accuracy bench investigation (2026-07-17)",
-        "date": "2026-07-17T12:58:30Z",
-        "url": "https://github.com/sujal128005/gps-denied-drone/commit/3ad7dad63e3bf7edace0aa2cb925559c85b100bf"
-      },
-      "weekly": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "languages": {
-        "Python": 16698,
-        "Shell": 10646
-      },
-      "topics": []
+      "private": true
     },
     "sujal128005/Navyam-Simulation": {
       "full": "sujal128005/Navyam-Simulation",
-      "url": "https://github.com/sujal128005/Navyam-Simulation",
-      "private": false,
-      "description": "",
-      "homepage": "",
-      "stars": 0,
-      "forks": 1,
-      "issues": 0,
-      "language": "Python",
-      "pushed_at": "2026-03-29T08:55:39Z",
-      "created_at": "2026-01-19T05:22:01Z",
-      "commits": 15,
-      "latest": {
-        "sha": "88d5ad5",
-        "message": "Add files via upload",
-        "date": "2026-03-29T08:55:38Z",
-        "url": "https://github.com/sujal128005/Navyam-Simulation/commit/88d5ad5f1efb0f9b29fc8886cc85b223acc1dc54"
-      },
-      "weekly": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "languages": {
-        "Python": 119824,
-        "Shell": 1465,
-        "CMake": 801
-      },
-      "topics": []
+      "private": true
     }
   },
   "languages": [
@@ -176,35 +105,27 @@
     ],
     [
       "JavaScript",
-      3333231
+      2887766
     ],
     [
       "Python",
-      2446964
+      1871064
     ],
     [
       "HTML",
-      2019259
+      1857371
     ],
     [
       "CSS",
-      888068
+      797323
     ],
     [
       "Solidity",
-      49059
+      31577
     ],
     [
       "Shell",
-      32643
-    ],
-    [
-      "C++",
-      23510
-    ],
-    [
-      "Batchfile",
-      4874
+      14508
     ],
     [
       "Dockerfile",
@@ -215,8 +136,12 @@
       3212
     ],
     [
-      "CMake",
-      1527
+      "Haskell",
+      2579
+    ],
+    [
+      "Batchfile",
+      1488
     ],
     [
       "Mako",
@@ -232,79 +157,79 @@
       "name": "codeseed",
       "full": "sujal128005/codeseed",
       "url": "https://github.com/sujal128005/codeseed",
-      "commits": 40,
+      "commits": 41,
       "latest": {
-        "sha": "af0378a",
+        "sha": "5fc9f3d",
         "message": "Update feed",
-        "date": "2026-11-15T06:43:38Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/af0378a77f61f9dd483e5bdb937c931caaf869dc"
+        "date": "2026-11-15T16:25:39Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/5fc9f3d12140d90e6ac1cde07dfe617ed5387948"
       },
-      "pushed_at": "2026-11-15T06:43:41Z"
+      "pushed_at": "2026-11-15T16:25:44Z"
+    },
+    {
+      "name": "sujalnegi.github.io",
+      "full": "sujal128005/sujalnegi.github.io",
+      "url": "https://github.com/sujal128005/sujalnegi.github.io",
+      "commits": 39,
+      "latest": {
+        "sha": "34bbbc5",
+        "message": "Monitor: amber code portrait until Play; shorter intro video; remove Call",
+        "date": "2026-11-15T13:57:22Z",
+        "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/34bbbc5daffc85080ab5fe1285c69fd89ebf69ea"
+      },
+      "pushed_at": "2026-11-15T13:57:24Z"
     },
     {
       "name": "nexara9",
       "full": "sujal128005/nexara9",
       "url": "https://github.com/sujal128005/nexara9",
-      "commits": 25,
+      "commits": 31,
       "latest": {
-        "sha": "cf2b926",
-        "message": "Code rain: reliable direction and falling on every device; Beta tag on Nexara9 AI",
-        "date": "2026-11-15T06:29:15Z",
-        "url": "https://github.com/sujal128005/nexara9/commit/cf2b926bacda16895fe98171a5b6318ddd514787"
+        "sha": "a3d0a13",
+        "message": "Ventures: investor emails come ready-written",
+        "date": "2026-11-15T09:35:51Z",
+        "url": "https://github.com/sujal128005/nexara9/commit/a3d0a134da3560196fb4a8b3f09a50c51fab85f7"
       },
-      "pushed_at": "2026-11-15T06:29:18Z"
-    },
-    {
-      "name": "bouncerkya",
-      "full": "sujal128005/bouncerkya",
-      "url": "https://github.com/sujal128005/bouncerkya",
-      "commits": 11,
-      "latest": {
-        "sha": "acc5bd0",
-        "message": "Add live demo link (Render)",
-        "date": "2026-11-14T20:14:39Z",
-        "url": "https://github.com/sujal128005/bouncerkya/commit/acc5bd0f3fcdb61b5a3e30f4795840bc0e93abe3"
-      },
-      "pushed_at": "2026-11-14T20:14:42Z"
-    },
-    {
-      "name": "Qwen",
-      "full": "sujal128005/Qwen",
-      "url": "https://github.com/sujal128005/Qwen",
-      "commits": 17,
-      "latest": {
-        "sha": "8fd0723",
-        "message": "Update to latest PixelProof version and add live demo links",
-        "date": "2026-11-14T19:40:54Z",
-        "url": "https://github.com/sujal128005/Qwen/commit/8fd0723fe51df3757f4749bc74b8bfe8487e7829"
-      },
-      "pushed_at": "2026-11-14T19:40:57Z"
-    },
-    {
-      "name": "ArthaNetra",
-      "full": "sujal128005/ArthaNetra",
-      "url": "https://github.com/sujal128005/ArthaNetra",
-      "commits": 4,
-      "latest": {
-        "sha": "2380da0",
-        "message": "Add live demo link (Render)",
-        "date": "2026-11-14T19:40:41Z",
-        "url": "https://github.com/sujal128005/ArthaNetra/commit/2380da03c93d3c8b355fe36daf9deaafff2098e5"
-      },
-      "pushed_at": "2026-11-14T19:40:43Z"
+      "pushed_at": "2026-11-15T09:38:22Z"
     },
     {
       "name": "FlexDrop",
       "full": "sujal128005/FlexDrop",
       "url": "https://github.com/sujal128005/FlexDrop",
-      "commits": 4,
+      "commits": 5,
       "latest": {
-        "sha": "56bf3ab",
-        "message": "Add live demo link (Render)",
-        "date": "2026-11-14T19:40:34Z",
-        "url": "https://github.com/sujal128005/FlexDrop/commit/56bf3ab1bef14eb07869575621150878ee9ffe39"
+        "sha": "e62cb10",
+        "message": "Add MIT License",
+        "date": "2026-11-15T09:16:31Z",
+        "url": "https://github.com/sujal128005/FlexDrop/commit/e62cb10716a3a6ee37f6faceeb1bee938f6a5951"
       },
-      "pushed_at": "2026-11-14T19:40:37Z"
+      "pushed_at": "2026-11-15T09:18:44Z"
+    },
+    {
+      "name": "bouncerkya",
+      "full": "sujal128005/bouncerkya",
+      "url": "https://github.com/sujal128005/bouncerkya",
+      "commits": 12,
+      "latest": {
+        "sha": "783b9bb",
+        "message": "Add MIT License",
+        "date": "2026-11-15T09:16:31Z",
+        "url": "https://github.com/sujal128005/bouncerkya/commit/783b9bb8224a4ff44a92c17a31e5b02487eee8ac"
+      },
+      "pushed_at": "2026-11-15T09:18:43Z"
+    },
+    {
+      "name": "finance_backend",
+      "full": "sujal128005/finance_backend",
+      "url": "https://github.com/sujal128005/finance_backend",
+      "commits": 3,
+      "latest": {
+        "sha": "37674b2",
+        "message": "Add MIT License",
+        "date": "2026-11-15T09:16:31Z",
+        "url": "https://github.com/sujal128005/finance_backend/commit/37674b22acce907ac3eb47b1ea949396642fdf91"
+      },
+      "pushed_at": "2026-11-15T09:18:41Z"
     }
   ],
   "bench": [
@@ -315,7 +240,17 @@
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-15T06:43:41Z",
+      "pushed_at": "2026-11-15T16:25:44Z",
+      "archived": false
+    },
+    {
+      "name": "sujalnegi.github.io",
+      "url": "https://github.com/sujal128005/sujalnegi.github.io",
+      "description": "Portfolio",
+      "language": "JavaScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-15T13:57:24Z",
       "archived": false
     },
     {
@@ -325,37 +260,7 @@
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-15T06:29:18Z",
-      "archived": false
-    },
-    {
-      "name": "bouncerkya",
-      "url": "https://github.com/sujal128005/bouncerkya",
-      "description": "Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human.",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "https://bouncerkya.onrender.com",
-      "pushed_at": "2026-11-14T20:14:42Z",
-      "archived": false
-    },
-    {
-      "name": "Qwen",
-      "url": "https://github.com/sujal128005/Qwen",
-      "description": "",
-      "language": "HTML",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-11-14T19:40:57Z",
-      "archived": false
-    },
-    {
-      "name": "ArthaNetra",
-      "url": "https://github.com/sujal128005/ArthaNetra",
-      "description": "",
-      "language": "Python",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-11-14T19:40:43Z",
+      "pushed_at": "2026-11-15T09:38:22Z",
       "archived": false
     },
     {
@@ -365,7 +270,37 @@
       "language": "Python",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-14T19:40:37Z",
+      "pushed_at": "2026-11-15T09:18:44Z",
+      "archived": false
+    },
+    {
+      "name": "bouncerkya",
+      "url": "https://github.com/sujal128005/bouncerkya",
+      "description": "Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human.",
+      "language": "TypeScript",
+      "stars": 0,
+      "homepage": "https://bouncerkya.onrender.com",
+      "pushed_at": "2026-11-15T09:18:43Z",
+      "archived": false
+    },
+    {
+      "name": "finance_backend",
+      "url": "https://github.com/sujal128005/finance_backend",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-15T09:18:41Z",
+      "archived": false
+    },
+    {
+      "name": "binance-futures-trading-bot",
+      "url": "https://github.com/sujal128005/binance-futures-trading-bot",
+      "description": "A Python-based CLI bot for Binance Futures Testnet with structured logging and modular architecture.",
+      "language": "Python",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-15T09:18:39Z",
       "archived": false
     },
     {
@@ -375,23 +310,13 @@
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-14T19:03:51Z",
-      "archived": false
-    },
-    {
-      "name": "supplier-decision-lab",
-      "url": "https://github.com/sujal128005/supplier-decision-lab",
-      "description": "",
-      "language": "JavaScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-11-12T06:53:51Z",
+      "pushed_at": "2026-11-15T09:18:35Z",
       "archived": false
     }
   ],
   "calendar": {
-    "total": 427,
-    "commits": 392,
+    "total": 322,
+    "commits": 293,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
@@ -657,11 +582,11 @@
       ],
       [
         "2026-01-19",
-        4
+        0
       ],
       [
         "2026-01-20",
-        1
+        0
       ],
       [
         "2026-01-21",
@@ -753,11 +678,11 @@
       ],
       [
         "2026-02-12",
-        5
+        4
       ],
       [
         "2026-02-13",
-        55
+        59
       ],
       [
         "2026-02-14",
@@ -933,7 +858,7 @@
       ],
       [
         "2026-03-29",
-        4
+        0
       ],
       [
         "2026-03-30",
@@ -1009,7 +934,7 @@
       ],
       [
         "2026-04-17",
-        1
+        0
       ],
       [
         "2026-04-18",
@@ -1053,7 +978,7 @@
       ],
       [
         "2026-04-28",
-        10
+        0
       ],
       [
         "2026-04-29",
@@ -1065,7 +990,7 @@
       ],
       [
         "2026-05-01",
-        6
+        0
       ],
       [
         "2026-05-02",
@@ -1225,7 +1150,7 @@
       ],
       [
         "2026-06-10",
-        3
+        0
       ],
       [
         "2026-06-11",
@@ -1317,11 +1242,11 @@
       ],
       [
         "2026-07-03",
-        8
+        0
       ],
       [
         "2026-07-04",
-        2
+        0
       ],
       [
         "2026-07-05",
@@ -1357,7 +1282,7 @@
       ],
       [
         "2026-07-13",
-        6
+        0
       ],
       [
         "2026-07-14",
@@ -1365,7 +1290,7 @@
       ],
       [
         "2026-07-15",
-        3
+        0
       ],
       [
         "2026-07-16",
@@ -1373,7 +1298,7 @@
       ],
       [
         "2026-07-17",
-        5
+        2
       ],
       [
         "2026-07-18",
@@ -1481,11 +1406,11 @@
       ],
       [
         "2026-08-13",
-        2
+        0
       ],
       [
         "2026-08-14",
-        17
+        3
       ],
       [
         "2026-08-15",
@@ -1505,7 +1430,7 @@
       ],
       [
         "2026-08-19",
-        9
+        1
       ],
       [
         "2026-08-20",
@@ -1789,31 +1714,31 @@
       ],
       [
         "2026-10-29",
-        10
+        0
       ],
       [
         "2026-10-30",
-        6
+        0
       ],
       [
         "2026-10-31",
-        12
+        2
       ],
       [
         "2026-11-01",
-        8
+        3
       ],
       [
         "2026-11-02",
-        13
+        0
       ],
       [
         "2026-11-03",
-        23
+        0
       ],
       [
         "2026-11-04",
-        1
+        0
       ],
       [
         "2026-11-05",
@@ -1833,7 +1758,7 @@
       ],
       [
         "2026-11-09",
-        3
+        2
       ],
       [
         "2026-11-10",
@@ -1853,11 +1778,11 @@
       ],
       [
         "2026-11-14",
-        19
+        30
       ],
       [
         "2026-11-15",
-        7
+        32
       ]
     ]
   }
