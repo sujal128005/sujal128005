@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=ac6362ec" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
+<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=cdf83a63" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
 <br/>
 <a href="https://limen-peqe.onrender.com"><img src="./assets/generated/btn-limen-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/limen"><img src="./assets/generated/btn-limen-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=3d9471cf" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=ae3db5af" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,22 +90,22 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**nexara9**](https://github.com/sujal128005/nexara9) | [`671cfd2`](https://github.com/sujal128005/nexara9/commit/671cfd21c47d2035b740d1df8670d9324dbaca9a) Liquid switch both ways and faster; lighter pages | 27 min ago |
-| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`acc5bd0`](https://github.com/sujal128005/bouncerkya/commit/acc5bd0f3fcdb61b5a3e30f4795840bc0e93abe3) Add live demo link (Render) | 2 h ago |
-| [**Qwen**](https://github.com/sujal128005/Qwen) | [`8fd0723`](https://github.com/sujal128005/Qwen/commit/8fd0723fe51df3757f4749bc74b8bfe8487e7829) Update to latest PixelProof version and add live demo links | 2 h ago |
-| [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | [`2380da0`](https://github.com/sujal128005/ArthaNetra/commit/2380da03c93d3c8b355fe36daf9deaafff2098e5) Add live demo link (Render) | 2 h ago |
-| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`56bf3ab`](https://github.com/sujal128005/FlexDrop/commit/56bf3ab1bef14eb07869575621150878ee9ffe39) Add live demo link (Render) | 2 h ago |
-| [**Project-Udaan**](https://github.com/sujal128005/Project-Udaan) | [`6f907c1`](https://github.com/sujal128005/Project-Udaan/commit/6f907c1c62977af9960306b4fd3e798c381ad7f3) Update README.md | 3 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`af0378a`](https://github.com/sujal128005/codeseed/commit/af0378a77f61f9dd483e5bdb937c931caaf869dc) Update feed | 4 min ago |
+| [**nexara9**](https://github.com/sujal128005/nexara9) | [`cf2b926`](https://github.com/sujal128005/nexara9/commit/cf2b926bacda16895fe98171a5b6318ddd514787) Code rain: reliable direction and falling on every device; Beta tag on Nexara9 AI | 19 min ago |
+| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`acc5bd0`](https://github.com/sujal128005/bouncerkya/commit/acc5bd0f3fcdb61b5a3e30f4795840bc0e93abe3) Add live demo link (Render) | 10 h ago |
+| [**Qwen**](https://github.com/sujal128005/Qwen) | [`8fd0723`](https://github.com/sujal128005/Qwen/commit/8fd0723fe51df3757f4749bc74b8bfe8487e7829) Update to latest PixelProof version and add live demo links | 11 h ago |
+| [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | [`2380da0`](https://github.com/sujal128005/ArthaNetra/commit/2380da03c93d3c8b355fe36daf9deaafff2098e5) Add live demo link (Render) | 11 h ago |
+| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`56bf3ab`](https://github.com/sujal128005/FlexDrop/commit/56bf3ab1bef14eb07869575621150878ee9ffe39) Add live demo link (Render) | 11 h ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
+| [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
 | [**nexara9**](https://github.com/sujal128005/nexara9) | Revealing 2027 | HTML |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
 | [**Qwen**](https://github.com/sujal128005/Qwen) | — | HTML |
 | [**ArthaNetra**](https://github.com/sujal128005/ArthaNetra) | — | Python |
 | [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | — | Python |
 | [**Project-Udaan**](https://github.com/sujal128005/Project-Udaan) | — | HTML |
-| [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
 | [**supplier-decision-lab**](https://github.com/sujal128005/supplier-decision-lab) | — | JavaScript |
 
 <br/>
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 15 Nov 2026, 04:04 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 15 Nov 2026, 12:18 IST · rebuilt by GitHub Actions</sub>
 
 </div>
