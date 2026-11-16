@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16T00:27+05:30",
+  "fetched_at": "2026-11-16T12:18+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -105,19 +105,19 @@
     ],
     [
       "JavaScript",
-      2887766
+      2889280
+    ],
+    [
+      "HTML",
+      1877781
     ],
     [
       "Python",
       1871064
     ],
     [
-      "HTML",
-      1857371
-    ],
-    [
       "CSS",
-      797323
+      797468
     ],
     [
       "Solidity",
@@ -157,40 +157,40 @@
       "name": "codeseed",
       "full": "sujal128005/codeseed",
       "url": "https://github.com/sujal128005/codeseed",
-      "commits": 41,
+      "commits": 43,
       "latest": {
-        "sha": "5fc9f3d",
+        "sha": "7dfa351",
         "message": "Update feed",
-        "date": "2026-11-15T16:25:39Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/5fc9f3d12140d90e6ac1cde07dfe617ed5387948"
+        "date": "2026-11-16T06:42:57Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/7dfa3519603672660e56a67c56bd76ba2dad0962"
       },
-      "pushed_at": "2026-11-15T16:25:44Z"
-    },
-    {
-      "name": "sujalnegi.github.io",
-      "full": "sujal128005/sujalnegi.github.io",
-      "url": "https://github.com/sujal128005/sujalnegi.github.io",
-      "commits": 39,
-      "latest": {
-        "sha": "34bbbc5",
-        "message": "Monitor: amber code portrait until Play; shorter intro video; remove Call",
-        "date": "2026-11-15T13:57:22Z",
-        "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/34bbbc5daffc85080ab5fe1285c69fd89ebf69ea"
-      },
-      "pushed_at": "2026-11-15T13:57:24Z"
+      "pushed_at": "2026-11-16T06:42:59Z"
     },
     {
       "name": "nexara9",
       "full": "sujal128005/nexara9",
       "url": "https://github.com/sujal128005/nexara9",
-      "commits": 31,
+      "commits": 39,
       "latest": {
-        "sha": "a3d0a13",
-        "message": "Ventures: investor emails come ready-written",
-        "date": "2026-11-15T09:35:51Z",
-        "url": "https://github.com/sujal128005/nexara9/commit/a3d0a134da3560196fb4a8b3f09a50c51fab85f7"
+        "sha": "2c2563e",
+        "message": "Add Nexara9 LinkedIn company page link",
+        "date": "2026-11-15T22:46:49Z",
+        "url": "https://github.com/sujal128005/nexara9/commit/2c2563ef738d841719504a8618fad5f1c473c249"
       },
-      "pushed_at": "2026-11-15T09:38:22Z"
+      "pushed_at": "2026-11-15T22:46:51Z"
+    },
+    {
+      "name": "sujalnegi.github.io",
+      "full": "sujal128005/sujalnegi.github.io",
+      "url": "https://github.com/sujal128005/sujalnegi.github.io",
+      "commits": 41,
+      "latest": {
+        "sha": "de237f9",
+        "message": "Rebuild résumé with latest projects and add sujalnegi.tech/resume",
+        "date": "2026-11-15T21:07:29Z",
+        "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/de237f97de9ab530134d705cd4eec84820fc4d3d"
+      },
+      "pushed_at": "2026-11-15T21:07:31Z"
     },
     {
       "name": "FlexDrop",
@@ -240,17 +240,7 @@
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-15T16:25:44Z",
-      "archived": false
-    },
-    {
-      "name": "sujalnegi.github.io",
-      "url": "https://github.com/sujal128005/sujalnegi.github.io",
-      "description": "Portfolio",
-      "language": "JavaScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-11-15T13:57:24Z",
+      "pushed_at": "2026-11-16T06:42:59Z",
       "archived": false
     },
     {
@@ -260,7 +250,17 @@
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-15T09:38:22Z",
+      "pushed_at": "2026-11-15T22:46:51Z",
+      "archived": false
+    },
+    {
+      "name": "sujalnegi.github.io",
+      "url": "https://github.com/sujal128005/sujalnegi.github.io",
+      "description": "Portfolio",
+      "language": "JavaScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-15T21:07:31Z",
       "archived": false
     },
     {
@@ -315,8 +315,8 @@
     }
   ],
   "calendar": {
-    "total": 322,
-    "commits": 293,
+    "total": 323,
+    "commits": 294,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
@@ -1782,7 +1782,11 @@
       ],
       [
         "2026-11-15",
-        32
+        33
+      ],
+      [
+        "2026-11-16",
+        0
       ]
     ]
   }
