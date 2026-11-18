@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=cccb8142" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
+<a href="https://limen-peqe.onrender.com"><img src="./assets/generated/project-limen.svg?v=0cd133d7" alt="Limen: Agentic procurement marketplace for industrial tenders. Live, Aug 2026 to present." width="100%"/></a>
 <br/>
 <a href="https://limen-peqe.onrender.com"><img src="./assets/generated/btn-limen-open-live-app.svg?v=a3186f05" alt="Open live app" height="44"/></a>
 <a href="https://github.com/sujal128005/limen"><img src="./assets/generated/btn-limen-read-the-code.svg?v=6b3193ac" alt="Read the code" height="44"/></a>
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=ca7b7d53" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=77da088d" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,18 +90,18 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`35b87ed`](https://github.com/sujal128005/codeseed/commit/35b87edec2cc624caf77df5e4c67fd79fd24e789) Update feed | 15 h ago |
 | [**limen**](https://github.com/sujal128005/limen) | [`2e4e5e0`](https://github.com/sujal128005/limen/commit/2e4e5e0f30bfd344366eed28ae59bd844783d928) Add a QR code to the live demo for the Buildathon deck | 5 d ago |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`f074c4e`](https://github.com/sujal128005/sujalnegi.github.io/commit/f074c4e48e9e27fad35180c21d29719417c75ec7) Mechanical résumé: move Limen second and explain its supply-chain work | 6 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`ab442d5`](https://github.com/sujal128005/codeseed/commit/ab442d56b07c238262aabd06974c496dc9fc9d3d) Update feed | 8 h ago |
 | [**nexara9**](https://github.com/sujal128005/nexara9) | [`2c2563e`](https://github.com/sujal128005/nexara9/commit/2c2563ef738d841719504a8618fad5f1c473c249) Add Nexara9 LinkedIn company page link | 2 d ago |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`de237f9`](https://github.com/sujal128005/sujalnegi.github.io/commit/de237f97de9ab530134d705cd4eec84820fc4d3d) Rebuild résumé with latest projects and add sujalnegi.tech/resume | 2 d ago |
-| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`e62cb10`](https://github.com/sujal128005/FlexDrop/commit/e62cb10716a3a6ee37f6faceeb1bee938f6a5951) Add MIT License | 2 d ago |
-| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`783b9bb`](https://github.com/sujal128005/bouncerkya/commit/783b9bb8224a4ff44a92c17a31e5b02487eee8ac) Add MIT License | 2 d ago |
+| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`e62cb10`](https://github.com/sujal128005/FlexDrop/commit/e62cb10716a3a6ee37f6faceeb1bee938f6a5951) Add MIT License | 3 d ago |
+| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`783b9bb`](https://github.com/sujal128005/bouncerkya/commit/783b9bb8224a4ff44a92c17a31e5b02487eee8ac) Add MIT License | 3 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | JavaScript |
 | [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
 | [**nexara9**](https://github.com/sujal128005/nexara9) | Revealing 2027 | HTML |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | JavaScript |
 | [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | — | Python |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
 | [**finance_backend**](https://github.com/sujal128005/finance_backend) | — | Python |
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=2c057ddc" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=edc65da4" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 18 Nov 2026, 13:12 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 19 Nov 2026, 02:12 IST · rebuilt by GitHub Actions</sub>
 
 </div>

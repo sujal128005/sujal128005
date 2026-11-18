@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T13:12+05:30",
+  "fetched_at": "2026-11-19T02:12+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -18,7 +18,7 @@
       "forks": 0,
       "issues": 0,
       "language": "JavaScript",
-      "pushed_at": "2026-11-16T13:55:58Z",
+      "pushed_at": "2026-11-18T20:39:49Z",
       "created_at": "2026-09-01T19:13:13Z",
       "commits": 59,
       "latest": {
@@ -105,11 +105,11 @@
     ],
     [
       "JavaScript",
-      2889280
+      2889611
     ],
     [
       "HTML",
-      1877781
+      1891761
     ],
     [
       "Python",
@@ -154,19 +154,6 @@
   ],
   "recent": [
     {
-      "name": "codeseed",
-      "full": "sujal128005/codeseed",
-      "url": "https://github.com/sujal128005/codeseed",
-      "commits": 45,
-      "latest": {
-        "sha": "35b87ed",
-        "message": "Update feed",
-        "date": "2026-11-17T16:10:08Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/35b87edec2cc624caf77df5e4c67fd79fd24e789"
-      },
-      "pushed_at": "2026-11-17T16:10:09Z"
-    },
-    {
       "name": "limen",
       "full": "sujal128005/limen",
       "url": "https://github.com/sujal128005/limen",
@@ -177,7 +164,33 @@
         "date": "2026-11-12T22:19:44Z",
         "url": "https://github.com/sujal128005/limen/commit/2e4e5e0f30bfd344366eed28ae59bd844783d928"
       },
-      "pushed_at": "2026-11-16T13:55:58Z"
+      "pushed_at": "2026-11-18T20:39:49Z"
+    },
+    {
+      "name": "sujalnegi.github.io",
+      "full": "sujal128005/sujalnegi.github.io",
+      "url": "https://github.com/sujal128005/sujalnegi.github.io",
+      "commits": 47,
+      "latest": {
+        "sha": "f074c4e",
+        "message": "Mechanical résumé: move Limen second and explain its supply-chain work",
+        "date": "2026-11-18T14:27:01Z",
+        "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/f074c4e48e9e27fad35180c21d29719417c75ec7"
+      },
+      "pushed_at": "2026-11-18T14:27:03Z"
+    },
+    {
+      "name": "codeseed",
+      "full": "sujal128005/codeseed",
+      "url": "https://github.com/sujal128005/codeseed",
+      "commits": 46,
+      "latest": {
+        "sha": "ab442d5",
+        "message": "Update feed",
+        "date": "2026-11-18T11:52:14Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/ab442d56b07c238262aabd06974c496dc9fc9d3d"
+      },
+      "pushed_at": "2026-11-18T11:52:15Z"
     },
     {
       "name": "nexara9",
@@ -191,19 +204,6 @@
         "url": "https://github.com/sujal128005/nexara9/commit/2c2563ef738d841719504a8618fad5f1c473c249"
       },
       "pushed_at": "2026-11-15T22:46:51Z"
-    },
-    {
-      "name": "sujalnegi.github.io",
-      "full": "sujal128005/sujalnegi.github.io",
-      "url": "https://github.com/sujal128005/sujalnegi.github.io",
-      "commits": 41,
-      "latest": {
-        "sha": "de237f9",
-        "message": "Rebuild résumé with latest projects and add sujalnegi.tech/resume",
-        "date": "2026-11-15T21:07:29Z",
-        "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/de237f97de9ab530134d705cd4eec84820fc4d3d"
-      },
-      "pushed_at": "2026-11-15T21:07:31Z"
     },
     {
       "name": "FlexDrop",
@@ -234,13 +234,23 @@
   ],
   "bench": [
     {
+      "name": "sujalnegi.github.io",
+      "url": "https://github.com/sujal128005/sujalnegi.github.io",
+      "description": "Portfolio",
+      "language": "JavaScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-18T14:27:03Z",
+      "archived": false
+    },
+    {
       "name": "codeseed",
       "url": "https://github.com/sujal128005/codeseed",
       "description": "",
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-17T16:10:09Z",
+      "pushed_at": "2026-11-18T11:52:15Z",
       "archived": false
     },
     {
@@ -251,16 +261,6 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-11-15T22:46:51Z",
-      "archived": false
-    },
-    {
-      "name": "sujalnegi.github.io",
-      "url": "https://github.com/sujal128005/sujalnegi.github.io",
-      "description": "Portfolio",
-      "language": "JavaScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-11-15T21:07:31Z",
       "archived": false
     },
     {
@@ -315,13 +315,13 @@
     }
   ],
   "calendar": {
-    "total": 323,
-    "commits": 294,
+    "total": 329,
+    "commits": 300,
     "prs": 6,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 0,
+    "streak": 1,
     "longest": 7,
     "days": [
       [
@@ -1794,7 +1794,7 @@
       ],
       [
         "2026-11-18",
-        0
+        6
       ]
     ]
   }
