@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T13:08+05:30",
+  "fetched_at": "2026-11-20T02:17+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -18,14 +18,14 @@
       "forks": 0,
       "issues": 0,
       "language": "JavaScript",
-      "pushed_at": "2026-11-19T06:35:14Z",
+      "pushed_at": "2026-11-19T20:18:36Z",
       "created_at": "2026-09-01T19:13:13Z",
-      "commits": 59,
+      "commits": 81,
       "latest": {
-        "sha": "2e4e5e0",
-        "message": "Add a QR code to the live demo for the Buildathon deck",
-        "date": "2026-11-12T22:19:44Z",
-        "url": "https://github.com/sujal128005/limen/commit/2e4e5e0f30bfd344366eed28ae59bd844783d928"
+        "sha": "8392da4",
+        "message": "Use limen.nexara9.me as the public address",
+        "date": "2026-11-19T20:10:37Z",
+        "url": "https://github.com/sujal128005/limen/commit/8392da4a88b4c3dd4b5de478d8fc708bb2ac9bd9"
       },
       "weekly": [
         3,
@@ -39,13 +39,16 @@
         0,
         0,
         7,
-        9
+        20
       ],
       "languages": {
-        "JavaScript": 2064518,
-        "CSS": 289846,
-        "HTML": 90559,
-        "Solidity": 31577
+        "JavaScript": 2397452,
+        "CSS": 366887,
+        "Python": 355284,
+        "Solidity": 31577,
+        "HTML": 4283,
+        "Shell": 702,
+        "Batchfile": 641
       },
       "topics": []
     },
@@ -105,19 +108,19 @@
     ],
     [
       "JavaScript",
-      2889611
-    ],
-    [
-      "HTML",
-      1891761
+      3222545
     ],
     [
       "Python",
-      1871064
+      2226348
+    ],
+    [
+      "HTML",
+      1805485
     ],
     [
       "CSS",
-      797468
+      874509
     ],
     [
       "Solidity",
@@ -125,7 +128,7 @@
     ],
     [
       "Shell",
-      14508
+      15210
     ],
     [
       "Dockerfile",
@@ -141,7 +144,7 @@
     ],
     [
       "Batchfile",
-      1488
+      2129
     ],
     [
       "Mako",
@@ -154,17 +157,43 @@
   ],
   "recent": [
     {
+      "name": "codeseed",
+      "full": "sujal128005/codeseed",
+      "url": "https://github.com/sujal128005/codeseed",
+      "commits": 48,
+      "latest": {
+        "sha": "b61fd25",
+        "message": "Update feed",
+        "date": "2026-11-19T20:44:21Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/b61fd253a40de13f1098429c159ecd524970bf93"
+      },
+      "pushed_at": "2026-11-19T20:44:22Z"
+    },
+    {
+      "name": "nexara9",
+      "full": "sujal128005/nexara9",
+      "url": "https://github.com/sujal128005/nexara9",
+      "commits": 40,
+      "latest": {
+        "sha": "6f807d5",
+        "message": "Add nexara9.me/limen short link to Limen",
+        "date": "2026-11-19T20:18:52Z",
+        "url": "https://github.com/sujal128005/nexara9/commit/6f807d53b92415fab000c2bcd5a1e721c86f8ec9"
+      },
+      "pushed_at": "2026-11-19T20:18:54Z"
+    },
+    {
       "name": "limen",
       "full": "sujal128005/limen",
       "url": "https://github.com/sujal128005/limen",
-      "commits": 59,
+      "commits": 81,
       "latest": {
-        "sha": "2e4e5e0",
-        "message": "Add a QR code to the live demo for the Buildathon deck",
-        "date": "2026-11-12T22:19:44Z",
-        "url": "https://github.com/sujal128005/limen/commit/2e4e5e0f30bfd344366eed28ae59bd844783d928"
+        "sha": "8392da4",
+        "message": "Use limen.nexara9.me as the public address",
+        "date": "2026-11-19T20:10:37Z",
+        "url": "https://github.com/sujal128005/limen/commit/8392da4a88b4c3dd4b5de478d8fc708bb2ac9bd9"
       },
-      "pushed_at": "2026-11-19T06:35:14Z"
+      "pushed_at": "2026-11-19T20:18:36Z"
     },
     {
       "name": "sujalnegi.github.io",
@@ -178,32 +207,6 @@
         "url": "https://github.com/sujal128005/sujalnegi.github.io/commit/f074c4e48e9e27fad35180c21d29719417c75ec7"
       },
       "pushed_at": "2026-11-18T14:27:03Z"
-    },
-    {
-      "name": "codeseed",
-      "full": "sujal128005/codeseed",
-      "url": "https://github.com/sujal128005/codeseed",
-      "commits": 46,
-      "latest": {
-        "sha": "ab442d5",
-        "message": "Update feed",
-        "date": "2026-11-18T11:52:14Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/ab442d56b07c238262aabd06974c496dc9fc9d3d"
-      },
-      "pushed_at": "2026-11-18T11:52:15Z"
-    },
-    {
-      "name": "nexara9",
-      "full": "sujal128005/nexara9",
-      "url": "https://github.com/sujal128005/nexara9",
-      "commits": 39,
-      "latest": {
-        "sha": "2c2563e",
-        "message": "Add Nexara9 LinkedIn company page link",
-        "date": "2026-11-15T22:46:49Z",
-        "url": "https://github.com/sujal128005/nexara9/commit/2c2563ef738d841719504a8618fad5f1c473c249"
-      },
-      "pushed_at": "2026-11-15T22:46:51Z"
     },
     {
       "name": "FlexDrop",
@@ -234,23 +237,13 @@
   ],
   "bench": [
     {
-      "name": "sujalnegi.github.io",
-      "url": "https://github.com/sujal128005/sujalnegi.github.io",
-      "description": "Portfolio",
-      "language": "JavaScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-11-18T14:27:03Z",
-      "archived": false
-    },
-    {
       "name": "codeseed",
       "url": "https://github.com/sujal128005/codeseed",
       "description": "",
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-18T11:52:15Z",
+      "pushed_at": "2026-11-19T20:44:22Z",
       "archived": false
     },
     {
@@ -260,7 +253,17 @@
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-15T22:46:51Z",
+      "pushed_at": "2026-11-19T20:18:54Z",
+      "archived": false
+    },
+    {
+      "name": "sujalnegi.github.io",
+      "url": "https://github.com/sujal128005/sujalnegi.github.io",
+      "description": "Portfolio",
+      "language": "JavaScript",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-18T14:27:03Z",
       "archived": false
     },
     {
@@ -315,14 +318,14 @@
     }
   ],
   "calendar": {
-    "total": 329,
-    "commits": 300,
-    "prs": 6,
+    "total": 411,
+    "commits": 381,
+    "prs": 7,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 1,
-    "longest": 7,
+    "streak": 2,
+    "longest": 8,
     "days": [
       [
         "2025-11-16",
@@ -1410,7 +1413,7 @@
       ],
       [
         "2026-08-14",
-        3
+        4
       ],
       [
         "2026-08-15",
@@ -1430,7 +1433,7 @@
       ],
       [
         "2026-08-19",
-        1
+        2
       ],
       [
         "2026-08-20",
@@ -1486,19 +1489,19 @@
       ],
       [
         "2026-09-02",
-        2
+        4
       ],
       [
         "2026-09-03",
-        7
+        14
       ],
       [
         "2026-09-04",
-        1
+        2
       ],
       [
         "2026-09-05",
-        4
+        8
       ],
       [
         "2026-09-06",
@@ -1542,7 +1545,7 @@
       ],
       [
         "2026-09-16",
-        3
+        6
       ],
       [
         "2026-09-17",
@@ -1550,7 +1553,7 @@
       ],
       [
         "2026-09-18",
-        5
+        10
       ],
       [
         "2026-09-19",
@@ -1582,7 +1585,7 @@
       ],
       [
         "2026-09-26",
-        0
+        1
       ],
       [
         "2026-09-27",
@@ -1602,7 +1605,7 @@
       ],
       [
         "2026-10-01",
-        1
+        6
       ],
       [
         "2026-10-02",
@@ -1610,7 +1613,7 @@
       ],
       [
         "2026-10-03",
-        0
+        10
       ],
       [
         "2026-10-04",
@@ -1766,15 +1769,15 @@
       ],
       [
         "2026-11-11",
-        11
+        18
       ],
       [
         "2026-11-12",
-        8
+        10
       ],
       [
         "2026-11-13",
-        9
+        14
       ],
       [
         "2026-11-14",
@@ -1786,7 +1789,7 @@
       ],
       [
         "2026-11-16",
-        0
+        2
       ],
       [
         "2026-11-17",
@@ -1794,11 +1797,11 @@
       ],
       [
         "2026-11-18",
-        6
+        18
       ],
       [
         "2026-11-19",
-        0
+        14
       ]
     ]
   }
