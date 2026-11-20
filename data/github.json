@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T02:17+05:30",
+  "fetched_at": "2026-11-20T12:59+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -18,35 +18,35 @@
       "forks": 0,
       "issues": 0,
       "language": "JavaScript",
-      "pushed_at": "2026-11-19T20:18:36Z",
+      "pushed_at": "2026-11-19T23:24:27Z",
       "created_at": "2026-09-01T19:13:13Z",
-      "commits": 81,
+      "commits": 84,
       "latest": {
-        "sha": "8392da4",
-        "message": "Use limen.nexara9.me as the public address",
-        "date": "2026-11-19T20:10:37Z",
-        "url": "https://github.com/sujal128005/limen/commit/8392da4a88b4c3dd4b5de478d8fc708bb2ac9bd9"
+        "sha": "5bcb115",
+        "message": "New home hero: copy beside the product, purchase titles refresh",
+        "date": "2026-11-19T23:24:25Z",
+        "url": "https://github.com/sujal128005/limen/commit/5bcb115a565b99b6096d749d21f572ae15571afc"
       },
       "weekly": [
-        3,
-        11,
+        10,
+        4,
         6,
         5,
-        1,
-        15,
+        6,
+        10,
         0,
         0,
         0,
         0,
-        7,
-        20
+        14,
+        27
       ],
       "languages": {
-        "JavaScript": 2397452,
-        "CSS": 366887,
+        "JavaScript": 2409855,
+        "CSS": 368948,
         "Python": 355284,
         "Solidity": 31577,
-        "HTML": 4283,
+        "HTML": 4255,
         "Shell": 702,
         "Batchfile": 641
       },
@@ -108,7 +108,7 @@
     ],
     [
       "JavaScript",
-      3222545
+      3234940
     ],
     [
       "Python",
@@ -116,11 +116,11 @@
     ],
     [
       "HTML",
-      1805485
+      1805989
     ],
     [
       "CSS",
-      874509
+      876570
     ],
     [
       "Solidity",
@@ -157,6 +157,32 @@
   ],
   "recent": [
     {
+      "name": "nexara9",
+      "full": "sujal128005/nexara9",
+      "url": "https://github.com/sujal128005/nexara9",
+      "commits": 41,
+      "latest": {
+        "sha": "462c83c",
+        "message": "Use hello@nexara9.me as the contact email",
+        "date": "2026-11-20T00:19:19Z",
+        "url": "https://github.com/sujal128005/nexara9/commit/462c83cfcf50288bf364902c27731afe87b6fff4"
+      },
+      "pushed_at": "2026-11-20T00:19:21Z"
+    },
+    {
+      "name": "limen",
+      "full": "sujal128005/limen",
+      "url": "https://github.com/sujal128005/limen",
+      "commits": 84,
+      "latest": {
+        "sha": "5bcb115",
+        "message": "New home hero: copy beside the product, purchase titles refresh",
+        "date": "2026-11-19T23:24:25Z",
+        "url": "https://github.com/sujal128005/limen/commit/5bcb115a565b99b6096d749d21f572ae15571afc"
+      },
+      "pushed_at": "2026-11-19T23:24:27Z"
+    },
+    {
       "name": "codeseed",
       "full": "sujal128005/codeseed",
       "url": "https://github.com/sujal128005/codeseed",
@@ -168,32 +194,6 @@
         "url": "https://github.com/sujal128005/codeseed/commit/b61fd253a40de13f1098429c159ecd524970bf93"
       },
       "pushed_at": "2026-11-19T20:44:22Z"
-    },
-    {
-      "name": "nexara9",
-      "full": "sujal128005/nexara9",
-      "url": "https://github.com/sujal128005/nexara9",
-      "commits": 40,
-      "latest": {
-        "sha": "6f807d5",
-        "message": "Add nexara9.me/limen short link to Limen",
-        "date": "2026-11-19T20:18:52Z",
-        "url": "https://github.com/sujal128005/nexara9/commit/6f807d53b92415fab000c2bcd5a1e721c86f8ec9"
-      },
-      "pushed_at": "2026-11-19T20:18:54Z"
-    },
-    {
-      "name": "limen",
-      "full": "sujal128005/limen",
-      "url": "https://github.com/sujal128005/limen",
-      "commits": 81,
-      "latest": {
-        "sha": "8392da4",
-        "message": "Use limen.nexara9.me as the public address",
-        "date": "2026-11-19T20:10:37Z",
-        "url": "https://github.com/sujal128005/limen/commit/8392da4a88b4c3dd4b5de478d8fc708bb2ac9bd9"
-      },
-      "pushed_at": "2026-11-19T20:18:36Z"
     },
     {
       "name": "sujalnegi.github.io",
@@ -237,6 +237,16 @@
   ],
   "bench": [
     {
+      "name": "nexara9",
+      "url": "https://github.com/sujal128005/nexara9",
+      "description": "Revealing 2027",
+      "language": "HTML",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-20T00:19:21Z",
+      "archived": false
+    },
+    {
       "name": "codeseed",
       "url": "https://github.com/sujal128005/codeseed",
       "description": "",
@@ -244,16 +254,6 @@
       "stars": 0,
       "homepage": "",
       "pushed_at": "2026-11-19T20:44:22Z",
-      "archived": false
-    },
-    {
-      "name": "nexara9",
-      "url": "https://github.com/sujal128005/nexara9",
-      "description": "Revealing 2027",
-      "language": "HTML",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-11-19T20:18:54Z",
       "archived": false
     },
     {
@@ -318,13 +318,13 @@
     }
   ],
   "calendar": {
-    "total": 411,
-    "commits": 381,
+    "total": 415,
+    "commits": 385,
     "prs": 7,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 2,
+    "streak": 3,
     "longest": 8,
     "days": [
       [
@@ -1801,7 +1801,11 @@
       ],
       [
         "2026-11-19",
-        14
+        17
+      ],
+      [
+        "2026-11-20",
+        1
       ]
     ]
   }
