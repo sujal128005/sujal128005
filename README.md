@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=06a98473" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=eb3fb77c" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,10 +90,10 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`a53b9b4`](https://github.com/sujal128005/codeseed/commit/a53b9b4ffdeecd6d3ad0d21af08de37544f09441) Update feed | 7 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`e74267b`](https://github.com/sujal128005/codeseed/commit/e74267b8a425275d9ce2b95d29a5be2b367e6687) Update feed | 8 h ago |
 | [**nexara9**](https://github.com/sujal128005/nexara9) | [`462c83c`](https://github.com/sujal128005/nexara9/commit/462c83cfcf50288bf364902c27731afe87b6fff4) Use hello@nexara9.me as the contact email | 4 d ago |
 | [**limen**](https://github.com/sujal128005/limen) | [`5bcb115`](https://github.com/sujal128005/limen/commit/5bcb115a565b99b6096d749d21f572ae15571afc) New home hero: copy beside the product, purchase titles refresh | 4 d ago |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`f074c4e`](https://github.com/sujal128005/sujalnegi.github.io/commit/f074c4e48e9e27fad35180c21d29719417c75ec7) Mechanical résumé: move Limen second and explain its supply-chain work | 5 d ago |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`f074c4e`](https://github.com/sujal128005/sujalnegi.github.io/commit/f074c4e48e9e27fad35180c21d29719417c75ec7) Mechanical résumé: move Limen second and explain its supply-chain work | 6 d ago |
 | [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`e62cb10`](https://github.com/sujal128005/FlexDrop/commit/e62cb10716a3a6ee37f6faceeb1bee938f6a5951) Add MIT License | 9 d ago |
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`783b9bb`](https://github.com/sujal128005/bouncerkya/commit/783b9bb8224a4ff44a92c17a31e5b02487eee8ac) Add MIT License | 9 d ago |
 
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=f9c5140d" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=2b619917" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 24 Nov 2026, 15:35 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 25 Nov 2026, 04:05 IST · rebuilt by GitHub Actions</sub>
 
 </div>
