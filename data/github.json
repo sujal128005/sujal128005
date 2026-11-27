@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-27T03:13+05:30",
+  "fetched_at": "2026-11-27T14:17+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 24,
+    "public_repos": 25,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -28,18 +28,18 @@
         "url": "https://github.com/sujal128005/limen/commit/5bcb115a565b99b6096d749d21f572ae15571afc"
       },
       "weekly": [
-        11,
+        4,
         6,
         5,
-        1,
-        15,
+        6,
+        10,
         0,
         0,
         0,
         0,
-        7,
-        20,
-        14
+        14,
+        27,
+        0
       ],
       "languages": {
         "JavaScript": 2409855,
@@ -104,23 +104,23 @@
   "languages": [
     [
       "TypeScript",
-      4124741
+      4476752
     ],
     [
       "JavaScript",
-      3234940
+      3253782
     ],
     [
       "Python",
-      2226348
+      2229811
     ],
     [
       "HTML",
-      1812387
+      1813484
     ],
     [
       "CSS",
-      876570
+      905217
     ],
     [
       "Solidity",
@@ -131,20 +131,20 @@
       15210
     ],
     [
+      "PowerShell",
+      8147
+    ],
+    [
       "Dockerfile",
       4717
     ],
     [
-      "PowerShell",
-      3212
+      "Batchfile",
+      3921
     ],
     [
       "Haskell",
       2579
-    ],
-    [
-      "Batchfile",
-      2129
     ],
     [
       "Mako",
@@ -157,6 +157,32 @@
   ],
   "recent": [
     {
+      "name": "zenith-desktop",
+      "full": "sujal128005/zenith-desktop",
+      "url": "https://github.com/sujal128005/zenith-desktop",
+      "commits": 1,
+      "latest": {
+        "sha": "b9f271c",
+        "message": "Zenith desktop companion v1.0",
+        "date": "2026-11-27T06:08:31Z",
+        "url": "https://github.com/sujal128005/zenith-desktop/commit/b9f271c9c5cac6a0b4a1c20b681c511e2851a43a"
+      },
+      "pushed_at": "2026-11-27T08:08:32Z"
+    },
+    {
+      "name": "codeseed",
+      "full": "sujal128005/codeseed",
+      "url": "https://github.com/sujal128005/codeseed",
+      "commits": 58,
+      "latest": {
+        "sha": "66aa212",
+        "message": "Update feed",
+        "date": "2026-11-27T01:46:53Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/66aa2128fdc28f3dee36211e85934906369a3858"
+      },
+      "pushed_at": "2026-11-27T01:46:55Z"
+    },
+    {
       "name": "nexara9",
       "full": "sujal128005/nexara9",
       "url": "https://github.com/sujal128005/nexara9",
@@ -168,19 +194,6 @@
         "url": "https://github.com/sujal128005/nexara9/commit/0cef2d16d7be4695643f203c5f29e6e91532d781"
       },
       "pushed_at": "2026-11-26T14:56:31Z"
-    },
-    {
-      "name": "codeseed",
-      "full": "sujal128005/codeseed",
-      "url": "https://github.com/sujal128005/codeseed",
-      "commits": 57,
-      "latest": {
-        "sha": "cb9349b",
-        "message": "Update feed",
-        "date": "2026-11-26T03:38:01Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/cb9349b56e1495bb1718c6bb0e44dc24d5a9fbaa"
-      },
-      "pushed_at": "2026-11-26T03:38:02Z"
     },
     {
       "name": "limen",
@@ -220,30 +233,17 @@
         "url": "https://github.com/sujal128005/FlexDrop/commit/e62cb10716a3a6ee37f6faceeb1bee938f6a5951"
       },
       "pushed_at": "2026-11-15T09:18:44Z"
-    },
-    {
-      "name": "bouncerkya",
-      "full": "sujal128005/bouncerkya",
-      "url": "https://github.com/sujal128005/bouncerkya",
-      "commits": 12,
-      "latest": {
-        "sha": "783b9bb",
-        "message": "Add MIT License",
-        "date": "2026-11-15T09:16:31Z",
-        "url": "https://github.com/sujal128005/bouncerkya/commit/783b9bb8224a4ff44a92c17a31e5b02487eee8ac"
-      },
-      "pushed_at": "2026-11-15T09:18:43Z"
     }
   ],
   "bench": [
     {
-      "name": "nexara9",
-      "url": "https://github.com/sujal128005/nexara9",
-      "description": "Revealing 2027",
-      "language": "HTML",
+      "name": "zenith-desktop",
+      "url": "https://github.com/sujal128005/zenith-desktop",
+      "description": "",
+      "language": "TypeScript",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-26T14:56:31Z",
+      "pushed_at": "2026-11-27T08:08:32Z",
       "archived": false
     },
     {
@@ -253,7 +253,17 @@
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-26T03:38:02Z",
+      "pushed_at": "2026-11-27T01:46:55Z",
+      "archived": false
+    },
+    {
+      "name": "nexara9",
+      "url": "https://github.com/sujal128005/nexara9",
+      "description": "Revealing 2027",
+      "language": "HTML",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-26T14:56:31Z",
       "archived": false
     },
     {
@@ -305,26 +315,16 @@
       "homepage": "",
       "pushed_at": "2026-11-15T09:18:39Z",
       "archived": false
-    },
-    {
-      "name": "Project-Udaan",
-      "url": "https://github.com/sujal128005/Project-Udaan",
-      "description": "",
-      "language": "HTML",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-11-15T09:18:35Z",
-      "archived": false
     }
   ],
   "calendar": {
-    "total": 417,
+    "total": 418,
     "commits": 387,
     "prs": 7,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 1,
+    "streak": 2,
     "longest": 8,
     "days": [
       [
@@ -1802,6 +1802,10 @@
       [
         "2026-11-26",
         2
+      ],
+      [
+        "2026-11-27",
+        1
       ]
     ]
   }
