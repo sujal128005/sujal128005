@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=80bd7772" alt="Live GitHub telemetry" width="100%"/></a>
+<a href="https://github.com/sujal128005?tab=repositories"><img src="./assets/generated/telemetry.svg?v=d21ba409" alt="Live GitHub telemetry" width="100%"/></a>
 
 </div>
 
@@ -90,16 +90,15 @@
 
 | Repo | Latest commit | When |
 |:--|:--|--:|
-| [**zenith-desktop**](https://github.com/sujal128005/zenith-desktop) | [`b9f271c`](https://github.com/sujal128005/zenith-desktop/commit/b9f271c9c5cac6a0b4a1c20b681c511e2851a43a) Zenith desktop companion v1.0 | 2 h ago |
-| [**codeseed**](https://github.com/sujal128005/codeseed) | [`66aa212`](https://github.com/sujal128005/codeseed/commit/66aa2128fdc28f3dee36211e85934906369a3858) Update feed | 7 h ago |
-| [**nexara9**](https://github.com/sujal128005/nexara9) | [`0cef2d1`](https://github.com/sujal128005/nexara9/commit/0cef2d16d7be4695643f203c5f29e6e91532d781) Use the official Limen mark on the try-limen page | 17 h ago |
+| [**codeseed**](https://github.com/sujal128005/codeseed) | [`dd98bfd`](https://github.com/sujal128005/codeseed/commit/dd98bfd9eb2faedc580f9ed720bb185b56b39d47) Update Instagram and Facebook links | 2 h ago |
+| [**nexara9**](https://github.com/sujal128005/nexara9) | [`0cef2d1`](https://github.com/sujal128005/nexara9/commit/0cef2d16d7be4695643f203c5f29e6e91532d781) Use the official Limen mark on the try-limen page | 1 d ago |
 | [**limen**](https://github.com/sujal128005/limen) | [`5bcb115`](https://github.com/sujal128005/limen/commit/5bcb115a565b99b6096d749d21f572ae15571afc) New home hero: copy beside the product, purchase titles refresh | 7 d ago |
-| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`f074c4e`](https://github.com/sujal128005/sujalnegi.github.io/commit/f074c4e48e9e27fad35180c21d29719417c75ec7) Mechanical résumé: move Limen second and explain its supply-chain work | 8 d ago |
-| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`e62cb10`](https://github.com/sujal128005/FlexDrop/commit/e62cb10716a3a6ee37f6faceeb1bee938f6a5951) Add MIT License | 11 d ago |
+| [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | [`f074c4e`](https://github.com/sujal128005/sujalnegi.github.io/commit/f074c4e48e9e27fad35180c21d29719417c75ec7) Mechanical résumé: move Limen second and explain its supply-chain work | 9 d ago |
+| [**FlexDrop**](https://github.com/sujal128005/FlexDrop) | [`e62cb10`](https://github.com/sujal128005/FlexDrop/commit/e62cb10716a3a6ee37f6faceeb1bee938f6a5951) Add MIT License | 12 d ago |
+| [**bouncerkya**](https://github.com/sujal128005/bouncerkya) | [`783b9bb`](https://github.com/sujal128005/bouncerkya/commit/783b9bb8224a4ff44a92c17a31e5b02487eee8ac) Add MIT License | 12 d ago |
 
 | Also on the bench | What it is | Stack |
 |:--|:--|:--|
-| [**zenith-desktop**](https://github.com/sujal128005/zenith-desktop) | — | TypeScript |
 | [**codeseed**](https://github.com/sujal128005/codeseed) | — | HTML |
 | [**nexara9**](https://github.com/sujal128005/nexara9) | Revealing 2027 | HTML |
 | [**sujalnegi.github.io**](https://github.com/sujal128005/sujalnegi.github.io) | Portfolio | JavaScript |
@@ -107,6 +106,7 @@
 | [**bouncerkya**](https://github.com/sujal128005/bouncerkya) · [live](https://bouncerkya.onrender.com) | Bouncer is a trust gateway for AI-driven checkout. It verifies whether an AI agent’s purchase matches the spending mandate authorized by the user. It detects tampering, expiry, replay attacks, budget violations, category drift, and suspicious changes before payment. Ambiguous requests are escalated to a human. | TypeScript |
 | [**finance_backend**](https://github.com/sujal128005/finance_backend) | — | Python |
 | [**binance-futures-trading-bot**](https://github.com/sujal128005/binance-futures-trading-bot) | A Python-based CLI bot for Binance Futures Testnet with structured logging and modular architecture. | Python |
+| [**Project-Udaan**](https://github.com/sujal128005/Project-Udaan) | — | HTML |
 
 <br/>
 
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=4fd5195f" alt="Let&#x27;s build something." width="100%"/></a>
+<a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/contact.svg?v=ee4bd21b" alt="Let&#x27;s build something." width="100%"/></a>
 
 <a href="mailto:offsujal128005@gmail.com"><img src="./assets/generated/btn-contact-offsujal128005-gmail-com.svg?v=8030e707" alt="offsujal128005@gmail.com" height="44"/></a>
 <a href="https://linkedin.com/in/sujalnegi128005"><img src="./assets/generated/btn-contact-linkedin.svg?v=c78f87ad" alt="LinkedIn" height="44"/></a>
@@ -134,6 +134,6 @@
 
 <br/><br/>
 
-<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 27 Nov 2026, 14:17 IST · rebuilt by GitHub Actions</sub>
+<sub>Mirrors <a href="https://sujalnegi.tech">https://sujalnegi.tech</a> · auto-synced 28 Nov 2026, 02:57 IST · rebuilt by GitHub Actions</sub>
 
 </div>

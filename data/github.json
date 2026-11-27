@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-27T14:17+05:30",
+  "fetched_at": "2026-11-28T02:57+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
-    "public_repos": 25,
+    "public_repos": 24,
     "created_at": "2024-02-26T22:50:28Z"
   },
   "stars": 0,
@@ -104,23 +104,23 @@
   "languages": [
     [
       "TypeScript",
-      4476752
+      4124741
     ],
     [
       "JavaScript",
-      3253782
+      3234863
     ],
     [
       "Python",
-      2229811
+      2226348
     ],
     [
       "HTML",
-      1813484
+      1792421
     ],
     [
       "CSS",
-      905217
+      884875
     ],
     [
       "Solidity",
@@ -131,20 +131,20 @@
       15210
     ],
     [
-      "PowerShell",
-      8147
-    ],
-    [
       "Dockerfile",
       4717
     ],
     [
-      "Batchfile",
-      3921
+      "PowerShell",
+      3212
     ],
     [
       "Haskell",
       2579
+    ],
+    [
+      "Batchfile",
+      2129
     ],
     [
       "Mako",
@@ -157,30 +157,17 @@
   ],
   "recent": [
     {
-      "name": "zenith-desktop",
-      "full": "sujal128005/zenith-desktop",
-      "url": "https://github.com/sujal128005/zenith-desktop",
-      "commits": 1,
-      "latest": {
-        "sha": "b9f271c",
-        "message": "Zenith desktop companion v1.0",
-        "date": "2026-11-27T06:08:31Z",
-        "url": "https://github.com/sujal128005/zenith-desktop/commit/b9f271c9c5cac6a0b4a1c20b681c511e2851a43a"
-      },
-      "pushed_at": "2026-11-27T08:08:32Z"
-    },
-    {
       "name": "codeseed",
       "full": "sujal128005/codeseed",
       "url": "https://github.com/sujal128005/codeseed",
-      "commits": 58,
+      "commits": 62,
       "latest": {
-        "sha": "66aa212",
-        "message": "Update feed",
-        "date": "2026-11-27T01:46:53Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/66aa2128fdc28f3dee36211e85934906369a3858"
+        "sha": "dd98bfd",
+        "message": "Update Instagram and Facebook links",
+        "date": "2026-11-27T18:51:21Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/dd98bfd9eb2faedc580f9ed720bb185b56b39d47"
       },
-      "pushed_at": "2026-11-27T01:46:55Z"
+      "pushed_at": "2026-11-27T18:51:28Z"
     },
     {
       "name": "nexara9",
@@ -233,19 +220,22 @@
         "url": "https://github.com/sujal128005/FlexDrop/commit/e62cb10716a3a6ee37f6faceeb1bee938f6a5951"
       },
       "pushed_at": "2026-11-15T09:18:44Z"
+    },
+    {
+      "name": "bouncerkya",
+      "full": "sujal128005/bouncerkya",
+      "url": "https://github.com/sujal128005/bouncerkya",
+      "commits": 12,
+      "latest": {
+        "sha": "783b9bb",
+        "message": "Add MIT License",
+        "date": "2026-11-15T09:16:31Z",
+        "url": "https://github.com/sujal128005/bouncerkya/commit/783b9bb8224a4ff44a92c17a31e5b02487eee8ac"
+      },
+      "pushed_at": "2026-11-15T09:18:43Z"
     }
   ],
   "bench": [
-    {
-      "name": "zenith-desktop",
-      "url": "https://github.com/sujal128005/zenith-desktop",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 0,
-      "homepage": "",
-      "pushed_at": "2026-11-27T08:08:32Z",
-      "archived": false
-    },
     {
       "name": "codeseed",
       "url": "https://github.com/sujal128005/codeseed",
@@ -253,7 +243,7 @@
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-27T01:46:55Z",
+      "pushed_at": "2026-11-27T18:51:28Z",
       "archived": false
     },
     {
@@ -315,11 +305,21 @@
       "homepage": "",
       "pushed_at": "2026-11-15T09:18:39Z",
       "archived": false
+    },
+    {
+      "name": "Project-Udaan",
+      "url": "https://github.com/sujal128005/Project-Udaan",
+      "description": "",
+      "language": "HTML",
+      "stars": 0,
+      "homepage": "",
+      "pushed_at": "2026-11-15T09:18:35Z",
+      "archived": false
     }
   ],
   "calendar": {
-    "total": 418,
-    "commits": 387,
+    "total": 420,
+    "commits": 390,
     "prs": 7,
     "issues": 0,
     "reviews": 0,
@@ -1805,7 +1805,7 @@
       ],
       [
         "2026-11-27",
-        1
+        3
       ]
     ]
   }
