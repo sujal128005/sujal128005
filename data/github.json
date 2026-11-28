@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T02:57+05:30",
+  "fetched_at": "2026-11-28T13:33+05:30",
   "user": {
     "login": "sujal128005",
     "followers": 2,
@@ -29,8 +29,8 @@
       },
       "weekly": [
         4,
-        6,
-        5,
+        11,
+        0,
         6,
         10,
         0,
@@ -108,7 +108,7 @@
     ],
     [
       "JavaScript",
-      3234863
+      3235101
     ],
     [
       "Python",
@@ -160,14 +160,14 @@
       "name": "codeseed",
       "full": "sujal128005/codeseed",
       "url": "https://github.com/sujal128005/codeseed",
-      "commits": 62,
+      "commits": 64,
       "latest": {
-        "sha": "dd98bfd",
-        "message": "Update Instagram and Facebook links",
-        "date": "2026-11-27T18:51:21Z",
-        "url": "https://github.com/sujal128005/codeseed/commit/dd98bfd9eb2faedc580f9ed720bb185b56b39d47"
+        "sha": "1d4b228",
+        "message": "Update feed",
+        "date": "2026-11-28T07:57:53Z",
+        "url": "https://github.com/sujal128005/codeseed/commit/1d4b228d9ff4af9adea61e0e4ab85531294433c9"
       },
-      "pushed_at": "2026-11-27T18:51:28Z"
+      "pushed_at": "2026-11-28T07:57:54Z"
     },
     {
       "name": "nexara9",
@@ -243,7 +243,7 @@
       "language": "HTML",
       "stars": 0,
       "homepage": "",
-      "pushed_at": "2026-11-27T18:51:28Z",
+      "pushed_at": "2026-11-28T07:57:54Z",
       "archived": false
     },
     {
@@ -318,13 +318,13 @@
     }
   ],
   "calendar": {
-    "total": 420,
-    "commits": 390,
+    "total": 421,
+    "commits": 391,
     "prs": 7,
     "issues": 0,
     "reviews": 0,
     "private": 0,
-    "streak": 2,
+    "streak": 3,
     "longest": 8,
     "days": [
       [
@@ -1806,6 +1806,10 @@
       [
         "2026-11-27",
         3
+      ],
+      [
+        "2026-11-28",
+        1
       ]
     ]
   }
